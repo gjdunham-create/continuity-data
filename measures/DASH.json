@@ -2,29 +2,400 @@
   "id": "DASH",
   "name": "Disabilities of the Arm, Shoulder and Hand",
   "abbreviation": "DASH",
+  "version": "Institute for Work & Health",
   "category": "regionalFunction",
   "icfCode": "d440-d445",
   "icfLabel": "Upper Extremity Function",
   "type": "Self-Report",
-  "description": "30-item self-report questionnaire measuring physical function and symptoms in upper extremity conditions. Lower score = less disability.",
+  "description": "30-item self-report questionnaire measuring physical function and symptoms in upper extremity conditions. Score = [(sum/n) − 1] × 25. Lower score = less disability.",
+  "instructions": "The following questions ask about your symptoms as well as your ability to perform certain activities. Please answer every question, based on your condition in the last week. If you did not have the opportunity to perform an activity in the past week, please make your best estimate of which response would be most accurate.",
   "copyright": "Free to use with attribution (Institute for Work & Health)",
-  "shirleySays": "ICC 0.92–0.96. MDC: 10.8 pts. MCID: 10–15 pts. 30-item questionnaire. Validated in shoulder, rotator cuff, lateral epicondylitis, carpal tunnel, fractures, distal radius. More sensitive to change than QuickDASH in specific conditions.",
+  "shirleySays": "ICC 0.92–0.96. MDC: 10.8 pts. MCID: 10–15 pts. Formula: [(sum/n)−1]×25. Validated in shoulder, rotator cuff, lateral epicondylitis, carpal tunnel, fractures, distal radius. More sensitive to change than QuickDASH in specific conditions.",
   "bodyRegions": ["Upper Extremity", "shoulder", "elbow", "wrist", "hand", "arm", "rotator cuff", "carpal tunnel", "lateral epicondylitis", "distal radius", "finger"],
+  "totalItems": 30,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 5,
+    "maxRawScore": 150
+  },
   "scoring": {
-    "method": "sum",
-    "unit": "points",
+    "method": "dash",
+    "formula": "[(sum of n responses / n) − 1] × 25",
     "minScore": 0,
     "maxScore": 100,
     "range": "0–100 (lower = less disability)",
+    "subscales": ["Disability/Symptom (items 1–30)"],
     "interpretationBands": [
-      { "label": "No disability",        "min": 0,  "max": 10  },
-      { "label": "Mild disability",      "min": 11, "max": 30  },
-      { "label": "Moderate disability",  "min": 31, "max": 60  },
-      { "label": "Severe disability",    "min": 61, "max": 100 }
+      { "label": "No disability",       "min": 0,  "max": 10  },
+      { "label": "Mild disability",     "min": 11, "max": 30  },
+      { "label": "Moderate disability", "min": 31, "max": 60  },
+      { "label": "Severe disability",   "min": 61, "max": 100 }
     ],
     "mcid": 10,
     "mcidNote": "10–15 pts MCID; healthy adult mean ≈10; MDC 10.8 pts",
     "icc": "0.92–0.96",
     "mdc": "10.8 pts"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Hand & Grip",
+      "question": "Open a tight or new jar",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Hand & Grip",
+      "question": "Write",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Hand & Grip",
+      "question": "Turn a key",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Daily Activities",
+      "question": "Prepare a meal",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Daily Activities",
+      "question": "Push open a heavy door",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Overhead Reach",
+      "question": "Place an object on a shelf above your head",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Daily Activities",
+      "question": "Do heavy household chores (e.g., wash walls, wash floors)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Leisure",
+      "question": "Garden or do yard work",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Daily Activities",
+      "question": "Make a bed",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Carrying",
+      "question": "Carry a shopping bag or briefcase",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "Carrying",
+      "question": "Carry a heavy object (over 10 lbs)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "Overhead Reach",
+      "question": "Change a lightbulb overhead",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "Personal Care",
+      "question": "Wash or blow dry your hair",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "Personal Care",
+      "question": "Wash your back",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "Personal Care",
+      "question": "Put on a pullover sweater",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "Hand & Grip",
+      "question": "Use a knife to cut food",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "Leisure",
+      "question": "Recreational activities requiring little effort (e.g., card playing, knitting)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "Leisure",
+      "question": "Recreational activities requiring some force or impact through your arm, shoulder, or hand (e.g., golf, hammering, tennis)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "Leisure",
+      "question": "Recreational activities in which you move your arm freely (e.g., playing frisbee, badminton)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "Daily Activities",
+      "question": "Manage transportation needs (getting from one place to another)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "Personal Life",
+      "question": "Sexual activities",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "Social Life",
+      "question": "During the past week, to what extent has your arm, shoulder, or hand problem interfered with your normal social activities with family, friends, neighbours, or groups?",
+      "options": [
+        { "score": 1, "text": "Not at all" },
+        { "score": 2, "text": "Slightly" },
+        { "score": 3, "text": "Moderately" },
+        { "score": 4, "text": "Quite a bit" },
+        { "score": 5, "text": "Extremely" }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "Work",
+      "question": "During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder, or hand problem?",
+      "options": [
+        { "score": 1, "text": "Not at all limited" },
+        { "score": 2, "text": "Slightly limited" },
+        { "score": 3, "text": "Moderately limited" },
+        { "score": 4, "text": "Quite a bit limited" },
+        { "score": 5, "text": "Extremely limited" }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "Symptoms",
+      "question": "Arm, shoulder, or hand pain",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "Symptoms",
+      "question": "Arm, shoulder, or hand pain when performing any specific activity",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "Symptoms",
+      "question": "Tingling (pins and needles) in your arm, shoulder, or hand",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "Symptoms",
+      "question": "Weakness in your arm, shoulder, or hand",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "Symptoms",
+      "question": "Stiffness in your arm, shoulder, or hand",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "Symptoms",
+      "question": "How much difficulty have you had sleeping because of the pain in your arm, shoulder, or hand?",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "So much difficulty it prevents sleep" }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "Psychological Impact",
+      "question": "I feel less capable, less confident, or less useful because of my arm, shoulder, or hand problem.",
+      "options": [
+        { "score": 1, "text": "Strongly disagree" },
+        { "score": 2, "text": "Disagree" },
+        { "score": 3, "text": "Neither agree nor disagree" },
+        { "score": 4, "text": "Agree" },
+        { "score": 5, "text": "Strongly agree" }
+      ]
+    }
+  ]
 }

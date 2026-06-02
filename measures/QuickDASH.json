@@ -2,17 +2,25 @@
   "id": "QuickDASH",
   "name": "Quick Disabilities of the Arm, Shoulder and Hand",
   "abbreviation": "QuickDASH",
+  "version": "Institute for Work & Health",
   "category": "regionalFunction",
   "icfCode": "d440-d445",
   "icfLabel": "Upper Extremity Function",
   "type": "Self-Report",
-  "description": "11-item abbreviated version of the DASH questionnaire. Strong correlation with full DASH (r=0.97). Lower score = less disability.",
+  "description": "11-item abbreviated version of the DASH questionnaire. Strong correlation with full DASH (r=0.97). Score = [(sum/n) − 1] × 25. Lower score = less disability.",
+  "instructions": "The following questions ask about your symptoms as well as your ability to perform certain activities. Please answer every question, based on your condition in the last week. If you did not have the opportunity to perform an activity in the past week, please make your best estimate of which response would be most accurate.",
   "copyright": "Free to use with attribution (Institute for Work & Health)",
-  "shirleySays": "ICC 0.94. MDC: 15.9 pts. MCID: 15 pts. 11-item abbreviated version of DASH. Strong correlation with full DASH (r=0.97). Better for time-limited clinical settings. Validated in shoulder, rotator cuff, lateral epicondylitis, carpal tunnel, fractures.",
+  "shirleySays": "ICC 0.94. MDC: 15.9 pts. MCID: 15 pts. Formula: [(sum/n)−1]×25. Strong correlation with full DASH (r=0.97). Better for time-limited clinical settings. Validated in shoulder, rotator cuff, lateral epicondylitis, carpal tunnel, fractures. At least 10 of 11 items must be completed for a valid score.",
   "bodyRegions": ["Upper Extremity", "shoulder", "elbow", "wrist", "hand", "arm", "rotator cuff", "carpal tunnel", "lateral epicondylitis", "finger"],
+  "totalItems": 11,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 5,
+    "maxRawScore": 55
+  },
   "scoring": {
-    "method": "sum",
-    "unit": "points",
+    "method": "dash",
+    "formula": "[(sum of n responses / n) − 1] × 25",
     "minScore": 0,
     "maxScore": 100,
     "range": "0–100 (lower = less disability)",
@@ -26,5 +34,139 @@
     "mcidNote": "15-pt MCID; healthy adult mean ≈8; MDC 15.9 pts",
     "icc": "0.94",
     "mdc": "15.9 pts"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Hand & Grip",
+      "question": "Open a tight or new jar",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Daily Activities",
+      "question": "Do heavy household chores (e.g., wash walls, wash floors)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Carrying",
+      "question": "Carry a shopping bag or briefcase",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Personal Care",
+      "question": "Wash your back",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Hand & Grip",
+      "question": "Use a knife to cut food",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Leisure",
+      "question": "Recreational activities requiring some force or impact through your arm, shoulder, or hand (e.g., golf, hammering, tennis)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Leisure",
+      "question": "Recreational activities in which you move your arm freely (e.g., playing frisbee, badminton)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Daily Activities",
+      "question": "Manage transportation needs (getting from one place to another)",
+      "options": [
+        { "score": 1, "text": "No difficulty" },
+        { "score": 2, "text": "Mild difficulty" },
+        { "score": 3, "text": "Moderate difficulty" },
+        { "score": 4, "text": "Severe difficulty" },
+        { "score": 5, "text": "Unable to do" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Social Life",
+      "question": "During the past week, to what extent has your arm, shoulder, or hand problem interfered with your normal social activities with family, friends, neighbours, or groups?",
+      "options": [
+        { "score": 1, "text": "Not at all" },
+        { "score": 2, "text": "Slightly" },
+        { "score": 3, "text": "Moderately" },
+        { "score": 4, "text": "Quite a bit" },
+        { "score": 5, "text": "Extremely" }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Work",
+      "question": "During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder, or hand problem?",
+      "options": [
+        { "score": 1, "text": "Not at all limited" },
+        { "score": 2, "text": "Slightly limited" },
+        { "score": 3, "text": "Moderately limited" },
+        { "score": 4, "text": "Quite a bit limited" },
+        { "score": 5, "text": "Extremely limited" }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "Symptoms",
+      "question": "Arm, shoulder, or hand pain",
+      "options": [
+        { "score": 1, "text": "None" },
+        { "score": 2, "text": "Mild" },
+        { "score": 3, "text": "Moderate" },
+        { "score": 4, "text": "Severe" },
+        { "score": 5, "text": "Extreme" }
+      ]
+    }
+  ]
 }

@@ -6,13 +6,20 @@
   "icfCode": "d450",
   "icfLabel": "Lower Extremity Function",
   "type": "Self-Report",
-  "description": "20-item self-report of functional ability in lower extremity conditions. Higher score = better function.",
-  "copyright": "Free for clinical/research use with attribution",
-  "shirleySays": "ICC 0.94. MDC: 9 pts. MCID: 9 pts. Cronbach α 0.96. Validated in LBP, hip/knee OA, TKA/THA, ACL, ankle fracture, LE amputation. Quick to administer (~2 min).",
+  "description": "20-item self-report of functional ability in lower extremity conditions. Higher score = better function. Quick to administer (~2 min).",
+  "instructions": "We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking treatment. Please provide an answer for each activity.",
+  "copyright": "Free for clinical/research use with attribution (Binkley et al. 1999)",
+  "shirleySays": "ICC 0.94. MDC: 9 pts. MCID: 9 pts. Cronbach α 0.96. Validated in LBP, hip/knee OA, TKA/THA, ACL, ankle fracture, LE amputation. Quick to administer (~2 min). Higher score = better function — opposite direction from most other PROs.",
   "bodyRegions": ["Lower Extremity", "hip", "knee", "ankle", "foot", "leg", "thigh", "calf", "ACL", "amputation"],
+  "totalItems": 20,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 4,
+    "maxRawScore": 80
+  },
   "scoring": {
     "method": "sum",
-    "unit": "points",
+    "formula": "sum of all 20 item scores",
     "minScore": 0,
     "maxScore": 80,
     "range": "0–80 (20 items × 0–4; higher = better function)",
@@ -25,5 +32,247 @@
     "mcidNote": "9-point change is clinically meaningful",
     "icc": "0.94",
     "mdc": "9 pts"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Work / School",
+      "question": "Any of your usual work, housework, or school activities",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Leisure",
+      "question": "Your usual hobbies, recreational, or sporting activities",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Personal Care",
+      "question": "Getting into or out of the bath",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Mobility",
+      "question": "Walking between rooms",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Personal Care",
+      "question": "Putting on your shoes or socks",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Lower Extremity Strength",
+      "question": "Squatting",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Daily Activities",
+      "question": "Lifting an object, like a bag of groceries from the floor",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Daily Activities",
+      "question": "Performing light activities around your home",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Daily Activities",
+      "question": "Performing heavy activities around your home",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Mobility",
+      "question": "Getting into or out of a car",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "Ambulation",
+      "question": "Walking 2 blocks",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "Ambulation",
+      "question": "Walking a mile",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "Stairs",
+      "question": "Going up or down 10 stairs (approximately 1 flight of stairs)",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "Static Endurance",
+      "question": "Standing for 1 hour",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "Static Endurance",
+      "question": "Sitting for 1 hour",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "Sport / Running",
+      "question": "Running on even ground",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "Sport / Running",
+      "question": "Running on uneven ground",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "Sport / Agility",
+      "question": "Making sharp turns while running fast",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "Sport / Agility",
+      "question": "Hopping",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "Mobility",
+      "question": "Rolling over in bed",
+      "options": [
+        { "score": 0, "text": "Extreme difficulty or unable" },
+        { "score": 1, "text": "Quite a bit of difficulty" },
+        { "score": 2, "text": "Moderate difficulty" },
+        { "score": 3, "text": "A little bit of difficulty" },
+        { "score": 4, "text": "No difficulty" }
+      ]
+    }
+  ]
 }

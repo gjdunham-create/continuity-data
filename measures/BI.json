@@ -6,13 +6,19 @@
   "icfCode": "d510-d570",
   "icfLabel": "ADL Independence",
   "type": "Performance / Self-Report / Clinician",
-  "description": "10-item scale measuring functional independence in ADLs (feeding, bathing, grooming, dressing, bowels, bladder, toilet use, transfers, mobility, stairs).",
-  "copyright": "Public Domain (pub. 1965)",
-  "shirleySays": "ICC 0.95–0.99. MDC: 10 pts. MCID: commonly >10 pts clinically. Normed in stroke, SCI, geriatrics, TBI, MS, hip fracture, cardiac rehab. Known floor effect in severe impairment; ceiling effect in mild cases.",
+  "description": "10-item scale measuring functional independence in self-care and mobility ADLs. Each item is scored based on observed or reported performance level. Higher score = greater independence.",
+  "instructions": "Please select the option that best describes your current level of ability for each activity, based on your performance over the past 24–48 hours. Select the highest level you can perform safely and consistently.",
+  "copyright": "Public Domain (Mahoney & Barthel 1965)",
+  "shirleySays": "ICC 0.95–0.99. MDC: 10 pts. MCID: commonly >10 pts. Normed in stroke, SCI, geriatrics, TBI, MS, hip fracture, cardiac rehab. Known floor effect in severe impairment; ceiling effect in mild cases. Score based on actual performance, not capability.",
   "bodyRegions": ["Whole Body", "ADL", "upper extremity", "lower extremity", "neurological", "hip", "knee", "functional independence"],
+  "totalItems": 10,
+  "responseScale": {
+    "type": "ordinal",
+    "maxRawScore": 100
+  },
   "scoring": {
     "method": "sum",
-    "unit": "points",
+    "formula": "sum of all item scores (variable points per item)",
     "minScore": 0,
     "maxScore": 100,
     "range": "0–100 (10 items × 5/10/15 pts)",
@@ -28,5 +34,107 @@
     "mcidNote": ">10-point change commonly accepted as clinically meaningful",
     "icc": "0.95–0.99",
     "mdc": "10 pts"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Feeding",
+      "question": "Feeding (eating from a plate, using utensils, cutting food if needed)",
+      "options": [
+        { "score": 0,  "text": "Unable",       "sublabel": "Dependent — must be fed" },
+        { "score": 5,  "text": "Needs help",   "sublabel": "Help cutting, spreading, etc. but eats independently" },
+        { "score": 10, "text": "Independent",  "sublabel": "Can cut food, manage adaptive devices, eat in reasonable time" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Bathing",
+      "question": "Bathing self (bath or shower)",
+      "options": [
+        { "score": 0, "text": "Dependent",   "sublabel": "Requires assistance" },
+        { "score": 5, "text": "Independent", "sublabel": "Manages all bathing aspects without cues or supervision" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Grooming",
+      "question": "Personal grooming (face, hair, teeth, shaving)",
+      "options": [
+        { "score": 0, "text": "Needs help",  "sublabel": "Requires assistance with grooming tasks" },
+        { "score": 5, "text": "Independent", "sublabel": "Performs all grooming independently; implements provided" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Dressing",
+      "question": "Dressing and undressing (including buttons, zips, laces)",
+      "options": [
+        { "score": 0,  "text": "Dependent",    "sublabel": "Requires full assistance" },
+        { "score": 5,  "text": "Needs help",   "sublabel": "Needs help but does at least half unaided" },
+        { "score": 10, "text": "Independent",  "sublabel": "Manages all clothing including fasteners" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Bowel Control",
+      "question": "Bowel control over the last week",
+      "options": [
+        { "score": 0,  "text": "Incontinent",         "sublabel": "Or needs enema" },
+        { "score": 5,  "text": "Occasional accident", "sublabel": "Maximum once per week" },
+        { "score": 10, "text": "Continent",           "sublabel": "No incontinence episodes" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Bladder Control",
+      "question": "Bladder control over the last week",
+      "options": [
+        { "score": 0,  "text": "Incontinent",         "sublabel": "Or catheterized and unable to manage alone" },
+        { "score": 5,  "text": "Occasional accident", "sublabel": "Maximum once per 24 hours" },
+        { "score": 10, "text": "Continent",           "sublabel": "No incontinence episodes" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Toilet Use",
+      "question": "Toilet use (on/off, managing clothes, wiping)",
+      "options": [
+        { "score": 0,  "text": "Dependent",       "sublabel": "Cannot participate; must be assisted" },
+        { "score": 5,  "text": "Needs some help", "sublabel": "Needs help but can do something alone" },
+        { "score": 10, "text": "Independent",     "sublabel": "Manages all aspects including clothing and hygiene" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Transfers",
+      "question": "Transfers — bed to chair and back",
+      "options": [
+        { "score": 0,  "text": "Unable",      "sublabel": "No sitting balance; total lift required" },
+        { "score": 5,  "text": "Major help",  "sublabel": "One or two people, physical assistance needed; can sit" },
+        { "score": 10, "text": "Minor help",  "sublabel": "Verbal cuing or minor physical assistance only" },
+        { "score": 15, "text": "Independent", "sublabel": "No assistance required" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Mobility",
+      "question": "Mobility on level surfaces (walking or wheelchair, >50 yards)",
+      "options": [
+        { "score": 0,  "text": "Immobile",               "sublabel": "Or covers <50 yards" },
+        { "score": 5,  "text": "Wheelchair independent", "sublabel": "Propels wheelchair independently including corners, >50 yards" },
+        { "score": 10, "text": "Walks with help",        "sublabel": "Walks >50 yards with verbal or physical assistance of one person" },
+        { "score": 15, "text": "Independent",            "sublabel": "Walks >50 yards; may use cane, walker, or orthosis" }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Stairs",
+      "question": "Ascending and descending stairs",
+      "options": [
+        { "score": 0,  "text": "Unable",      "sublabel": "Cannot manage stairs" },
+        { "score": 5,  "text": "Needs help",  "sublabel": "Needs verbal, physical, or equipment assistance" },
+        { "score": 10, "text": "Independent", "sublabel": "Ascends and descends safely; may use handrail or device" }
+      ]
+    }
+  ]
 }
