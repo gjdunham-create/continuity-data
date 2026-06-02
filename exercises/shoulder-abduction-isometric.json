@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0042-4000-8000-100000000042",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Isometric Shoulder Abduction",
+  "instructions": "Stand with arm at side, press back of hand into hip or wall. Push outward without moving arm. Equal force \u2014 pure isometric contraction for deltoid activation.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

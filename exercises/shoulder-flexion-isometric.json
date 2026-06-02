@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0001-4000-8000-100000000001",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Isometric Shoulder Flexion",
+  "instructions": "Stand facing wall, arm at side. Place back of hand against wall. Press gently forward without moving arm. Hold, then relax.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

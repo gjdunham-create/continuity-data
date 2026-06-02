@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0022-4000-8000-100000000022",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Seated Bicep Curl",
+  "instructions": "Seated, hold light band or weight with palm up. Keeping elbow at side, curl forearm toward shoulder. Lower slowly through full range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  }
+}

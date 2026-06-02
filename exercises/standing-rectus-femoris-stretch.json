@@ -1,7 +1,7 @@
 {
   "id": "8B664F58-A237-4651-80C2-09E9088C2AF1",
   "goal": "Stretching",
-  "bodyPart": "Hip Flexor",
+  "bodyPart": "Hip",
   "difficulty": "High",
   "name": "Standing Rectus Femoris Stretch",
   "instructions": "Standing, hold ankle behind you. Pull heel toward glutes keeping knees together.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 45,
     "max": 60
-  }
+  },
+  "movement": "Extension"
 }

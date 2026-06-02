@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0002-4000-8000-100000000002",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Shoulder Forward Raise with Band",
+  "instructions": "Stand on band, hold at thigh. Keeping elbow straight, raise arm forward to shoulder height. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  }
+}

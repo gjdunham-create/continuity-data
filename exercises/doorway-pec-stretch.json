@@ -16,5 +16,6 @@
   "hold": {
     "min": 30,
     "max": 45
-  }
+  },
+  "movement": "Horizontal Abduction"
 }

@@ -1,7 +1,7 @@
 {
   "id": "AD9D4023-C2C8-4AB8-9649-CF8BBCCE3691",
   "goal": "Stretching",
-  "bodyPart": "Hip Flexor",
+  "bodyPart": "Hip",
   "difficulty": "Low",
   "name": "Knee to Chest",
   "instructions": "Lying on back. Pull one knee to chest and hold. Keep opposite leg relaxed.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 20,
     "max": 30
-  }
+  },
+  "movement": "Flexion"
 }

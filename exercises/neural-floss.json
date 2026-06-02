@@ -1,7 +1,7 @@
 {
   "id": "5AAE5A9D-496B-4981-A838-9AF856BFF9E1",
   "goal": "Stretching",
-  "bodyPart": "Hamstring",
+  "bodyPart": "Hip",
   "difficulty": "High",
   "name": "Neural Floss",
   "instructions": "Seated upright, extend knee and dorsiflex ankle simultaneously. Add neck flexion for tension.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 0,
     "max": 0
-  }
+  },
+  "movement": "Flexion"
 }

@@ -16,5 +16,6 @@
   "hold": {
     "min": 45,
     "max": 60
-  }
+  },
+  "movement": "Internal Rotation"
 }

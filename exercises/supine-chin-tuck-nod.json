@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0013-4000-8000-100000000013",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Supine Chin Tuck and Nod",
+  "instructions": "Lying on back, perform a chin tuck. Then gently nod head by lifting only the base of skull off surface (not a full sit-up). Return slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "7DADB1C6-047E-420A-BF82-C86454375F80",
   "goal": "Stretching",
-  "bodyPart": "Calf",
+  "bodyPart": "Ankle",
   "difficulty": "High",
   "name": "Eccentric Heel Drop",
   "instructions": "Stand on step edge, rise on both feet, then lower slowly on one foot through full range.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 0,
     "max": 0
-  }
+  },
+  "movement": "Plantarflexion"
 }

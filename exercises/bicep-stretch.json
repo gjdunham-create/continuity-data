@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0036-4000-8000-100000000036",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Bicep Stretch",
+  "instructions": "Stand facing wall, place palm flat against wall at shoulder height with thumb up. Gently rotate body away until stretch felt along front of arm. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

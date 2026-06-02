@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0038-4000-8000-100000000038",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Tricep Stretch",
+  "instructions": "Raise arm overhead, bend elbow so hand reaches behind neck. Use other hand to gently push elbow further behind head. Feel stretch along back of upper arm.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

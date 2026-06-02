@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0030-4000-8000-100000000030",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Cervical Extension Stretch",
+  "instructions": "Seated tall, gently tilt head back looking toward ceiling. Move only through a comfortable range. Feel stretch along front of neck. Return slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 15,
+    "max": 20
+  }
+}

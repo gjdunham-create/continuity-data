@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0009-4000-8000-100000000009",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Elevation",
+  "difficulty": "High",
+  "name": "Upright Row with Band",
+  "instructions": "Stand on band, hands close together. Pull band straight up along body to chin level, leading with elbows. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  }
+}

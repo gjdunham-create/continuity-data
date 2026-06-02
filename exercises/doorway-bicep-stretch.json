@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0037-4000-8000-100000000037",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Doorway Bicep Stretch",
+  "instructions": "Place palm on doorframe behind you at hip height, thumb pointing up. Keeping arm straight, rotate body forward until stretch felt through bicep and forearm. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

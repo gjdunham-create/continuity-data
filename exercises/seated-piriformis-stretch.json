@@ -1,7 +1,7 @@
 {
   "id": "C26A570E-C0B5-47DE-A06A-5DA8B770A8D3",
   "goal": "Stretching",
-  "bodyPart": "Hip External Rotators",
+  "bodyPart": "Hip",
   "difficulty": "Medium",
   "name": "Seated Piriformis Stretch",
   "instructions": "Seated, cross foot over opposite knee. Sit tall and lean gently forward from hips.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 30,
     "max": 45
-  }
+  },
+  "movement": "External Rotation"
 }

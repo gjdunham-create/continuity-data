@@ -1,7 +1,7 @@
 {
   "id": "BDC915B2-D6FE-43AE-8DC7-971114774B4E",
   "goal": "Stretching",
-  "bodyPart": "Hamstring",
+  "bodyPart": "Hip",
   "difficulty": "Low",
   "name": "Supine Hamstring Stretch",
   "instructions": "Lying on back. Hold behind thigh and gently straighten knee until stretch felt.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 20,
     "max": 30
-  }
+  },
+  "movement": "Flexion"
 }

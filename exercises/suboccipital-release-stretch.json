@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0029-4000-8000-100000000029",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Suboccipital Release",
+  "instructions": "Seated, interlace fingers behind head. Tuck chin and gently apply downward pressure to base of skull. Focus on the junction between skull and first vertebra.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

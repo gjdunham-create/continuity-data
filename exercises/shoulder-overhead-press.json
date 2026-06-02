@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0003-4000-8000-100000000003",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Overhead Press",
+  "instructions": "Stand with band under feet, handles at shoulder height. Press straight overhead through full shoulder flexion range. Control the descent.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  }
+}

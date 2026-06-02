@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0043-4000-8000-100000000043",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Lateral Raise with Band",
+  "instructions": "Stand on band, arm at side. Raise arm out to the side to shoulder height, keeping slight elbow bend. Thumb slightly down (empty can). Lower with control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  }
+}

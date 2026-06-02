@@ -1,7 +1,7 @@
 {
   "id": "1829F600-F27D-4DAE-9896-9D0F631E29A2",
   "goal": "Strengthening",
-  "bodyPart": "Core",
+  "bodyPart": "Hip",
   "difficulty": "Low",
   "name": "Supine Heel Slide",
   "instructions": "Lying on back, brace core gently. Slide one heel along floor away and back.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 0,
     "max": 0
-  }
+  },
+  "movement": "Flexion"
 }

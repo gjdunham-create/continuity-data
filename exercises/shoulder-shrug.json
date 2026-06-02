@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0007-4000-8000-100000000007",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Elevation",
+  "difficulty": "Low",
+  "name": "Shoulder Shrug",
+  "instructions": "Stand with arms at sides. Elevate both shoulders straight up toward ears, hold briefly, then slowly lower. Focus on upper trapezius.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0041-4000-8000-100000000041",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Shoulder Flexion Overhead Stretch",
+  "instructions": "Seated or standing, reach both arms fully overhead. Clasp hands and reach as high as possible, lengthening through the shoulder joint. Hold at end range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

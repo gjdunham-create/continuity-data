@@ -16,5 +16,6 @@
   "hold": {
     "min": 3,
     "max": 5
-  }
+  },
+  "movement": "Flexion"
 }

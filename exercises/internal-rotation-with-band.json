@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0045-4000-8000-100000000045",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Internal Rotation",
+  "difficulty": "Low",
+  "name": "Internal Rotation with Band",
+  "instructions": "Elbow at side at 90\u00b0, band attached laterally. Rotate forearm inward toward belly keeping upper arm fixed. Return slowly to start.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  }
+}

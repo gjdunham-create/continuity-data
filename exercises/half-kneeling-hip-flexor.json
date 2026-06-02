@@ -1,7 +1,7 @@
 {
   "id": "9FA1ACC6-367D-47CC-9AAB-C855866A9784",
   "goal": "Stretching",
-  "bodyPart": "Hip Flexor",
+  "bodyPart": "Hip",
   "difficulty": "Medium",
   "name": "Half-Kneeling Hip Flexor",
   "instructions": "One knee on pad, opposite foot forward. Shift weight forward until stretch felt in front hip.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 30,
     "max": 45
-  }
+  },
+  "movement": "Extension"
 }

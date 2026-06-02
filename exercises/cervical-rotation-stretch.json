@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0031-4000-8000-100000000031",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Rotation",
+  "difficulty": "Low",
+  "name": "Cervical Rotation Stretch",
+  "instructions": "Seated upright. Slowly rotate head to look over one shoulder through comfortable range. Hold at end range. Return through center and repeat other side.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

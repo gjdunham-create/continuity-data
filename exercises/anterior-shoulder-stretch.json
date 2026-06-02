@@ -1,0 +1,21 @@
+{
+  "id": "A1B2C3D4-0040-4000-8000-100000000040",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Anterior Shoulder Stretch",
+  "instructions": "Stand in doorway or beside wall. Place arm behind body with palm flat against surface. Gently rotate torso forward until stretch felt along front of shoulder and chest.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

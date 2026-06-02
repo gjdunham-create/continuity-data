@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0008-4000-8000-100000000008",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Elevation",
+  "difficulty": "Medium",
+  "name": "Banded Shoulder Elevation",
+  "instructions": "Stand on band, handles at sides. Shrug shoulders up toward ears against band resistance. Pause at top and slowly lower.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  }
+}

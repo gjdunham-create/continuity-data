@@ -1,0 +1,17 @@
+{
+  "id": "A1B2C3D4-0025-4000-8000-100000000025",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Tricep Kickback",
+  "instructions": "Hinge forward at hips with support. Hold band or weight, elbow at 90\u00b0 at side. Straighten elbow behind you and slowly return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  }
+}

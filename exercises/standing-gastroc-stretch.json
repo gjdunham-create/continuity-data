@@ -1,7 +1,7 @@
 {
   "id": "A41F478E-73D2-4A58-9716-DAD98B40D805",
   "goal": "Stretching",
-  "bodyPart": "Calf",
+  "bodyPart": "Ankle",
   "difficulty": "Low",
   "name": "Standing Gastroc Stretch",
   "instructions": "Stand at wall, one foot back, heel flat. Lean forward until stretch felt in calf.",
@@ -16,5 +16,6 @@
   "hold": {
     "min": 20,
     "max": 30
-  }
+  },
+  "movement": "Dorsiflexion"
 }
