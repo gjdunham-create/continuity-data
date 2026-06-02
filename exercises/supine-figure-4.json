@@ -1,7 +1,8 @@
 {
   "id": "4EBA2C0B-1A89-44E5-81CE-1C7A6796F717",
   "goal": "Stretching",
-  "bodyPart": "Hip External Rotators",
+  "bodyPart": "Hip",
+  "movement": "External Rotation",
   "difficulty": "Low",
   "name": "Supine Figure-4",
   "instructions": "Lying on back, cross ankle over opposite knee. Gently pull thigh toward chest.",
