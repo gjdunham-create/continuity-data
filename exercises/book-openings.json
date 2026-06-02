@@ -1,0 +1,20 @@
+{
+  "id": "94670228-9B60-4158-92E5-88E114CC5D8F",
+  "goal": "Stretching",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "High",
+  "name": "Book Openings",
+  "instructions": "Side-lying, knees bent. Rotate top arm to opposite side following with eyes, return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

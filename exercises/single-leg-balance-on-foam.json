@@ -1,0 +1,20 @@
+{
+  "id": "E10898E2-ECC2-4121-8B71-7920DAE8E65E",
+  "goal": "Stabilizing",
+  "bodyPart": "Ankle",
+  "difficulty": "High",
+  "name": "Single-Leg Balance on Foam",
+  "instructions": "Balance on one leg on foam or folded mat. Maintain full alignment for set duration.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 1,
+    "max": 1
+  },
+  "hold": {
+    "min": 30,
+    "max": 60
+  }
+}

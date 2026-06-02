@@ -1,0 +1,20 @@
+{
+  "id": "825DB6CB-8F8E-4AF0-900C-E6A3B0AE0B7F",
+  "goal": "Stabilizing",
+  "bodyPart": "Ankle",
+  "difficulty": "Medium",
+  "name": "Single-Leg Balance",
+  "instructions": "Balance on one leg with slight knee bend. Maintain without wobbling or hip drop.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 1,
+    "max": 1
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

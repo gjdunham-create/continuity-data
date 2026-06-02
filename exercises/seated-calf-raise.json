@@ -1,0 +1,20 @@
+{
+  "id": "AA96BAD1-A763-4A5E-B819-8A04984899F8",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "difficulty": "Low",
+  "name": "Seated Calf Raise",
+  "instructions": "Seated with feet flat. Raise both heels and slowly lower.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 15,
+    "max": 20
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

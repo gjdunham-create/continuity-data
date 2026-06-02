@@ -1,0 +1,20 @@
+{
+  "id": "7DADB1C6-047E-420A-BF82-C86454375F80",
+  "goal": "Stretching",
+  "bodyPart": "Calf",
+  "difficulty": "High",
+  "name": "Eccentric Heel Drop",
+  "instructions": "Stand on step edge, rise on both feet, then lower slowly on one foot through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

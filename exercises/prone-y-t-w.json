@@ -1,0 +1,20 @@
+{
+  "id": "28D69214-635F-4159-917A-2CDF2F06F3E2",
+  "goal": "Stabilizing",
+  "bodyPart": "Shoulder",
+  "difficulty": "High",
+  "name": "Prone Y-T-W",
+  "instructions": "Lying face down, raise arms to form Y, T, then W shapes. Focus on shoulder blade control.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

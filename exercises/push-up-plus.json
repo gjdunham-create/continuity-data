@@ -1,0 +1,20 @@
+{
+  "id": "8DF8F537-80BC-4E06-9A9C-1FDDBDD05D96",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "difficulty": "High",
+  "name": "Push-Up Plus",
+  "instructions": "Standard push-up starting position. At top, add protraction by spreading shoulder blades apart.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7AAD9246-D589-488E-8ED3-B0B163EF1CE5",
+  "goal": "Stretching",
+  "bodyPart": "Hip External Rotators",
+  "difficulty": "High",
+  "name": "Pigeon Pose",
+  "instructions": "From kneeling, slide front shin forward and lower hips toward floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 45,
+    "max": 60
+  }
+}

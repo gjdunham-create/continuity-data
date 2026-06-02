@@ -1,0 +1,20 @@
+{
+  "id": "0CA7582D-FCE6-4299-AAAA-3480AD28F8C8",
+  "goal": "Stretching",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "Medium",
+  "name": "Thread the Needle",
+  "instructions": "On all fours, slide one arm under body. Follow with gaze and allow rotation.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

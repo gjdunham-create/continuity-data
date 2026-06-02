@@ -1,0 +1,20 @@
+{
+  "id": "EB1FF79B-9743-4EAD-AA4A-C980FCD2CD6E",
+  "goal": "Strengthening",
+  "bodyPart": "Core",
+  "difficulty": "Medium",
+  "name": "Dead Bug",
+  "instructions": "Lying on back, arms and knees at 90\u00b0. Lower opposite arm and leg without arching back.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

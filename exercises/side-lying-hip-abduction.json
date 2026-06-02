@@ -1,0 +1,20 @@
+{
+  "id": "4FE189CB-6D1A-4800-973E-7453F213BFE7",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "difficulty": "Medium",
+  "name": "Side-Lying Hip Abduction",
+  "instructions": "Side-lying, top leg straight. Lift leg to ~30\u00b0 keeping body in a straight line.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

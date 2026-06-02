@@ -1,0 +1,20 @@
+{
+  "id": "2D9D1E14-670F-4218-ABBE-872AA3B56221",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "difficulty": "High",
+  "name": "Cervical CARS",
+  "instructions": "Seated upright. Perform slow controlled articular rotation of cervical spine through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

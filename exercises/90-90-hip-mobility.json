@@ -1,0 +1,20 @@
+{
+  "id": "1E4F14E9-89DA-4CDA-A444-459D7EA94C65",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "difficulty": "Medium",
+  "name": "90/90 Hip Mobility",
+  "instructions": "Sit in 90/90 position, both knees at 90\u00b0. Shift weight toward back hip, sit tall.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

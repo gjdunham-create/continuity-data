@@ -1,0 +1,20 @@
+{
+  "id": "0AD4E90C-1174-4A74-8C0B-10429C418266",
+  "goal": "Stabilizing",
+  "bodyPart": "Hip",
+  "difficulty": "High",
+  "name": "Single-Leg Hop and Hold",
+  "instructions": "Hop forward on one leg and stick the landing. Hold without wobbling for 2\u20133 seconds.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

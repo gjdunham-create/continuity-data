@@ -1,0 +1,20 @@
+{
+  "id": "FA4F58ED-F620-4CE7-B3D5-D3C3CF2A34E6",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "difficulty": "Medium",
+  "name": "Doorway Pec Stretch",
+  "instructions": "Stand in doorway, arm at 90\u00b0. Gently step forward until stretch felt across chest.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

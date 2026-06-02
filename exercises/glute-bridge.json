@@ -1,0 +1,20 @@
+{
+  "id": "BEDBE9AB-C440-4862-8EE6-8894C80BEB87",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "difficulty": "Medium",
+  "name": "Glute Bridge",
+  "instructions": "Lying on back, feet flat. Drive hips up to form a straight line, squeeze glutes at top.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

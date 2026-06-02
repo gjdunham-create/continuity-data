@@ -1,0 +1,20 @@
+{
+  "id": "D4A764A6-CEE4-4D7A-89EB-F311E2A84566",
+  "goal": "Stretching",
+  "bodyPart": "Hamstring",
+  "difficulty": "Medium",
+  "name": "Standing Hamstring Stretch",
+  "instructions": "Heel on step, stand tall. Hinge forward from hips until stretch felt in back of thigh.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

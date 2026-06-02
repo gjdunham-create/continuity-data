@@ -1,0 +1,20 @@
+{
+  "id": "FF632FBD-0E4D-4E32-84F0-1E47906E5724",
+  "goal": "Stabilizing",
+  "bodyPart": "Core",
+  "difficulty": "Low",
+  "name": "Abdominal Brace",
+  "instructions": "Lying on back. Gently brace core as if about to be poked, breathe normally.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

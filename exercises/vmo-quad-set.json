@@ -1,0 +1,20 @@
+{
+  "id": "66C4B55D-517A-49B3-9BCA-6DC61C246CBE",
+  "goal": "Stabilizing",
+  "bodyPart": "Knee",
+  "difficulty": "Low",
+  "name": "VMO Quad Set",
+  "instructions": "Seated or lying, leg straight. Tighten quad focusing on inner muscle, hold then relax.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

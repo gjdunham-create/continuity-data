@@ -1,0 +1,20 @@
+{
+  "id": "C646F581-C438-46B7-9DF4-59D3158C1E15",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "difficulty": "Medium",
+  "name": "Knee to Wall",
+  "instructions": "Lunge stance, front foot close to wall. Drive knee forward over 4th toe, return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

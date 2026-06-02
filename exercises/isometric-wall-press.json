@@ -1,0 +1,20 @@
+{
+  "id": "39112E46-C6C4-4C19-B4A0-D2355135B9EC",
+  "goal": "Stabilizing",
+  "bodyPart": "Shoulder",
+  "difficulty": "Low",
+  "name": "Isometric Wall Press",
+  "instructions": "Place palm flat against wall at shoulder height. Press gently and hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

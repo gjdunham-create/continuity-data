@@ -1,0 +1,20 @@
+{
+  "id": "E56C9632-B79E-4696-8E05-16E9E9ACB2DA",
+  "goal": "Stretching",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "Low",
+  "name": "Foam Roller Extension",
+  "instructions": "Place foam roller perpendicular under mid-back. Allow gentle extension over the roller.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5F83F53C-1761-4FF3-8169-8058AF755FE5",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "difficulty": "Medium",
+  "name": "Shoulder Pulley",
+  "instructions": "Use overhead pulley. Assist affected arm toward full elevation with uninvolved arm.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

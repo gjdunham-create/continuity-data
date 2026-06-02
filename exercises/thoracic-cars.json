@@ -1,0 +1,20 @@
+{
+  "id": "CFE2C792-BB6B-46FE-B4D3-97B674893BC0",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "High",
+  "name": "Thoracic CARS",
+  "instructions": "Seated upright. Perform slow controlled articular rotation of thoracic spine through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

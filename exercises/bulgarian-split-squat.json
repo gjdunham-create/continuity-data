@@ -1,0 +1,20 @@
+{
+  "id": "EE85E631-0C51-4E49-BE9C-05B5BCEFA207",
+  "goal": "Strengthening",
+  "bodyPart": "Knee",
+  "difficulty": "High",
+  "name": "Bulgarian Split Squat",
+  "instructions": "Rear foot elevated on bench behind you. Lower front knee toward floor then return.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

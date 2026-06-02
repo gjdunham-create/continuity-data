@@ -1,0 +1,20 @@
+{
+  "id": "7DC34398-3617-4E93-A9F5-439EAC7DEC40",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "difficulty": "High",
+  "name": "Banded Ankle Distraction",
+  "instructions": "Band around ankle from behind. Drive knee forward into dorsiflexion through full range.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

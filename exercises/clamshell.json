@@ -1,0 +1,20 @@
+{
+  "id": "3ADF97C6-509E-4C41-ABC4-E29A7B920E2B",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "difficulty": "Low",
+  "name": "Clamshell",
+  "instructions": "Side-lying, knees bent. Keep feet stacked and rotate top knee toward ceiling.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 15,
+    "max": 20
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

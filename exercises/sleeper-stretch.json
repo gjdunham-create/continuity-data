@@ -1,0 +1,20 @@
+{
+  "id": "C8DC7168-BEAA-4AFE-B9E8-2A51344052CE",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "difficulty": "High",
+  "name": "Sleeper Stretch",
+  "instructions": "Side-lying on affected shoulder, elbow at 90\u00b0. Gently press forearm toward floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 45,
+    "max": 60
+  }
+}

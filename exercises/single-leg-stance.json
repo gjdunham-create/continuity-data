@@ -1,0 +1,20 @@
+{
+  "id": "6CFAC192-D91C-468B-A655-FBE693D43102",
+  "goal": "Stabilizing",
+  "bodyPart": "Knee",
+  "difficulty": "Medium",
+  "name": "Single-Leg Stance",
+  "instructions": "Stand on one leg with slight knee bend. Maintain steady posture without trunk sway.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 1,
+    "max": 1
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

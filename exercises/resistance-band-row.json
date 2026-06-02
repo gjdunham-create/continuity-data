@@ -1,0 +1,20 @@
+{
+  "id": "A097C97D-2B4A-437F-9BB0-679DD6EFFAED",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "difficulty": "Medium",
+  "name": "Resistance Band Row",
+  "instructions": "Hinge slightly forward. Pull band to hip squeezing shoulder blade back and down.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

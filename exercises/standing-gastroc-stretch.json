@@ -1,0 +1,20 @@
+{
+  "id": "A41F478E-73D2-4A58-9716-DAD98B40D805",
+  "goal": "Stretching",
+  "bodyPart": "Calf",
+  "difficulty": "Low",
+  "name": "Standing Gastroc Stretch",
+  "instructions": "Stand at wall, one foot back, heel flat. Lean forward until stretch felt in calf.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

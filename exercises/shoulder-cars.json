@@ -1,0 +1,20 @@
+{
+  "id": "1039AE9E-126C-42DF-8F78-749557F53A73",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "difficulty": "High",
+  "name": "Shoulder CARS",
+  "instructions": "Stand upright. Perform slow full shoulder circumduction keeping scapula controlled.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

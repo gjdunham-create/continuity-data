@@ -1,0 +1,20 @@
+{
+  "id": "C966044E-6491-4A25-9FA5-A2DCCA78727E",
+  "goal": "Stabilizing",
+  "bodyPart": "Core",
+  "difficulty": "High",
+  "name": "Copenhagen Plank",
+  "instructions": "Side plank with top foot on bench. Hold body straight without hip drop.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 1,
+    "max": 1
+  },
+  "hold": {
+    "min": 15,
+    "max": 25
+  }
+}

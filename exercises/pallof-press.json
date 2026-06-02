@@ -1,0 +1,20 @@
+{
+  "id": "794B28A3-6AC7-477B-98EF-826BD4C42CA1",
+  "goal": "Stabilizing",
+  "bodyPart": "Core",
+  "difficulty": "Medium",
+  "name": "Pallof Press",
+  "instructions": "Stand sideways to band anchor. Press band away from chest resisting trunk rotation.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

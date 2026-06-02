@@ -1,0 +1,20 @@
+{
+  "id": "5238B343-BCB4-4195-9789-712AE59FF98B",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "difficulty": "Low",
+  "name": "Chin Tuck",
+  "instructions": "Sitting tall. Draw chin straight back (retraction) without tilting head, hold briefly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

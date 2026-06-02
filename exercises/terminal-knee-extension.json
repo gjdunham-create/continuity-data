@@ -1,0 +1,20 @@
+{
+  "id": "61046910-D870-4F87-82AB-6E4441DCC261",
+  "goal": "Strengthening",
+  "bodyPart": "Knee",
+  "difficulty": "Low",
+  "name": "Terminal Knee Extension",
+  "instructions": "Tie band behind knee facing anchor point. Straighten knee against resistance, keeping hip neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

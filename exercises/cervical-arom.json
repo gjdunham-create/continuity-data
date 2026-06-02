@@ -1,0 +1,20 @@
+{
+  "id": "039434AC-8F7F-4D5C-AB72-01C13D2B0F17",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "difficulty": "Medium",
+  "name": "Cervical AROM",
+  "instructions": "Seated upright. Move slowly through flexion, extension, rotation, and side bending.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

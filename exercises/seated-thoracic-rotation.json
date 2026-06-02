@@ -1,0 +1,20 @@
+{
+  "id": "C35DC945-51B1-4780-A2A5-0AE85FF62224",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "Medium",
+  "name": "Seated Thoracic Rotation",
+  "instructions": "Seated with arms crossed. Rotate trunk side to side through comfortable range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

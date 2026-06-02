@@ -1,0 +1,20 @@
+{
+  "id": "0652AB72-AB76-4768-8CA1-28BE1F5DE78E",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "difficulty": "High",
+  "name": "Single-Leg Calf Raise",
+  "instructions": "Stand on one foot at step edge. Lower heel fully and raise to toes with control.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

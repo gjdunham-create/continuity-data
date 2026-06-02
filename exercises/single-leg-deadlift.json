@@ -1,0 +1,20 @@
+{
+  "id": "F60352F6-4783-466C-89EE-05A65B464F25",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "difficulty": "High",
+  "name": "Single-Leg Deadlift",
+  "instructions": "Stand on one leg. Hinge at hips reaching opposite hand toward floor, return.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

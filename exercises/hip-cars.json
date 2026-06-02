@@ -1,0 +1,20 @@
+{
+  "id": "8571895E-4C4B-4D91-9508-9EE71CE04A27",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "difficulty": "High",
+  "name": "Hip CARS",
+  "instructions": "Stand on one leg. Draw large controlled circles with opposite hip through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

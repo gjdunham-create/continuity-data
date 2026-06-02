@@ -1,0 +1,20 @@
+{
+  "id": "4F3471A9-0CA3-4AA7-92A1-CD589A95A5CC",
+  "goal": "Stabilizing",
+  "bodyPart": "Hip",
+  "difficulty": "Low",
+  "name": "Hip Hinge Practice",
+  "instructions": "Stand, feet hip-width. Hinge at hips keeping neutral spine, feel stretch in hamstrings.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

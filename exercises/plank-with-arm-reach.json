@@ -1,0 +1,20 @@
+{
+  "id": "17C18945-469A-4334-97A5-8EA4A54166C8",
+  "goal": "Strengthening",
+  "bodyPart": "Core",
+  "difficulty": "High",
+  "name": "Plank with Arm Reach",
+  "instructions": "Hold plank position. Lift one arm forward while maintaining level hips.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 6,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

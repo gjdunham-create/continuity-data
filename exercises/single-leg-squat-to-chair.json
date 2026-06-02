@@ -1,0 +1,20 @@
+{
+  "id": "B0A1BD8E-59A0-4BD8-8159-EF74377FC74A",
+  "goal": "Stabilizing",
+  "bodyPart": "Knee",
+  "difficulty": "High",
+  "name": "Single-Leg Squat to Chair",
+  "instructions": "Stand on one leg in front of chair. Slowly lower until barely touching chair, return.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

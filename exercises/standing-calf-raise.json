@@ -1,0 +1,20 @@
+{
+  "id": "84B5DF0E-8D37-417F-A0DD-83D768A8CA5F",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "difficulty": "Medium",
+  "name": "Standing Calf Raise",
+  "instructions": "Stand at step edge, heels hanging. Lower heels below step level then raise to toes.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

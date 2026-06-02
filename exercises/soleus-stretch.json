@@ -1,0 +1,20 @@
+{
+  "id": "3B562C8C-BF66-454C-B54C-008A140F3991",
+  "goal": "Stretching",
+  "bodyPart": "Calf",
+  "difficulty": "Medium",
+  "name": "Soleus Stretch",
+  "instructions": "Same as gastroc but bend the back knee slightly to target the soleus.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

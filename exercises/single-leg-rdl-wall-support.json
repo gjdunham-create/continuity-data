@@ -1,0 +1,20 @@
+{
+  "id": "A8F117B0-353C-4C5C-BA36-1EEB61A687A8",
+  "goal": "Stabilizing",
+  "bodyPart": "Hip",
+  "difficulty": "Medium",
+  "name": "Single-Leg RDL (Wall Support)",
+  "instructions": "Fingertips on wall for balance. Balance on one leg and hinge forward slowly, return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

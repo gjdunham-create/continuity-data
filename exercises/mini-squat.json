@@ -1,0 +1,20 @@
+{
+  "id": "96D74602-8F5B-42E8-9CF2-4766538713C6",
+  "goal": "Strengthening",
+  "bodyPart": "Knee",
+  "difficulty": "Medium",
+  "name": "Mini Squat",
+  "instructions": "Feet shoulder-width. Squat to ~45\u00b0 keeping knees over toes and weight through heels.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

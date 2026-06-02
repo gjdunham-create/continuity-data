@@ -1,0 +1,20 @@
+{
+  "id": "096B67A4-5345-4191-B514-B70971B371BC",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "difficulty": "Low",
+  "name": "Cross-Body Stretch",
+  "instructions": "Pull one arm across chest with opposite hand. Feel stretch in back of shoulder.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

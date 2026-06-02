@@ -1,0 +1,20 @@
+{
+  "id": "B1E8FDEC-EB4F-4D04-9391-BE9B4BED1836",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "difficulty": "Low",
+  "name": "Ankle Alphabet",
+  "instructions": "Seated, foot off floor. Trace the alphabet with your big toe in both directions.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 1,
+    "max": 2
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

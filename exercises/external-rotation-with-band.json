@@ -1,0 +1,20 @@
+{
+  "id": "03E1B9BB-BDC6-4E2F-84D3-4428E7CA2136",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "difficulty": "Low",
+  "name": "External Rotation with Band",
+  "instructions": "Elbow at side, forearm parallel to floor. Rotate forearm outward against band resistance.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

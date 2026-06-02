@@ -1,0 +1,20 @@
+{
+  "id": "71DCBDDA-2963-483A-A4D3-A89D884060CC",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "difficulty": "Low",
+  "name": "Supine Hip Circles",
+  "instructions": "Lying on back. Draw slow, large circles with your knee exploring full hip range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

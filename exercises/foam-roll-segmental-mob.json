@@ -1,0 +1,20 @@
+{
+  "id": "8E0EF3A4-7A7C-4C11-ACC6-22D0CCE3E1CF",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "difficulty": "Low",
+  "name": "Foam Roll Segmental Mob",
+  "instructions": "Foam roller under mid-back. Shift slowly to each thoracic level, pausing 2\u20133 seconds.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

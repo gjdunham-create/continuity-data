@@ -1,0 +1,20 @@
+{
+  "id": "1D78E1B4-780B-4A5B-A0FF-8727BA148226",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "difficulty": "Low",
+  "name": "Pelvic Tilt",
+  "instructions": "Lying on back, knees bent. Gently flatten lower back against floor and hold.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

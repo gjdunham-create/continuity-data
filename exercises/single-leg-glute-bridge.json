@@ -1,0 +1,20 @@
+{
+  "id": "088F8F9F-8BF2-4618-9F47-F9CB7A1BECB5",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "difficulty": "High",
+  "name": "Single-Leg Glute Bridge",
+  "instructions": "Glute bridge position, one leg extended. Lift hips using only the planted leg.",
+  "sets": {
+    "min": 3,
+    "max": 4
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}
