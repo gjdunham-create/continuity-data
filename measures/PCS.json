@@ -2,29 +2,196 @@
   "id": "PCS",
   "name": "Pain Catastrophizing Scale",
   "abbreviation": "PCS",
+  "version": "Sullivan et al. 1995",
   "category": "screening",
   "icfCode": "pf",
   "icfLabel": "Pain Catastrophizing",
   "type": "Screening",
-  "description": "13-item self-report scale measuring the degree to which people catastrophize about pain. Three subscales: Rumination, Magnification, Helplessness.",
+  "description": "13-item self-report scale measuring the degree to which people catastrophize about pain. Three subscales: Rumination, Magnification, and Helplessness. Higher scores indicate greater catastrophizing.",
+  "instructions": "Everyone experiences painful situations at some point in their lives. Such experiences may include headaches, tooth pain, joint or muscle pain. People are often exposed to situations that may cause pain such as illness, injury, dental procedures, or surgery.\n\nWe are interested in the types of thoughts and feelings that you have when you are in pain. Listed below are thirteen statements describing different thoughts and feelings that may be associated with pain. Using the scale below, please indicate the degree to which you have these thoughts and feelings when you are experiencing pain.",
   "copyright": "Free for clinical/research use (Sullivan et al. 1995)",
-  "shirleySays": "ICC 0.92. Cronbach α 0.87–0.92. MDC: ~9 pts. MCID: ~9 pts. Three subscales: Rumination, Magnification, Helplessness. Validated in chronic pain, LBP, fibromyalgia, CRPS, surgical pre-op, cancer, RA. Strong predictor of pain disability and treatment non-response.",
+  "shirleySays": "ICC 0.92. Cronbach α 0.87–0.92. MDC: ~9 pts. MCID: ~9 pts. Three subscales: Rumination (items 8–11), Magnification (items 6–7, 13), Helplessness (items 1–5, 12). Validated in chronic pain, LBP, fibromyalgia, CRPS, surgical pre-op, cancer, RA. Strong predictor of pain disability and treatment non-response. Score ≥30 = clinically significant; warrants psychosocial referral.",
   "bodyRegions": ["Whole Body", "chronic pain", "lumbar spine", "back", "shoulder", "knee", "psychosocial", "pain catastrophizing"],
+  "totalItems": 13,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 4,
+    "maxRawScore": 52
+  },
   "scoring": {
     "method": "sum",
-    "unit": "points",
+    "formula": "sum of all 13 item scores",
     "minScore": 0,
     "maxScore": 52,
     "range": "0–52 (13 items × 0–4; higher = more catastrophizing)",
+    "subscales": ["Helplessness (items 1–5, 12)", "Magnification (items 6–7, 13)", "Rumination (items 8–11)"],
     "interpretationBands": [
-      { "label": "No concern",                    "min": 0,  "max": 9  },
-      { "label": "Mild catastrophizing",          "min": 10, "max": 19 },
-      { "label": "Moderate catastrophizing",      "min": 20, "max": 29 },
-      { "label": "Clinically significant",        "min": 30, "max": 52 }
+      { "label": "No concern",             "min": 0,  "max": 9  },
+      { "label": "Mild catastrophizing",   "min": 10, "max": 19 },
+      { "label": "Moderate catastrophizing","min": 20, "max": 29 },
+      { "label": "Clinically significant", "min": 30, "max": 52 }
     ],
     "mcid": 9,
     "mcidNote": "~9-point change considered clinically meaningful",
     "icc": "0.92",
     "mdc": "~9 pts"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Helplessness",
+      "question": "I worry all the time about whether the pain will end.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Helplessness",
+      "question": "I feel I can't go on.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Helplessness",
+      "question": "It's terrible and I think it's never going to get any better.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Helplessness",
+      "question": "It's awful and I feel that it overwhelms me.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Helplessness",
+      "question": "I feel I can't stand it anymore.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Magnification",
+      "question": "I become afraid that the pain will get worse.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Magnification",
+      "question": "I keep thinking of other painful events.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Rumination",
+      "question": "I anxiously want the pain to go away.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Rumination",
+      "question": "I can't seem to keep it out of my mind.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Rumination",
+      "question": "I keep thinking about how much it hurts.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "Rumination",
+      "question": "I keep thinking about how badly I want the pain to stop.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "Helplessness",
+      "question": "There's nothing I can do to reduce the intensity of the pain.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "Magnification",
+      "question": "I wonder whether something serious may happen.",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "To a slight degree" },
+        { "score": 2, "text": "To a moderate degree" },
+        { "score": 3, "text": "To a great degree" },
+        { "score": 4, "text": "All the time" }
+      ]
+    }
+  ]
 }
