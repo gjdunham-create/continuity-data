@@ -19,7 +19,7 @@
     { "id": "DGI",        "file": "measures/DGI.json",        "hasQuestions": false },
     { "id": "PHQ-9",      "file": "measures/PHQ-9.json",      "hasQuestions": true  },
     { "id": "GAD-7",      "file": "measures/GAD-7.json",      "hasQuestions": true  },
-    { "id": "TSK-11",     "file": "measures/TSK-11.json",     "hasQuestions": false },
+    { "id": "TSK-11",     "file": "measures/TSK-11.json",     "hasQuestions": true  },
     { "id": "PCS",        "file": "measures/PCS.json",        "hasQuestions": false },
     { "id": "BI",         "file": "measures/BI.json",         "hasQuestions": false },
     { "id": "DASH",       "file": "measures/DASH.json",       "hasQuestions": false },
