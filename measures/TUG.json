@@ -1,0 +1,30 @@
+{
+  "id": "TUG",
+  "name": "Timed Up and Go Test",
+  "abbreviation": "TUG",
+  "category": "objective",
+  "icfCode": "d450",
+  "icfLabel": "Walking",
+  "type": "Performance / Clinician",
+  "description": "Patient rises from a standard arm chair, walks 3 meters, turns, walks back, and sits down. Time in seconds; lower is better.",
+  "copyright": "Public Domain",
+  "shirleySays": "ICC 0.92–0.99 (elderly). MDC: 2.9 s (elderly), 3.5 s (PD). MCID: ~3 s convention. Normative means: 60–69 yr ≈8.1 s; 70–79 yr ≈9.2 s; 80–89 yr ≈11.3 s. Validated in elderly, PD, stroke, TBI, SCI, MS, amputation. Sensitivity/specificity 87% for fall risk in elderly.",
+  "bodyRegions": ["Lower Extremity", "gait", "balance", "fall risk", "hip", "knee", "ankle", "functional mobility", "neurological"],
+  "scoring": {
+    "method": "timed",
+    "unit": "seconds",
+    "lowerIsBetter": true,
+    "minScore": 0,
+    "maxScore": 999,
+    "range": "Time in seconds (lower = better)",
+    "interpretationBands": [
+      { "label": "Normal",           "min": 0,  "max": 9  },
+      { "label": "Borderline",       "min": 10, "max": 19 },
+      { "label": "High fall risk",   "min": 20, "max": 999 }
+    ],
+    "mcid": 3,
+    "mcidNote": "~3 s convention; MDC 2.9 s in community-dwelling elderly",
+    "icc": "0.92–0.99",
+    "mdc": "2.9 s (elderly); 3.5 s (PD)"
+  }
+}

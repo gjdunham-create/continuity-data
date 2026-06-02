@@ -1,0 +1,32 @@
+{
+  "id": "BI",
+  "name": "Barthel Index",
+  "abbreviation": "BI",
+  "category": "regionalFunction",
+  "icfCode": "d510-d570",
+  "icfLabel": "ADL Independence",
+  "type": "Performance / Self-Report / Clinician",
+  "description": "10-item scale measuring functional independence in ADLs (feeding, bathing, grooming, dressing, bowels, bladder, toilet use, transfers, mobility, stairs).",
+  "copyright": "Public Domain (pub. 1965)",
+  "shirleySays": "ICC 0.95–0.99. MDC: 10 pts. MCID: commonly >10 pts clinically. Normed in stroke, SCI, geriatrics, TBI, MS, hip fracture, cardiac rehab. Known floor effect in severe impairment; ceiling effect in mild cases.",
+  "bodyRegions": ["Whole Body", "ADL", "upper extremity", "lower extremity", "neurological", "hip", "knee", "functional independence"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "0–100 (10 items × 5/10/15 pts)",
+    "interpretationBands": [
+      { "label": "Total dependence", "min": 0,  "max": 20  },
+      { "label": "Severe",          "min": 21, "max": 40  },
+      { "label": "Moderate",        "min": 41, "max": 60  },
+      { "label": "Mild",            "min": 61, "max": 90  },
+      { "label": "Slight",          "min": 91, "max": 99  },
+      { "label": "Independent",     "min": 100,"max": 100 }
+    ],
+    "mcid": 10,
+    "mcidNote": ">10-point change commonly accepted as clinically meaningful",
+    "icc": "0.95–0.99",
+    "mdc": "10 pts"
+  }
+}

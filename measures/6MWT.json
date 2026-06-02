@@ -1,0 +1,31 @@
+{
+  "id": "6MWT",
+  "name": "6-Minute Walk Test",
+  "abbreviation": "6MWT",
+  "category": "objective",
+  "icfCode": "d450",
+  "icfLabel": "Walking Endurance",
+  "type": "Performance / Clinician",
+  "description": "Distance walked in 6 minutes on a flat, hard surface. Higher distance is better. Requires 30-meter straight hallway.",
+  "copyright": "Public Domain",
+  "shirleySays": "ICC 0.94–0.99. MDC: 58 m (geriatrics), 36.6 m (chronic stroke), 54 m (COPD). MCID: 54–80 m (COPD); 50 m (geriatrics & stroke). Requires 30-meter straight hallway. Strong correlation with VO₂max (r=0.73).",
+  "bodyRegions": ["Cardiopulmonary", "gait", "lower extremity", "whole body", "endurance", "COPD", "cardiac", "walking endurance"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "meters",
+    "lowerIsBetter": false,
+    "minScore": 0,
+    "maxScore": 1000,
+    "range": "Distance in meters (higher = better)",
+    "interpretationBands": [
+      { "label": "Severely limited",  "min": 0,   "max": 299  },
+      { "label": "Moderately limited","min": 300,  "max": 399  },
+      { "label": "Mildly limited",    "min": 400,  "max": 499  },
+      { "label": "Normal range",      "min": 500,  "max": 1000 }
+    ],
+    "mcid": 54,
+    "mcidNote": "54–80 m (COPD); 50 m (geriatrics & stroke); normative: 60–69 yr M≈572 m, F≈538 m",
+    "icc": "0.94–0.99",
+    "mdc": "58 m (geriatrics); 36.6 m (stroke); 54 m (COPD)"
+  }
+}

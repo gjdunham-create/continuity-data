@@ -1,0 +1,31 @@
+{
+  "id": "FMA",
+  "name": "Fugl-Meyer Assessment",
+  "abbreviation": "FMA",
+  "category": "objective",
+  "icfCode": "b730",
+  "icfLabel": "Motor Recovery (Stroke)",
+  "type": "Performance / Clinician",
+  "description": "Comprehensive clinician-administered scale for post-stroke motor recovery. Separate UE (0–66), LE (0–34), and total motor (0–100) subscores.",
+  "copyright": "Free for non-commercial use (U. Gothenburg); cite Fugl-Meyer 1975",
+  "shirleySays": "ICC 0.97–0.99 (excellent inter-rater). FMA-UE MDC: ~5.2 pts (chronic stroke); MCID: 9–13 pts (acute-subacute). Core measure recommended by Stroke Recovery and Rehabilitation Roundtable for ALL stroke trials. Administration time ~30–35 min for full version.",
+  "bodyRegions": ["Neurological", "stroke", "upper extremity", "lower extremity", "shoulder", "elbow", "wrist", "hand", "hip", "knee", "ankle", "motor recovery"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "UE: 0–66 | LE: 0–34 | Total Motor: 0–100",
+    "interpretationBands": [
+      { "label": "Severe impairment",   "min": 0,  "max": 49  },
+      { "label": "Marked impairment",   "min": 50, "max": 84  },
+      { "label": "Moderate impairment", "min": 85, "max": 95  },
+      { "label": "Mild impairment",     "min": 96, "max": 99  },
+      { "label": "Normal",              "min": 100,"max": 100 }
+    ],
+    "mcid": 9,
+    "mcidNote": "FMA-UE MCID: 9–13 pts (acute-subacute stroke)",
+    "icc": "0.97–0.99",
+    "mdc": "5.2 pts (FMA-UE, chronic stroke)"
+  }
+}

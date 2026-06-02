@@ -1,0 +1,32 @@
+{
+  "id": "SPADI",
+  "name": "Shoulder Pain & Disability Index",
+  "abbreviation": "SPADI",
+  "category": "regionalFunction",
+  "icfCode": "d415-d450",
+  "icfLabel": "Shoulder Function",
+  "type": "Self-Report",
+  "description": "13-item self-report of shoulder pain and disability. Two subscales: Pain (5 items) and Disability (8 items). Higher score = more pain/disability.",
+  "copyright": "Free to use (originally published open access)",
+  "shirleySays": "ICC 0.66–0.95. MDC: 18–20 pts. MCID: 8–13.2 pts. Validated in rotator cuff pathology, shoulder impingement, adhesive capsulitis, shoulder instability, post-surgical shoulder.",
+  "bodyRegions": ["Shoulder", "upper extremity", "rotator cuff", "shoulder impingement", "adhesive capsulitis", "shoulder instability", "acromioclavicular"],
+  "scoring": {
+    "method": "subscale",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "0–100 (higher = more pain/disability)",
+    "subscales": ["Pain", "Disability"],
+    "interpretationBands": [
+      { "label": "No disability",       "min": 0,  "max": 20  },
+      { "label": "Mild disability",     "min": 21, "max": 40  },
+      { "label": "Moderate disability", "min": 41, "max": 60  },
+      { "label": "Severe disability",   "min": 61, "max": 80  },
+      { "label": "Maximum disability",  "min": 81, "max": 100 }
+    ],
+    "mcid": 8,
+    "mcidNote": "8–13.2 pts MCID; MDC 18–20 pts",
+    "icc": "0.66–0.95",
+    "mdc": "18–20 pts"
+  }
+}

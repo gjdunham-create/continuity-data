@@ -1,0 +1,25 @@
+{
+  "id": "Goniometry",
+  "name": "Goniometric ROM",
+  "abbreviation": "Goniometry",
+  "category": "objective",
+  "icfCode": "b710",
+  "icfLabel": "Joint Mobility",
+  "type": "Performance / Clinician",
+  "description": "Clinician-measured joint range of motion using a goniometer, reported in degrees. Compare to contralateral side or published normative values.",
+  "copyright": "Public Domain",
+  "shirleySays": "Intra-rater ICC 0.87–0.99; inter-rater ICC 0.84–0.90 (lower for small joints). SEM ~4–5° for large joints. No universal MCID — context-dependent; ~5–10° common clinical threshold. Inclinometry is superior for spinal ROM.",
+  "bodyRegions": ["Whole Body", "shoulder", "elbow", "wrist", "hand", "finger", "hip", "knee", "ankle", "foot", "toe", "cervical spine", "lumbar spine", "thoracic spine", "neck", "back", "upper extremity", "lower extremity", "range of motion", "mobility"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "degrees",
+    "minScore": 0,
+    "maxScore": 360,
+    "range": "Degrees (joint- and direction-specific)",
+    "interpretationBands": [],
+    "mcid": null,
+    "mcidNote": "~5–10° common clinical threshold; compare to contralateral limb or normative tables (Norkin & White 2009)",
+    "icc": "0.87–0.99 (intra); 0.84–0.90 (inter)",
+    "mdc": "~4–5° for large joints"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "DGI",
+  "name": "Dynamic Gait Index",
+  "abbreviation": "DGI",
+  "category": "objective",
+  "icfCode": "d450",
+  "icfLabel": "Dynamic Gait/Balance",
+  "type": "Performance / Clinician",
+  "description": "8-task gait assessment scored 0–3 each (total 0–24). Tests gait with head turns, obstacle avoidance, stairs, and pivot turns. Admin ~15 min.",
+  "copyright": "Public Domain (pub. 1995)",
+  "shirleySays": "ICC 0.96–0.98. MDC: 2.9 pts (stroke), ~4 pts (vestibular). MCID: 1.97 pts (PD). Better ceiling than BBS for higher-functioning patients. Admin time ~15 min.",
+  "bodyRegions": ["Gait & Balance", "lower extremity", "vestibular", "fall risk", "hip", "knee", "ankle", "functional mobility", "neurological"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 24,
+    "range": "0–24 (8 tasks, 0–3 each)",
+    "interpretationBands": [
+      { "label": "Increased fall risk",        "min": 0,  "max": 18 },
+      { "label": "Safe community ambulation",  "min": 19, "max": 24 }
+    ],
+    "mcid": 1.97,
+    "mcidNote": "1.97 pts (PD); cut-off <19 = fall risk in community-dwelling elderly",
+    "icc": "0.96–0.98",
+    "mdc": "2.9 pts (stroke); ~4 pts (vestibular)"
+  }
+}

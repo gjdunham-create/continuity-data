@@ -1,0 +1,30 @@
+{
+  "id": "VAS",
+  "name": "Visual Analog Scale",
+  "abbreviation": "VAS",
+  "category": "objective",
+  "icfCode": "b280",
+  "icfLabel": "Pain",
+  "type": "Self-Report",
+  "description": "100 mm horizontal line anchored at 'no pain' (0) and 'worst pain imaginable' (100 mm). Patient marks their pain level.",
+  "copyright": "Public Domain",
+  "shirleySays": "MDC: ~11 mm. MCID: 9–11 mm (acute pain); 15 mm (chronic pain). SEM ~7 mm. High responsiveness (SRM 0.8+). Requires pen/paper or digital slider; less reliable with motor/cognitive impairment. Well-normed in oncology, post-op, LBP, neck pain, and fibromyalgia populations.",
+  "bodyRegions": ["Whole Body", "pain", "spine", "shoulder", "elbow", "wrist", "hand", "hip", "knee", "ankle", "foot", "neck", "back", "upper extremity", "lower extremity", "lumbar", "cervical"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "mm",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "0–100 mm",
+    "interpretationBands": [
+      { "label": "No pain",       "min": 0,  "max": 0  },
+      { "label": "Mild pain",     "min": 1,  "max": 30 },
+      { "label": "Moderate pain", "min": 31, "max": 60 },
+      { "label": "Severe pain",   "min": 61, "max": 100 }
+    ],
+    "mcid": 10,
+    "mcidNote": "9–11 mm (acute); 15 mm (chronic pain)",
+    "icc": "0.97",
+    "mdc": "11 mm"
+  }
+}

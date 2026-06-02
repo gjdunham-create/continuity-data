@@ -1,0 +1,31 @@
+{
+  "id": "10MWT",
+  "name": "10-Meter Walk Test",
+  "abbreviation": "10MWT",
+  "category": "objective",
+  "icfCode": "d450",
+  "icfLabel": "Walking Speed",
+  "type": "Performance / Clinician",
+  "description": "Patient walks 10 meters at comfortable pace; gait speed calculated in m/s. Higher is better.",
+  "copyright": "Public Domain",
+  "shirleySays": "ICC 0.95–0.99. MDC: 0.13–0.18 m/s. MCID: 0.10–0.16 m/s (general). Normative mean ~1.4 m/s (healthy adults 20–60 yr). Strong predictor of functional outcomes, fall risk, and mortality. Validated in stroke, SCI, MS, PD, TBI, amputation, geriatrics.",
+  "bodyRegions": ["Gait", "lower extremity", "hip", "knee", "ankle", "walking speed", "neurological", "functional mobility"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "m/s",
+    "lowerIsBetter": false,
+    "minScore": 0,
+    "maxScore": 5,
+    "range": "Gait speed in m/s (higher = better)",
+    "interpretationBands": [
+      { "label": "Household ambulatory",         "min": 0,   "max": 0.4  },
+      { "label": "Limited community ambulatory", "min": 0.4, "max": 0.8  },
+      { "label": "Community ambulatory",         "min": 0.8, "max": 1.0  },
+      { "label": "Normal community speed",       "min": 1.0, "max": 5.0  }
+    ],
+    "mcid": 0.10,
+    "mcidNote": "0.10–0.16 m/s (general); normative mean ~1.4 m/s in healthy adults",
+    "icc": "0.95–0.99",
+    "mdc": "0.13–0.18 m/s"
+  }
+}

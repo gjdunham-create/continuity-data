@@ -1,0 +1,35 @@
+{
+  "id": "GROC",
+  "name": "Global Rating of Change Scale",
+  "abbreviation": "GROC",
+  "category": "regionalFunction",
+  "icfCode": "d4",
+  "icfLabel": "Global Change",
+  "type": "Self-Report",
+  "description": "Patient rates overall change since start of treatment on a ±7 scale (or 1–15). Used as anchor for MCID studies. Multiple versions exist.",
+  "copyright": "Public Domain",
+  "shirleySays": "Used as anchor for MCID studies across virtually all outcome measures. ICC moderate (0.60–0.75) — recall bias is known limitation. Multiple versions (5-, 7-, 11-, 15-point). Recommend use at every reassessment alongside region-specific PROMs.",
+  "bodyRegions": ["Whole Body", "general", "global change"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "points",
+    "minScore": -7,
+    "maxScore": 7,
+    "range": "−7 to +7 (or 1–15; varies by version)",
+    "interpretationBands": [
+      { "label": "Very much worse",   "min": -7, "max": -6 },
+      { "label": "Much worse",        "min": -5, "max": -5 },
+      { "label": "Moderately worse",  "min": -4, "max": -3 },
+      { "label": "Slightly worse",    "min": -2, "max": -1 },
+      { "label": "No change",         "min": 0,  "max": 0  },
+      { "label": "Slightly better",   "min": 1,  "max": 2  },
+      { "label": "Moderately better", "min": 3,  "max": 4  },
+      { "label": "Much better",       "min": 5,  "max": 5  },
+      { "label": "Very much better",  "min": 6,  "max": 7  }
+    ],
+    "mcid": null,
+    "mcidNote": "+1/+2 = slightly better; +3/+4 = moderately better; +5 = much better; +6/+7 = very much better",
+    "icc": "0.60–0.75",
+    "mdc": "not established (recall bias limits interpretation)"
+  }
+}

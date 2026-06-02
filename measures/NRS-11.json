@@ -1,0 +1,31 @@
+{
+  "id": "NRS-11",
+  "name": "Numeric Rating Scale",
+  "abbreviation": "NRS-11",
+  "category": "objective",
+  "icfCode": "b280",
+  "icfLabel": "Pain",
+  "type": "Performance / Clinician",
+  "description": "0–10 numeric scale for patient self-report of pain intensity.",
+  "instructions": "On a scale of 0 to 10, where 0 is no pain and 10 is the worst pain imaginable, how would you rate your pain right now?",
+  "copyright": "Public Domain",
+  "shirleySays": "ICC reliability: 0.96 (excellent). MDC: 2 points. MCID: 2 points (chronic pain, MSK, LBP). Validated across virtually all conditions; widely normed in adult, older adult, pediatric (≥8 yrs), cancer, post-surgical, and ICU populations. Strong correlation with VAS (r=0.94). Watch for integer bias and cognitive load in severe neurological impairment.",
+  "bodyRegions": ["Whole Body", "pain", "spine", "shoulder", "elbow", "wrist", "hand", "hip", "knee", "ankle", "foot", "neck", "back", "upper extremity", "lower extremity", "lumbar", "cervical"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 10,
+    "range": "0–10",
+    "interpretationBands": [
+      { "label": "No pain",       "min": 0, "max": 0 },
+      { "label": "Mild pain",     "min": 1, "max": 3 },
+      { "label": "Moderate pain", "min": 4, "max": 6 },
+      { "label": "Severe pain",   "min": 7, "max": 10 }
+    ],
+    "mcid": 2,
+    "mcidNote": "2-point change is clinically meaningful for chronic pain and MSK conditions",
+    "icc": "0.96",
+    "mdc": "2 points"
+  }
+}

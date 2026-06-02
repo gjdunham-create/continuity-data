@@ -1,0 +1,29 @@
+{
+  "id": "BBS",
+  "name": "Berg Balance Scale",
+  "abbreviation": "BBS",
+  "category": "objective",
+  "icfCode": "d415",
+  "icfLabel": "Balance — Static/Dynamic",
+  "type": "Performance / Clinician",
+  "description": "14-item clinician-rated balance assessment, each scored 0–4. Administration time ~15–20 min.",
+  "copyright": "Public Domain (pub. 1989)",
+  "shirleySays": "ICC 0.97–0.99. MDC: 3.3–8.1 pts (varies). MCID: 5 pts (elderly); 12.5 pts (acute stroke). Age norms: 60–69 yr = 55; 70–79 yr = 54; 80–89 yr = 50. Potential ceiling effect in higher-functioning patients. Admin time ~15–20 min.",
+  "bodyRegions": ["Balance", "lower extremity", "fall risk", "hip", "knee", "ankle", "neurological", "functional mobility"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 56,
+    "range": "0–56 (14 items, 0–4 each)",
+    "interpretationBands": [
+      { "label": "High fall risk",    "min": 0,  "max": 20 },
+      { "label": "Medium fall risk",  "min": 21, "max": 40 },
+      { "label": "Low fall risk",     "min": 41, "max": 56 }
+    ],
+    "mcid": 5,
+    "mcidNote": "5 pts (elderly); 12.5 pts (acute stroke); cut-off <45 = fall risk",
+    "icc": "0.97–0.99",
+    "mdc": "3.3–8.1 pts (varies by population)"
+  }
+}

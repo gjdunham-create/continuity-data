@@ -1,0 +1,30 @@
+{
+  "id": "PCS",
+  "name": "Pain Catastrophizing Scale",
+  "abbreviation": "PCS",
+  "category": "screening",
+  "icfCode": "pf",
+  "icfLabel": "Pain Catastrophizing",
+  "type": "Screening",
+  "description": "13-item self-report scale measuring the degree to which people catastrophize about pain. Three subscales: Rumination, Magnification, Helplessness.",
+  "copyright": "Free for clinical/research use (Sullivan et al. 1995)",
+  "shirleySays": "ICC 0.92. Cronbach α 0.87–0.92. MDC: ~9 pts. MCID: ~9 pts. Three subscales: Rumination, Magnification, Helplessness. Validated in chronic pain, LBP, fibromyalgia, CRPS, surgical pre-op, cancer, RA. Strong predictor of pain disability and treatment non-response.",
+  "bodyRegions": ["Whole Body", "chronic pain", "lumbar spine", "back", "shoulder", "knee", "psychosocial", "pain catastrophizing"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 52,
+    "range": "0–52 (13 items × 0–4; higher = more catastrophizing)",
+    "interpretationBands": [
+      { "label": "No concern",                    "min": 0,  "max": 9  },
+      { "label": "Mild catastrophizing",          "min": 10, "max": 19 },
+      { "label": "Moderate catastrophizing",      "min": 20, "max": 29 },
+      { "label": "Clinically significant",        "min": 30, "max": 52 }
+    ],
+    "mcid": 9,
+    "mcidNote": "~9-point change considered clinically meaningful",
+    "icc": "0.92",
+    "mdc": "~9 pts"
+  }
+}

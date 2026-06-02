@@ -1,0 +1,162 @@
+{
+  "id": "NDI",
+  "name": "Neck Disability Index",
+  "abbreviation": "NDI",
+  "version": "1991",
+  "category": "regionalFunction",
+  "icfCode": "d450",
+  "icfLabel": "Neck-Related Disability",
+  "type": "Self-Report",
+  "description": "Self-report measure of neck pain-related disability. 10 sections, each scored 0–5.",
+  "instructions": "Please read each section carefully. In each section, place a mark next to the ONE statement that best describes your condition today.",
+  "copyright": "Free to use with attribution (Vernon & Mior 1991)",
+  "shirleySays": "ICC 0.89–0.94. MDC: 7.5–10 pts. MCID: 7.5–10 pts. Validated in cervical radiculopathy, WAD, chronic neck pain, post-cervical surgery, cervicogenic headache. Most widely used neck-specific PROM globally.",
+  "bodyRegions": ["Cervical Spine", "neck", "cervical", "whiplash", "upper back", "cervicogenic headache", "cervical radiculopathy"],
+  "totalItems": 10,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 5,
+    "maxRawScore": 50
+  },
+  "scoring": {
+    "method": "percentage",
+    "formula": "(rawScore / 50) * 100",
+    "handlingMissingItems": "If one item is missed: (rawScore / 45) * 100",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "0–50 raw (reported as 0–100%)",
+    "interpretationBands": [
+      { "label": "No disability",       "min": 0,  "max": 8  },
+      { "label": "Mild disability",     "min": 9,  "max": 28 },
+      { "label": "Moderate disability", "min": 29, "max": 48 },
+      { "label": "Severe disability",   "min": 49, "max": 64 },
+      { "label": "Complete disability", "min": 65, "max": 100 }
+    ],
+    "mcid": 10,
+    "mcidNote": "Minimum clinically important difference is approximately 10 percentage points",
+    "icc": "0.89–0.94",
+    "mdc": "7.5–10 percentage points"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Pain Intensity",
+      "options": [
+        { "score": 0, "text": "I have no pain at the moment." },
+        { "score": 1, "text": "The pain is very mild at the moment." },
+        { "score": 2, "text": "The pain is moderate at the moment." },
+        { "score": 3, "text": "The pain is fairly severe at the moment." },
+        { "score": 4, "text": "The pain is very severe at the moment." },
+        { "score": 5, "text": "The pain is the worst imaginable at the moment." }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Personal Care (Washing, Dressing, etc.)",
+      "options": [
+        { "score": 0, "text": "I can look after myself normally without causing extra pain." },
+        { "score": 1, "text": "I can look after myself normally but it causes extra pain." },
+        { "score": 2, "text": "It is painful to look after myself and I am slow and careful." },
+        { "score": 3, "text": "I need some help but manage most of my personal care." },
+        { "score": 4, "text": "I need help every day in most aspects of self care." },
+        { "score": 5, "text": "I do not get dressed, I wash with difficulty and stay in bed." }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Lifting",
+      "options": [
+        { "score": 0, "text": "I can lift heavy weights without extra pain." },
+        { "score": 1, "text": "I can lift heavy weights but it gives extra pain." },
+        { "score": 2, "text": "Pain prevents me from lifting heavy weights off the floor, but I can manage if they are conveniently placed, e.g. on a table." },
+        { "score": 3, "text": "Pain prevents me from lifting heavy weights, but I can manage light to medium weights if they are conveniently positioned." },
+        { "score": 4, "text": "I can lift very light weights." },
+        { "score": 5, "text": "I cannot lift or carry anything at all." }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Reading",
+      "options": [
+        { "score": 0, "text": "I can read as much as I want with no pain in my neck." },
+        { "score": 1, "text": "I can read as much as I want with slight pain in my neck." },
+        { "score": 2, "text": "I can read as much as I want with moderate pain in my neck." },
+        { "score": 3, "text": "I cannot read as much as I want because of moderate pain in my neck." },
+        { "score": 4, "text": "I can hardly read at all because of severe pain in my neck." },
+        { "score": 5, "text": "I cannot read at all." }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Headaches",
+      "options": [
+        { "score": 0, "text": "I have no headaches at all." },
+        { "score": 1, "text": "I have slight headaches which come infrequently." },
+        { "score": 2, "text": "I have moderate headaches which come infrequently." },
+        { "score": 3, "text": "I have moderate headaches which come frequently." },
+        { "score": 4, "text": "I have severe headaches which come frequently." },
+        { "score": 5, "text": "I have headaches almost all the time." }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Concentration",
+      "options": [
+        { "score": 0, "text": "I can concentrate fully when I want to with no difficulty." },
+        { "score": 1, "text": "I can concentrate fully when I want to with slight difficulty." },
+        { "score": 2, "text": "I have a fair degree of difficulty in concentrating when I want to." },
+        { "score": 3, "text": "I have a lot of difficulty in concentrating when I want to." },
+        { "score": 4, "text": "I have a great deal of difficulty in concentrating when I want to." },
+        { "score": 5, "text": "I cannot concentrate at all." }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Work",
+      "options": [
+        { "score": 0, "text": "I can do as much work as I want to." },
+        { "score": 1, "text": "I can only do my usual work, but no more." },
+        { "score": 2, "text": "I can do most of my usual work, but no more." },
+        { "score": 3, "text": "I cannot do my usual work." },
+        { "score": 4, "text": "I can hardly do any work at all." },
+        { "score": 5, "text": "I cannot do any work at all." }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Driving",
+      "options": [
+        { "score": 0, "text": "I can drive my car without any neck pain." },
+        { "score": 1, "text": "I can drive my car as long as I want with slight pain in my neck." },
+        { "score": 2, "text": "I can drive my car as long as I want with moderate pain in my neck." },
+        { "score": 3, "text": "I cannot drive my car as long as I want because of moderate pain in my neck." },
+        { "score": 4, "text": "I can hardly drive at all because of severe pain in my neck." },
+        { "score": 5, "text": "I cannot drive my car at all." }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Sleeping",
+      "options": [
+        { "score": 0, "text": "I have no trouble sleeping." },
+        { "score": 1, "text": "My sleep is slightly disturbed (less than 1 hr sleepless)." },
+        { "score": 2, "text": "My sleep is mildly disturbed (1–2 hrs sleepless)." },
+        { "score": 3, "text": "My sleep is moderately disturbed (2–3 hrs sleepless)." },
+        { "score": 4, "text": "My sleep is greatly disturbed (3–5 hrs sleepless)." },
+        { "score": 5, "text": "My sleep is completely disturbed (5–7 hrs sleepless)." }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Recreation",
+      "options": [
+        { "score": 0, "text": "I am able to engage in all my recreation activities with no neck pain at all." },
+        { "score": 1, "text": "I am able to engage in all my recreation activities with some pain in my neck." },
+        { "score": 2, "text": "I am able to engage in most, but not all of my usual recreation activities because of pain in my neck." },
+        { "score": 3, "text": "I am able to engage in a few of my usual recreation activities because of pain in my neck." },
+        { "score": 4, "text": "I can hardly do any recreation activities because of pain in my neck." },
+        { "score": 5, "text": "I cannot do any recreation activities at all." }
+      ]
+    }
+  ]
+}

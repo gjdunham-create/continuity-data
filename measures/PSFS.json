@@ -1,0 +1,32 @@
+{
+  "id": "PSFS",
+  "name": "Patient-Specific Functional Scale",
+  "abbreviation": "PSFS",
+  "category": "regionalFunction",
+  "icfCode": "d4-d9",
+  "icfLabel": "Patient-Specific Activity",
+  "type": "Self-Report",
+  "description": "Patient identifies 3–5 activities they have difficulty with due to their condition and rates each 0–10. Average of activity scores reported.",
+  "copyright": "Public Domain (Stratford et al. 1995)",
+  "shirleySays": "ICC 0.84–0.97. MDC: 2 pts (per activity average). MCID: 2–3 pts. Patient selects own activities → captures personalized priorities. Validated across ALL body regions and diagnoses. Takes <5 min.",
+  "bodyRegions": ["Whole Body", "patient-specific", "general", "upper extremity", "lower extremity", "spine", "shoulder", "knee", "hip", "ankle", "neck", "back"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "points",
+    "lowerIsBetter": false,
+    "minScore": 0,
+    "maxScore": 10,
+    "range": "0–10 per activity (avg of 3–5 activities; higher = better function)",
+    "interpretationBands": [
+      { "label": "Unable to perform",        "min": 0, "max": 0  },
+      { "label": "Severely limited",         "min": 1, "max": 3  },
+      { "label": "Moderately limited",       "min": 4, "max": 6  },
+      { "label": "Mildly limited",           "min": 7, "max": 9  },
+      { "label": "No difficulty / Baseline", "min": 10,"max": 10 }
+    ],
+    "mcid": 2,
+    "mcidNote": "2–3 point change in average activity score is clinically meaningful",
+    "icc": "0.84–0.97",
+    "mdc": "2 pts (per activity average)"
+  }
+}

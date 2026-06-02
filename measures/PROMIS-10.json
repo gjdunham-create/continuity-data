@@ -1,0 +1,31 @@
+{
+  "id": "PROMIS-10",
+  "name": "PROMIS Global Health-10",
+  "abbreviation": "PROMIS-10",
+  "category": "regionalFunction",
+  "icfCode": "d9",
+  "icfLabel": "Global Health / Participation",
+  "type": "Self-Report",
+  "description": "10-item questionnaire covering physical, mental, and social health. Scores reported as T-scores calibrated to 2000 US Census norms (mean=50, SD=10).",
+  "copyright": "Free — NIH-funded; no license required",
+  "shirleySays": "SEM ~3.7 pts (Physical); ~3.5 pts (Mental). MCID: ~3–5 T-score points. ICC 0.89–0.92. Calibrated to 2000 US Census norms. 10 items covering physical, mental, and social health. Most versatile single cross-domain screen.",
+  "bodyRegions": ["Whole Body", "general", "global health", "physical function", "mental health"],
+  "scoring": {
+    "method": "t_score",
+    "unit": "T-score",
+    "minScore": 20,
+    "maxScore": 80,
+    "range": "Physical Health T-score & Mental Health T-score (population mean = 50; SD = 10)",
+    "interpretationBands": [
+      { "label": "Well below average (2+ SD below)", "min": 20, "max": 29 },
+      { "label": "Below average (1–2 SD below)",     "min": 30, "max": 39 },
+      { "label": "Average",                          "min": 40, "max": 59 },
+      { "label": "Above average (1–2 SD above)",     "min": 60, "max": 69 },
+      { "label": "Well above average (2+ SD above)", "min": 70, "max": 80 }
+    ],
+    "mcid": 4,
+    "mcidNote": "~3–5 T-score points MCID; population mean T=50",
+    "icc": "0.89–0.92",
+    "mdc": "~3.7 pts (Physical); ~3.5 pts (Mental)"
+  }
+}

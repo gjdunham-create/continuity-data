@@ -1,0 +1,117 @@
+{
+  "id": "GAD-7",
+  "name": "Generalized Anxiety Disorder-7",
+  "abbreviation": "GAD-7",
+  "version": "2006",
+  "category": "screening",
+  "icfCode": "b152",
+  "icfLabel": "Emotional Functions",
+  "type": "Screening",
+  "description": "7-item self-report tool for screening and measuring the severity of generalized anxiety disorder.",
+  "instructions": "Over the last 2 weeks, how often have you been bothered by the following problems?",
+  "copyright": "Public Domain (Pfizer release, no fee, no permission required)",
+  "shirleySays": "Sensitivity 89%, Specificity 82% for GAD (cutoff ≥10). Also screens for panic disorder, social anxiety, PTSD (cutoff ≥8). Cronbach α 0.92. MDC: 4 points. MCID: 4 points. Validated in primary care, musculoskeletal, neurological, cardiac, and oncology populations.",
+  "bodyRegions": ["Mental Health", "psychosocial", "anxiety", "whole body"],
+  "totalItems": 7,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 3,
+    "maxRawScore": 21
+  },
+  "scoring": {
+    "method": "sum",
+    "formula": "sum of all item scores",
+    "minScore": 0,
+    "maxScore": 21,
+    "range": "0–21",
+    "interpretationBands": [
+      { "label": "Minimal anxiety",  "min": 0,  "max": 4  },
+      { "label": "Mild anxiety",     "min": 5,  "max": 9  },
+      { "label": "Moderate anxiety", "min": 10, "max": 14 },
+      { "label": "Severe anxiety",   "min": 15, "max": 21 }
+    ],
+    "mcid": 4,
+    "mcidNote": "4-point change is considered clinically meaningful",
+    "icc": "not applicable (screening tool)",
+    "mdc": "4 points"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Nervousness",
+      "question": "Feeling nervous, anxious, or on edge",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Worry Control",
+      "question": "Not being able to stop or control worrying",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Excessive Worry",
+      "question": "Worrying too much about different things",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Relaxation",
+      "question": "Trouble relaxing",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Restlessness",
+      "question": "Being so restless that it is hard to sit still",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Irritability",
+      "question": "Becoming easily annoyed or irritable",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Fear",
+      "question": "Feeling afraid as if something awful might happen",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    }
+  ]
+}

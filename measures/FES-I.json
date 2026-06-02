@@ -1,0 +1,30 @@
+{
+  "id": "FES-I",
+  "name": "Falls Efficacy Scale – International",
+  "abbreviation": "FES-I",
+  "category": "regionalFunction",
+  "icfCode": "e1-e4",
+  "icfLabel": "Fear of Falling / Balance Confidence",
+  "type": "Self-Report",
+  "description": "16-item self-report questionnaire measuring concern about falling during daily activities. Higher score = more concern about falling.",
+  "copyright": "Free for non-commercial use with attribution (ProFaNE group)",
+  "shirleySays": "ICC 0.92. MDC: 6.4 pts. MCID: ~4 pts (community elderly). Cronbach α 0.96. Validated in community-dwelling elderly, stroke, PD, MS, hip fracture, COPD. Excellent predictor of fall incidence and activity restriction.",
+  "bodyRegions": ["Fall Risk", "balance", "lower extremity", "hip", "knee", "ankle", "fear of falling"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 16,
+    "maxScore": 64,
+    "range": "16–64 (16 activities, 1–4 each; higher = more concern)",
+    "interpretationBands": [
+      { "label": "No concern about falling",       "min": 16, "max": 16 },
+      { "label": "Low concern about falling",      "min": 17, "max": 28 },
+      { "label": "Moderate concern about falling", "min": 29, "max": 44 },
+      { "label": "High concern about falling",     "min": 45, "max": 64 }
+    ],
+    "mcid": 4,
+    "mcidNote": "~4-point change in community elderly; MDC 6.4 pts",
+    "icc": "0.92",
+    "mdc": "6.4 pts"
+  }
+}

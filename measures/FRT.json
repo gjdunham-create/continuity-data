@@ -1,0 +1,30 @@
+{
+  "id": "FRT",
+  "name": "Functional Reach Test",
+  "abbreviation": "FRT",
+  "category": "objective",
+  "icfCode": "d415",
+  "icfLabel": "Balance — Reach",
+  "type": "Performance / Clinician",
+  "description": "Maximum distance patient can reach forward beyond arm's length while maintaining a fixed base of support. Measured in inches or cm.",
+  "copyright": "Public Domain (pub. 1990)",
+  "shirleySays": "ICC 0.89–0.98. MDC: ~4.1 cm. Validated in elderly, stroke, PD, vestibular, COPD, and TBI. Quick to administer (<5 min). Lateral Reach Test extends utility to mediolateral stability.",
+  "bodyRegions": ["Balance", "fall risk", "upper extremity", "reach", "shoulder", "functional mobility"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "inches",
+    "lowerIsBetter": false,
+    "minScore": 0,
+    "maxScore": 30,
+    "range": "Distance in inches or cm (higher = better)",
+    "interpretationBands": [
+      { "label": "High fall risk",    "min": 0,  "max": 6  },
+      { "label": "Moderate fall risk","min": 6,  "max": 10 },
+      { "label": "Low fall risk",     "min": 10, "max": 30 }
+    ],
+    "mcid": null,
+    "mcidNote": "Normative: 40–70 yr ≈14.3 in; MDC ~4.1 cm",
+    "icc": "0.89–0.98",
+    "mdc": "~4.1 cm"
+  }
+}

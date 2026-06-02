@@ -1,0 +1,31 @@
+{
+  "id": "CHART",
+  "name": "Craig Handicap Assessment & Reporting Technique",
+  "abbreviation": "CHART",
+  "category": "regionalFunction",
+  "icfCode": "e580",
+  "icfLabel": "Social / Community Participation",
+  "type": "Self-Report",
+  "description": "6-subscale measure of participation in community for people with disabilities. Each subscale 0–100; 100 = level of function of non-disabled person.",
+  "copyright": "Public Domain (Craig Hospital, freely available)",
+  "shirleySays": "ICC 0.80–0.96 per subscale. MDC: ~10 pts per subscale. Normed in SCI, TBI, MS, stroke, amputation, and general disability populations. One of the few measures specifically targeting ICF 'Participation' and environmental integration.",
+  "bodyRegions": ["Whole Body", "participation", "neurological", "spinal cord injury", "community"],
+  "scoring": {
+    "method": "subscale",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "6 subscales (0–100 each; 100 = level of function of non-disabled person)",
+    "subscales": ["Physical Independence", "Cognitive Independence", "Mobility", "Occupation", "Social Integration", "Economic Self-Sufficiency"],
+    "interpretationBands": [
+      { "label": "Severely limited",    "min": 0,  "max": 25  },
+      { "label": "Moderately limited",  "min": 26, "max": 50  },
+      { "label": "Mildly limited",      "min": 51, "max": 75  },
+      { "label": "Near non-disabled",   "min": 76, "max": 100 }
+    ],
+    "mcid": null,
+    "mcidNote": "~10 pts per subscale considered clinically meaningful",
+    "icc": "0.80–0.96 (per subscale)",
+    "mdc": "~10 pts per subscale"
+  }
+}

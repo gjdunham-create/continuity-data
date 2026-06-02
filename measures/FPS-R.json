@@ -1,0 +1,30 @@
+{
+  "id": "FPS-R",
+  "name": "Faces Pain Scale – Revised",
+  "abbreviation": "FPS-R",
+  "category": "objective",
+  "icfCode": "b280",
+  "icfLabel": "Pain",
+  "type": "Self-Report",
+  "description": "Six face images depicting increasing pain intensity, mapped to scores 0/2/4/6/8/10. Used for pediatric and cognitively impaired populations.",
+  "copyright": "Free for clinical/research use (IASP)",
+  "shirleySays": "Validated for ages 4–16; also used in cognitively impaired adults and dementia. ICC ≥0.93. MCID: ~2 points. Strong concurrent validity with NRS (r=0.93) and VAS. Especially recommended when language or numeric literacy is limited.",
+  "bodyRegions": ["Whole Body", "pain", "pediatric"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 10,
+    "range": "0–10 (6 faces, mapped 0/2/4/6/8/10)",
+    "interpretationBands": [
+      { "label": "No pain",       "min": 0, "max": 0 },
+      { "label": "Mild pain",     "min": 2, "max": 4 },
+      { "label": "Moderate pain", "min": 6, "max": 6 },
+      { "label": "Severe pain",   "min": 8, "max": 10 }
+    ],
+    "mcid": 2,
+    "mcidNote": "~2-point change considered clinically meaningful",
+    "icc": "≥0.93",
+    "mdc": "2 points"
+  }
+}

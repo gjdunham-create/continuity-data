@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02",
+  "measures": [
+    { "id": "NRS-11",     "file": "measures/NRS-11.json",     "hasQuestions": false },
+    { "id": "VAS",        "file": "measures/VAS.json",        "hasQuestions": false },
+    { "id": "FPS-R",      "file": "measures/FPS-R.json",      "hasQuestions": false },
+    { "id": "MRC-MMT",    "file": "measures/MRC-MMT.json",    "hasQuestions": false },
+    { "id": "Goniometry", "file": "measures/Goniometry.json", "hasQuestions": false },
+    { "id": "MAS",        "file": "measures/MAS.json",        "hasQuestions": false },
+    { "id": "FMA",        "file": "measures/FMA.json",        "hasQuestions": false },
+    { "id": "BorgRPE",    "file": "measures/BorgRPE.json",    "hasQuestions": false },
+    { "id": "TUG",        "file": "measures/TUG.json",        "hasQuestions": false },
+    { "id": "10MWT",      "file": "measures/10MWT.json",      "hasQuestions": false },
+    { "id": "6MWT",       "file": "measures/6MWT.json",       "hasQuestions": false },
+    { "id": "FTSST",      "file": "measures/FTSST.json",      "hasQuestions": false },
+    { "id": "BBS",        "file": "measures/BBS.json",        "hasQuestions": false },
+    { "id": "FRT",        "file": "measures/FRT.json",        "hasQuestions": false },
+    { "id": "DGI",        "file": "measures/DGI.json",        "hasQuestions": false },
+    { "id": "PHQ-9",      "file": "measures/PHQ-9.json",      "hasQuestions": true  },
+    { "id": "GAD-7",      "file": "measures/GAD-7.json",      "hasQuestions": true  },
+    { "id": "TSK-11",     "file": "measures/TSK-11.json",     "hasQuestions": false },
+    { "id": "PCS",        "file": "measures/PCS.json",        "hasQuestions": false },
+    { "id": "BI",         "file": "measures/BI.json",         "hasQuestions": false },
+    { "id": "DASH",       "file": "measures/DASH.json",       "hasQuestions": false },
+    { "id": "QuickDASH",  "file": "measures/QuickDASH.json",  "hasQuestions": false },
+    { "id": "LEFS",       "file": "measures/LEFS.json",       "hasQuestions": false },
+    { "id": "KOOS",       "file": "measures/KOOS.json",       "hasQuestions": false },
+    { "id": "NDI",        "file": "measures/NDI.json",        "hasQuestions": true  },
+    { "id": "SPADI",      "file": "measures/SPADI.json",      "hasQuestions": false },
+    { "id": "PSFS",       "file": "measures/PSFS.json",       "hasQuestions": false },
+    { "id": "GROC",       "file": "measures/GROC.json",       "hasQuestions": false },
+    { "id": "PROMIS-10",  "file": "measures/PROMIS-10.json",  "hasQuestions": false },
+    { "id": "PROMIS-PF",  "file": "measures/PROMIS-PF.json",  "hasQuestions": false },
+    { "id": "CHART",      "file": "measures/CHART.json",      "hasQuestions": false },
+    { "id": "FES-I",      "file": "measures/FES-I.json",      "hasQuestions": false }
+  ],
+  "exercises": [
+    { "id": "all", "file": "exercises/exercises.json" }
+  ]
+}

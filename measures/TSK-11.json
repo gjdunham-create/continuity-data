@@ -1,0 +1,29 @@
+{
+  "id": "TSK-11",
+  "name": "Tampa Scale of Kinesiophobia",
+  "abbreviation": "TSK-11",
+  "category": "screening",
+  "icfCode": "pf",
+  "icfLabel": "Fear of Movement / Kinesiophobia",
+  "type": "Screening",
+  "description": "11-item self-report questionnaire measuring fear of movement and (re)injury. Higher scores = greater kinesiophobia.",
+  "copyright": "Free for non-commercial clinical/research use",
+  "shirleySays": "ICC 0.80–0.87. MDC: ~5 pts. MCID: ~5 pts. Cronbach α 0.79–0.83. Validated in chronic LBP, fibromyalgia, CRPS, post-surgical knee/shoulder, whiplash. Screens for yellow flag avoidance behavior. Short 11-item version preferred in clinical settings.",
+  "bodyRegions": ["Whole Body", "chronic pain", "lumbar spine", "back", "knee", "shoulder", "neck", "fear of movement", "kinesiophobia", "psychosocial"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 11,
+    "maxScore": 44,
+    "range": "11–44 (11-item version; higher = greater kinesiophobia)",
+    "interpretationBands": [
+      { "label": "Low kinesiophobia",      "min": 11, "max": 29 },
+      { "label": "Moderate kinesiophobia", "min": 30, "max": 36 },
+      { "label": "High kinesiophobia",     "min": 37, "max": 44 }
+    ],
+    "mcid": 5,
+    "mcidNote": "~5-point change considered clinically meaningful",
+    "icc": "0.80–0.87",
+    "mdc": "~5 pts"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "BorgRPE",
+  "name": "Modified Borg RPE Scale",
+  "abbreviation": "Borg RPE (6–20)",
+  "category": "objective",
+  "icfCode": "b455",
+  "icfLabel": "Exercise Tolerance",
+  "type": "Self-Report",
+  "description": "Patient-reported perceived exertion on a 6–20 scale during exercise. Correlates with heart rate (~scale × 10).",
+  "copyright": "Public Domain (original 1970 Borg scale; NOT Modified CR10 which is proprietary)",
+  "shirleySays": "Correlates with HR (multiply by ~10 for est. HR). ICC 0.88–0.98. MDC: ~2 points. Used widely in cardiac rehab, COPD, heart failure, and exercise testing. Target RPE 12–14 (moderate) for general therapeutic exercise. NOTE: Use original 6-20 scale; Borg CR10 is proprietary.",
+  "bodyRegions": ["Cardiopulmonary", "cardiac", "whole body", "exercise", "COPD", "endurance"],
+  "scoring": {
+    "method": "numeric_entry",
+    "unit": "points",
+    "minScore": 6,
+    "maxScore": 20,
+    "range": "6–20",
+    "interpretationBands": [
+      { "label": "Rest / Very light",  "min": 6,  "max": 10 },
+      { "label": "Light",              "min": 11, "max": 12 },
+      { "label": "Somewhat hard",      "min": 13, "max": 14 },
+      { "label": "Hard",               "min": 15, "max": 16 },
+      { "label": "Very hard",          "min": 17, "max": 18 },
+      { "label": "Maximal",            "min": 19, "max": 20 }
+    ],
+    "mcid": 2,
+    "mcidNote": "~2-point change considered clinically meaningful",
+    "icc": "0.88–0.98",
+    "mdc": "2 points"
+  }
+}

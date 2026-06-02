@@ -1,0 +1,140 @@
+{
+  "id": "PHQ-9",
+  "name": "Patient Health Questionnaire-9",
+  "abbreviation": "PHQ-9",
+  "version": "2001",
+  "category": "screening",
+  "icfCode": "b152",
+  "icfLabel": "Emotional Functions",
+  "type": "Screening",
+  "description": "9-item self-report tool for screening, diagnosing, monitoring, and measuring the severity of depression.",
+  "instructions": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+  "copyright": "Public Domain (Pfizer release, no fee, no permission required)",
+  "shirleySays": "Sensitivity 88%, Specificity 88% for major depression (cutoff ≥10). MDC: 5 points. MCID: 5 points. Cronbach α 0.89. Normed: primary care, chronic pain, stroke, cancer, cardiac rehab, veterans, older adults, adolescents. ≥10 warrants referral. Widely used in PT to screen for psychosocial yellow flags.",
+  "bodyRegions": ["Mental Health", "psychosocial", "depression", "whole body"],
+  "totalItems": 9,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 3,
+    "maxRawScore": 27
+  },
+  "scoring": {
+    "method": "sum",
+    "formula": "sum of all item scores",
+    "minScore": 0,
+    "maxScore": 27,
+    "range": "0–27",
+    "interpretationBands": [
+      { "label": "Minimal depression",         "min": 0,  "max": 4  },
+      { "label": "Mild depression",            "min": 5,  "max": 9  },
+      { "label": "Moderate depression",        "min": 10, "max": 14 },
+      { "label": "Moderately severe depression","min": 15, "max": 19 },
+      { "label": "Severe depression",          "min": 20, "max": 27 }
+    ],
+    "mcid": 5,
+    "mcidNote": "5-point change is considered clinically meaningful",
+    "icc": "not applicable (screening tool)",
+    "mdc": "5 points"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Interest / Pleasure",
+      "question": "Little interest or pleasure in doing things",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Mood",
+      "question": "Feeling down, depressed, or hopeless",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Sleep",
+      "question": "Trouble falling or staying asleep, or sleeping too much",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Energy",
+      "question": "Feeling tired or having little energy",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Appetite",
+      "question": "Poor appetite or overeating",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Self-Worth",
+      "question": "Feeling bad about yourself — or that you are a failure or have let yourself or your family down",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Concentration",
+      "question": "Trouble concentrating on things, such as reading the newspaper or watching television",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Psychomotor",
+      "question": "Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Suicidality",
+      "question": "Thoughts that you would be better off dead, or of hurting yourself in some way",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    }
+  ]
+}

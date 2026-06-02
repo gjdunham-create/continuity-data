@@ -1,0 +1,31 @@
+{
+  "id": "KOOS",
+  "name": "KOOS",
+  "abbreviation": "KOOS",
+  "category": "regionalFunction",
+  "icfCode": "d415-d450",
+  "icfLabel": "Knee-Specific Function",
+  "type": "Self-Report",
+  "description": "5-subscale self-report questionnaire for knee conditions. Each subscale scored 0–100 (100 = no symptoms). No total score — interpret subscale profile.",
+  "copyright": "Free (academic/clinical); commercial users require MAPI Trust license",
+  "shirleySays": "ICC 0.75–0.93 per subscale. MDC varies (~8–13 pts). MCID: 8–10 pts (most subscales). Normed in knee OA, ACL reconstruction, meniscal injury, chondral lesions, TKA. Short forms: KOOS-12, KOOS-JR (for TKA), KOOS-Child.",
+  "bodyRegions": ["Knee", "lower extremity", "ACL", "meniscus", "patellofemoral", "TKA", "knee replacement"],
+  "scoring": {
+    "method": "subscale",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "5 subscales (0–100 each; 100 = no symptoms)",
+    "subscales": ["Pain", "Symptoms", "ADL", "Sport/Recreation", "Quality of Life"],
+    "interpretationBands": [
+      { "label": "Severe problems",   "min": 0,  "max": 25  },
+      { "label": "Moderate problems", "min": 26, "max": 50  },
+      { "label": "Mild problems",     "min": 51, "max": 75  },
+      { "label": "Few problems",      "min": 76, "max": 100 }
+    ],
+    "mcid": 9,
+    "mcidNote": "8–10 pts MCID per subscale; lower score = more problems",
+    "icc": "0.75–0.93 (per subscale)",
+    "mdc": "~8–13 pts (per subscale)"
+  }
+}

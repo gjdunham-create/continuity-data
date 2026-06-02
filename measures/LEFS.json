@@ -1,0 +1,29 @@
+{
+  "id": "LEFS",
+  "name": "Lower Extremity Functional Scale",
+  "abbreviation": "LEFS",
+  "category": "regionalFunction",
+  "icfCode": "d450",
+  "icfLabel": "Lower Extremity Function",
+  "type": "Self-Report",
+  "description": "20-item self-report of functional ability in lower extremity conditions. Higher score = better function.",
+  "copyright": "Free for clinical/research use with attribution",
+  "shirleySays": "ICC 0.94. MDC: 9 pts. MCID: 9 pts. Cronbach α 0.96. Validated in LBP, hip/knee OA, TKA/THA, ACL, ankle fracture, LE amputation. Quick to administer (~2 min).",
+  "bodyRegions": ["Lower Extremity", "hip", "knee", "ankle", "foot", "leg", "thigh", "calf", "ACL", "amputation"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 80,
+    "range": "0–80 (20 items × 0–4; higher = better function)",
+    "interpretationBands": [
+      { "label": "Substantial limitation", "min": 0,  "max": 53 },
+      { "label": "Mild limitation",        "min": 54, "max": 70 },
+      { "label": "Fully functional",       "min": 71, "max": 80 }
+    ],
+    "mcid": 9,
+    "mcidNote": "9-point change is clinically meaningful",
+    "icc": "0.94",
+    "mdc": "9 pts"
+  }
+}

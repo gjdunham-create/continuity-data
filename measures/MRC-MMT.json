@@ -1,0 +1,32 @@
+{
+  "id": "MRC-MMT",
+  "name": "MRC Manual Muscle Testing Scale",
+  "abbreviation": "MRC MMT",
+  "category": "objective",
+  "icfCode": "b730",
+  "icfLabel": "Muscle Strength",
+  "type": "Performance / Clinician",
+  "description": "6-level ordinal scale (0–5) for clinician-graded muscle strength testing. Applied per individual muscle group.",
+  "copyright": "Public Domain (UK NHS origin)",
+  "shirleySays": "ICC 0.80–0.95 (inter-rater varies by joint and examiner experience). No established MCID; clinical convention treats 1-grade change as meaningful. Normed across ICU/critical illness, GBS, NMD, SCI, and post-surgical populations. Ordinal scale limits parametric stats — use sum scores cautiously.",
+  "bodyRegions": ["Whole Body", "upper extremity", "lower extremity", "shoulder", "elbow", "wrist", "hand", "hip", "knee", "ankle", "foot", "cervical spine", "neck", "muscle strength", "neurological"],
+  "scoring": {
+    "method": "clinician_graded",
+    "unit": "grade",
+    "minScore": 0,
+    "maxScore": 5,
+    "range": "0–5 per muscle group",
+    "interpretationBands": [
+      { "label": "No contraction",                  "min": 0, "max": 0 },
+      { "label": "Flicker of contraction",           "min": 1, "max": 1 },
+      { "label": "Movement with gravity eliminated", "min": 2, "max": 2 },
+      { "label": "Movement against gravity",         "min": 3, "max": 3 },
+      { "label": "Movement against resistance",      "min": 4, "max": 4 },
+      { "label": "Normal strength",                  "min": 5, "max": 5 }
+    ],
+    "mcid": null,
+    "mcidNote": "1-grade change accepted as clinically meaningful by convention",
+    "icc": "0.80–0.95",
+    "mdc": "not established"
+  }
+}

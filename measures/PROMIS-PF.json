@@ -1,0 +1,29 @@
+{
+  "id": "PROMIS-PF",
+  "name": "PROMIS Physical Function",
+  "abbreviation": "PROMIS-PF",
+  "category": "regionalFunction",
+  "icfCode": "d4-d9",
+  "icfLabel": "Physical Function",
+  "type": "Self-Report",
+  "description": "PROMIS Physical Function item bank. Available as full bank, CAT (4–6 items), or fixed short forms (4a, 6a, 8a, 10a, 20a). T-score scale (mean 50, SD 10); lower T = worse function.",
+  "copyright": "Free — NIH-funded; no license required",
+  "shirleySays": "SEM ~3 pts. MCID: ~4–6 T-score pts. ICC 0.92–0.97. Validated in ortho, neuro, cardiac, pulmonary, oncology, SCI, TKA/THA, LBP, fibromyalgia. CAT reduces burden to 4–6 items. Strongly correlated with 10MWT (r=0.60) and LEFS (r=0.72).",
+  "bodyRegions": ["Whole Body", "physical function", "upper extremity", "lower extremity", "spine", "shoulder", "knee", "hip", "ankle", "back", "general"],
+  "scoring": {
+    "method": "t_score",
+    "unit": "T-score",
+    "minScore": 20,
+    "maxScore": 80,
+    "range": "T-score scale (mean 50, SD 10)",
+    "interpretationBands": [
+      { "label": "Clinically limited (≥1 SD below mean)", "min": 20, "max": 39 },
+      { "label": "Average",                               "min": 40, "max": 59 },
+      { "label": "Above average",                         "min": 60, "max": 80 }
+    ],
+    "mcid": 5,
+    "mcidNote": "~4–6 T-score pts MCID; T<40 = clinically limited",
+    "icc": "0.92–0.97",
+    "mdc": "~3 pts"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "FTSST",
+  "name": "5 Times Sit-to-Stand Test",
+  "abbreviation": "5×STS",
+  "category": "objective",
+  "icfCode": "d410",
+  "icfLabel": "Sit-to-Stand",
+  "type": "Performance / Clinician",
+  "description": "Time to complete 5 sit-to-stand repetitions from a standard chair (43–45 cm, armless). Lower time is better.",
+  "copyright": "Public Domain",
+  "shirleySays": "ICC 0.98 (excellent). MDC: 2.6 s (community elderly). MCID: ~2.3 s. Validated in elderly, OA, TKA/THA, stroke, PD, MS, COPD, cardiac rehab. Measures LE strength, balance, and power. A standard armless chair at 43–45 cm is required.",
+  "bodyRegions": ["Lower Extremity", "hip", "knee", "balance", "fall risk", "functional strength", "sit to stand"],
+  "scoring": {
+    "method": "timed",
+    "unit": "seconds",
+    "lowerIsBetter": true,
+    "minScore": 0,
+    "maxScore": 999,
+    "range": "Time in seconds (lower = better)",
+    "interpretationBands": [
+      { "label": "Normal 60–69 yr",  "min": 0,   "max": 11.4 },
+      { "label": "Normal 70–79 yr",  "min": 0,   "max": 12.6 },
+      { "label": "Normal 80–89 yr",  "min": 0,   "max": 14.8 },
+      { "label": "Increased fall risk","min": 15, "max": 999  }
+    ],
+    "mcid": 2.3,
+    "mcidNote": "~2.3 s MCID; MDC 2.6 s in community-dwelling elderly",
+    "icc": "0.98",
+    "mdc": "2.6 s (community elderly)"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "QuickDASH",
+  "name": "Quick Disabilities of the Arm, Shoulder and Hand",
+  "abbreviation": "QuickDASH",
+  "category": "regionalFunction",
+  "icfCode": "d440-d445",
+  "icfLabel": "Upper Extremity Function",
+  "type": "Self-Report",
+  "description": "11-item abbreviated version of the DASH questionnaire. Strong correlation with full DASH (r=0.97). Lower score = less disability.",
+  "copyright": "Free to use with attribution (Institute for Work & Health)",
+  "shirleySays": "ICC 0.94. MDC: 15.9 pts. MCID: 15 pts. 11-item abbreviated version of DASH. Strong correlation with full DASH (r=0.97). Better for time-limited clinical settings. Validated in shoulder, rotator cuff, lateral epicondylitis, carpal tunnel, fractures.",
+  "bodyRegions": ["Upper Extremity", "shoulder", "elbow", "wrist", "hand", "arm", "rotator cuff", "carpal tunnel", "lateral epicondylitis", "finger"],
+  "scoring": {
+    "method": "sum",
+    "unit": "points",
+    "minScore": 0,
+    "maxScore": 100,
+    "range": "0–100 (lower = less disability)",
+    "interpretationBands": [
+      { "label": "No disability",       "min": 0,  "max": 8  },
+      { "label": "Mild disability",     "min": 9,  "max": 30 },
+      { "label": "Moderate disability", "min": 31, "max": 60 },
+      { "label": "Severe disability",   "min": 61, "max": 100 }
+    ],
+    "mcid": 15,
+    "mcidNote": "15-pt MCID; healthy adult mean ≈8; MDC 15.9 pts",
+    "icc": "0.94",
+    "mdc": "15.9 pts"
+  }
+}

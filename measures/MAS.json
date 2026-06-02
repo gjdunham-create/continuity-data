@@ -1,0 +1,32 @@
+{
+  "id": "MAS",
+  "name": "Modified Ashworth Scale",
+  "abbreviation": "MAS",
+  "category": "objective",
+  "icfCode": "b735",
+  "icfLabel": "Muscle Tone",
+  "type": "Performance / Clinician",
+  "description": "Clinician-graded scale for spasticity/muscle tone. Scores 0, 1, 1+, 2, 3, 4 (where 1+ is an intermediate grade).",
+  "copyright": "Public Domain (original pub. 1987)",
+  "shirleySays": "Inter-rater ICC 0.65–0.84 (moderate). No MCID established. Known ceiling/floor effects. Validated in stroke, SCI, TBI, MS, and CP. Most widely used spasticity measure despite ordinal limitations.",
+  "bodyRegions": ["Neurological", "spasticity", "upper extremity", "lower extremity", "shoulder", "elbow", "wrist", "hand", "hip", "knee", "ankle", "stroke", "spinal cord injury"],
+  "scoring": {
+    "method": "clinician_graded",
+    "unit": "grade",
+    "minScore": 0,
+    "maxScore": 4,
+    "range": "0–4 (with 1+ added)",
+    "interpretationBands": [
+      { "label": "No increase in muscle tone",                                        "min": 0, "max": 0 },
+      { "label": "Slight increase — catch and release or minimal resistance at end",   "min": 1, "max": 1 },
+      { "label": "Slight increase — catch then minimal resistance through remainder",  "min": 1, "max": 1 },
+      { "label": "Marked increase; limb easily moved",                                "min": 2, "max": 2 },
+      { "label": "Considerable increase; passive movement difficult",                 "min": 3, "max": 3 },
+      { "label": "Affected part rigid in flexion or extension",                       "min": 4, "max": 4 }
+    ],
+    "mcid": null,
+    "mcidNote": "No established MCID",
+    "icc": "0.65–0.84",
+    "mdc": "not established"
+  }
+}
