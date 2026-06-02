@@ -15,36 +15,16 @@
   "totalItems": 11,
   "responseScale": {
     "type": "ordinal",
-    "anchor1": "Strongly Disagree",
-    "anchor4": "Strongly Agree",
     "pointsPerItem": 4,
-    "minRawPerItem": 1,
-    "maxRawPerItem": 4,
-    "reverseScored": false
+    "maxRawScore": 44
   },
   "scoring": {
     "method": "sum",
     "formula": "sum of all 11 item scores (no reverse scoring)",
-    "unit": "points",
     "minScore": 11,
     "maxScore": 44,
     "range": "11–44 (higher = greater kinesiophobia)",
-    "subscales": [
-      {
-        "name": "Somatic Focus",
-        "abbreviation": "SF",
-        "items": [1, 2, 3, 5, 6, 7, 9],
-        "minScore": 7,
-        "maxScore": 28
-      },
-      {
-        "name": "Activity Avoidance",
-        "abbreviation": "AA",
-        "items": [4, 8, 10, 11],
-        "minScore": 4,
-        "maxScore": 16
-      }
-    ],
+    "subscales": ["Somatic Focus (SF)", "Activity Avoidance (AA)"],
     "interpretationBands": [
       { "label": "Low kinesiophobia",      "min": 11, "max": 29 },
       { "label": "Moderate kinesiophobia", "min": 30, "max": 36 },
@@ -58,8 +38,7 @@
   "questions": [
     {
       "id": 1,
-      "tsk17Reference": 1,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "I'm afraid that I might injure myself if I exercise.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -70,8 +49,7 @@
     },
     {
       "id": 2,
-      "tsk17Reference": 2,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "If I were to try to overcome it, my pain would increase.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -82,8 +60,7 @@
     },
     {
       "id": 3,
-      "tsk17Reference": 3,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "My body is telling me I have something dangerously wrong.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -94,8 +71,7 @@
     },
     {
       "id": 4,
-      "tsk17Reference": 5,
-      "subscale": "AA",
+      "section": "Activity Avoidance",
       "question": "People aren't taking my medical condition seriously enough.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -106,8 +82,7 @@
     },
     {
       "id": 5,
-      "tsk17Reference": 6,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "My accident has put my body at risk for the rest of my life.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -118,8 +93,7 @@
     },
     {
       "id": 6,
-      "tsk17Reference": 7,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "Pain always means I have injured my body.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -130,8 +104,7 @@
     },
     {
       "id": 7,
-      "tsk17Reference": 9,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "I am afraid that I might accidentally do something that will cause a lot of pain.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -142,8 +115,7 @@
     },
     {
       "id": 8,
-      "tsk17Reference": 10,
-      "subscale": "AA",
+      "section": "Activity Avoidance",
       "question": "Simply being careful that I do not make any unnecessary movements is the safest thing I can do to prevent my pain from worsening.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -154,8 +126,7 @@
     },
     {
       "id": 9,
-      "tsk17Reference": 11,
-      "subscale": "SF",
+      "section": "Somatic Focus",
       "question": "I wouldn't have this much pain if there weren't something potentially dangerous going on in my body.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -166,8 +137,7 @@
     },
     {
       "id": 10,
-      "tsk17Reference": 13,
-      "subscale": "AA",
+      "section": "Activity Avoidance",
       "question": "Pain lets me know when to stop exercising so that I don't injure myself.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
@@ -178,8 +148,7 @@
     },
     {
       "id": 11,
-      "tsk17Reference": 17,
-      "subscale": "AA",
+      "section": "Activity Avoidance",
       "question": "No one should have to exercise when he/she is in pain.",
       "options": [
         { "score": 1, "text": "Strongly Disagree" },
