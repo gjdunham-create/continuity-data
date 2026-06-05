@@ -1,0 +1,140 @@
+{
+  "id": "Silly-Goose",
+  "name": "Silly Goose Assessment-9",
+  "abbreviation": "SGA-9",
+  "version": "2026",
+  "category": "screening",
+  "icfCode": "b126",
+  "icfLabel": "Temperament and Personality Functions",
+  "type": "Screening",
+  "description": "9-item self-report screening tool for quantifying the degree of goose-like silliness in individuals. Measures honking, waddling, chasing, and other hallmark goose behaviors.",
+  "instructions": "Over the last 2 weeks, how often have you been bothered by any of the following goose tendencies?",
+  "copyright": "Public Domain (Open Goose Initiative, no fee, no permission required)",
+  "shirleySays": "Sensitivity 97%, Specificity 94% for full silly goose syndrome (cutoff ≥10). MDC: 5 points. MCID: 5 points. Cronbach α 0.94. Normed: park visitors, bread vendors, clinical populations, and anyone who has ever honked at a stranger. ≥10 warrants referral to a licensed goose wrangler.",
+  "bodyRegions": ["Whole Body", "Behavior", "Psychosocial", "Avian Temperament"],
+  "totalItems": 9,
+  "responseScale": {
+    "type": "ordinal",
+    "pointsPerItem": 3,
+    "maxRawScore": 27
+  },
+  "scoring": {
+    "method": "sum",
+    "formula": "sum of all item scores",
+    "minScore": 0,
+    "maxScore": 27,
+    "range": "0–27",
+    "interpretationBands": [
+      { "label": "Minimal goose energy",         "min": 0,  "max": 4  },
+      { "label": "Mild gooseness",                "min": 5,  "max": 9  },
+      { "label": "Moderate silly goose",          "min": 10, "max": 14 },
+      { "label": "Moderately severe goose",       "min": 15, "max": 19 },
+      { "label": "Full feral goose",              "min": 20, "max": 27 }
+    ],
+    "mcid": 5,
+    "mcidNote": "5-point change is considered clinically meaningful (honk reduction or escalation)",
+    "icc": "not applicable (screening tool)",
+    "mdc": "5 points"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Honking",
+      "question": "Honking loudly at people or in quiet public spaces for no apparent reason",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Locomotion",
+      "question": "Waddling side to side when normal bipedal gait would be entirely feasible",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Aggression / Chasing",
+      "question": "Chasing or aggressively pursuing strangers, cyclists, or small children unprovoked",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Resource Acquisition",
+      "question": "Stealing bread, snacks, or other food items directly from the hands of others",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Self-Reflection",
+      "question": "Staring intensely at your own reflection in puddles, windows, or other reflective surfaces",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Flight Ideation",
+      "question": "Flapping arms and/or running with the intent to become airborne, despite no prior flight history",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Threat Response",
+      "question": "Hissing, puffing up, or spreading arms wide to appear larger when approached by others",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Territorial Behavior",
+      "question": "Claiming and vigorously defending a patch of grass, bench, or parking lot as your personal territory",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Traffic Interference",
+      "question": "Walking into traffic, restricted areas, or crosswalks slowly and with complete disregard for oncoming vehicles",
+      "options": [
+        { "score": 0, "text": "Not at all" },
+        { "score": 1, "text": "Several days" },
+        { "score": 2, "text": "More than half the days" },
+        { "score": 3, "text": "Nearly every day" }
+      ]
+    }
+  ]
+}
