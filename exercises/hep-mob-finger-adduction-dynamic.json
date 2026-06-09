@@ -1,0 +1,21 @@
+{
+  "id": "E96456D0-C250-4C23-BF28-A5B9FFE1499C",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Finger Adduction CARs",
+  "instructions": "Adduct each finger individually toward midline in sequence from small finger to index.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

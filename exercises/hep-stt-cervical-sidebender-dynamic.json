@@ -1,0 +1,21 @@
+{
+  "id": "4B012BE1-F843-4F9F-AB9E-135C945A0DC7",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "High",
+  "name": "Levator Scapulae Stretch",
+  "instructions": "Tilt head down toward armpit at 45 degree angle. Anchor opposite shoulder blade with hand behind back.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

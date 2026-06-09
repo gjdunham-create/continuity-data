@@ -1,0 +1,21 @@
+{
+  "id": "05E0FA73-9EB1-44DA-9910-2CEF3AD62EA7",
+  "goal": "Stretching",
+  "bodyPart": "Knee",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Prone Quad Stretch",
+  "instructions": "Lie face down. Bend knee and reach ankle with hand. Pull toward glute. Hold with hip neutral.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "12962D87-0D84-426F-BE15-DA2E737FAD18",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Isolated MCP Flexion",
+  "instructions": "Keep PIP and DIP straight. Bend only at MCP joints (knuckles). Full range then extend.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

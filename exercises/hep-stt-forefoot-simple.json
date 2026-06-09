@@ -1,0 +1,21 @@
+{
+  "id": "269CFD6E-B4B5-4F3D-A51B-3B74317E38DF",
+  "goal": "Stretching",
+  "bodyPart": "Forefoot",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Passive Toe Extension Stretch",
+  "instructions": "Seated, manually pull toes back into extension. Hold to stretch plantar fascia and toe flexors.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5CDC8BED-088F-472E-B471-D832C00DCBDD",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Thoracic Extension CARs",
+  "instructions": "Seated, hands behind head. Isolate and extend thoracic spine only as far as possible without lumbar.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

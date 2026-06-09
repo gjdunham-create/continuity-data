@@ -1,0 +1,21 @@
+{
+  "id": "A8FE5931-C048-4A8C-87E3-E2BCDBDABB67",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "Low",
+  "name": "Scapular Elevation AROM",
+  "instructions": "Seated or standing. Shrug both shoulders toward ears slowly through full range. Lower slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

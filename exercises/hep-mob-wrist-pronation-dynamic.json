@@ -1,0 +1,21 @@
+{
+  "id": "10F8A9B7-F2C7-40E1-B6C6-074FF028C371",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "High",
+  "name": "Pronation CARs",
+  "instructions": "Move through maximum pronation and combine with wrist ulnar deviation in arc. Full range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

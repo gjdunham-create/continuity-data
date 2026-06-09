@@ -1,0 +1,21 @@
+{
+  "id": "A953834A-28D6-42DD-856E-304B80024642",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Ball Squeeze",
+  "instructions": "Hold soft ball or rolled towel. Squeeze all fingers firmly and hold. Release fully. Repeat.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

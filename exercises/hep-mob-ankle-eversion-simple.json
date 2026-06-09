@@ -1,0 +1,21 @@
+{
+  "id": "3FA461A2-9F4B-4473-8308-E93C123E5513",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Eversion AROM",
+  "instructions": "Seated, foot off floor. Rotate sole outward through full eversion range. Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "D38CC4D7-C155-4462-8AB5-0A950D27427C",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "Medium",
+  "name": "Forearm Pronation with Load",
+  "instructions": "Hold hammer at mid-shaft. Rotate forearm palm down through full pronation. Return slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

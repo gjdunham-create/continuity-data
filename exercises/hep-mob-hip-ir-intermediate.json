@@ -1,0 +1,21 @@
+{
+  "id": "F11CC68E-0CF3-4988-B0A7-A4255F1F6779",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Internal Rotation",
+  "difficulty": "Medium",
+  "name": "Prone Hip Internal Rotation",
+  "instructions": "Lie face down, knee bent to 90 degrees. Let foot fall out to side rotating hip inward. Control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

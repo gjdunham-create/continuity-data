@@ -1,0 +1,21 @@
+{
+  "id": "6503BA85-0483-4438-99FC-A314F48E1A96",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Standing Knee Extension AROM",
+  "instructions": "Lean on wall. Slowly straighten knee pressing heel into floor from 90 degrees to full extension.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

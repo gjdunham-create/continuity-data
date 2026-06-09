@@ -1,0 +1,21 @@
+{
+  "id": "EF1D3744-8A13-4B8D-B607-F54D1912F24A",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Standing Forward Fold",
+  "instructions": "Standing, hinge at hips letting hands reach toward floor. Keep back relatively straight.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0F0ECC59-7509-42E4-A61F-48671BA07B02",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "High",
+  "name": "Pronation Against Band",
+  "instructions": "Band around palm anchored in supinated position. Rotate forearm to palm down against resistance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7799A443-10D0-4060-9517-D0EB51138853",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Finger Abduction CARs",
+  "instructions": "Abduct each finger individually in sequence from index to small finger. Control fully.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

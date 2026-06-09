@@ -1,0 +1,21 @@
+{
+  "id": "34091D19-EDC5-4493-8D2F-8EB720AA1FBA",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Elbow Extension with Load",
+  "instructions": "Overhead arm with light weight. Slowly extend elbow to full straight. Lower. Emphasize end range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "B77EEA77-00A2-4DAF-BF93-90BEB145FAA5",
+  "goal": "Stretching",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Rotation",
+  "difficulty": "High",
+  "name": "Progressive Trunk Rotation Stretch",
+  "instructions": "Seated rotation with hand behind head. Rotate and overpressure with elbow for increased range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

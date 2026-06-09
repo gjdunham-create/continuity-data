@@ -1,0 +1,21 @@
+{
+  "id": "FCE01657-F73C-4B39-A8E4-A329DF9ADFBC",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Depression",
+  "difficulty": "High",
+  "name": "Scapular Depression CARs",
+  "instructions": "Depress scapulae fully then transition into protraction and retraction in combined arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

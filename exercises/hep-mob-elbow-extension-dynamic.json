@@ -1,0 +1,21 @@
+{
+  "id": "B221A97E-961C-4D43-A0A3-062795C26477",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Elbow Extension CARs",
+  "instructions": "Extend elbow to maximum range. At end range rotate forearm and attempt to gain further extension.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

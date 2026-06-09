@@ -1,0 +1,21 @@
+{
+  "id": "780FE594-2F48-4361-8789-8A7EC6FB20C7",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "External Rotation",
+  "difficulty": "High",
+  "name": "90-90 External Rotation",
+  "instructions": "Seated 90-90 position. Rotate torso toward back shin driving hip into external rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "605B7323-9E8A-4CF2-9110-7C9C187A28F8",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Foam Roller Thoracic Extension",
+  "instructions": "Foam roller perpendicular under mid-back. Support head. Extend over roller at each spinal level.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6E11088C-A4CE-4496-B259-52D5EDA1F194",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Radial Deviation",
+  "difficulty": "Medium",
+  "name": "Progressive Ulnar Deviation Stretch",
+  "instructions": "Forearm supported. Use opposite hand to guide wrist into maximum ulnar deviation. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

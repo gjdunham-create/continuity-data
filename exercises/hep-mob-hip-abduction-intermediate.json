@@ -1,0 +1,21 @@
+{
+  "id": "557F6B5F-6C84-4ABC-B659-CB2C3F528166",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Standing Hip Abduction AROM",
+  "instructions": "Standing on one leg. Lift opposite leg out to side through full range. Use wall for balance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

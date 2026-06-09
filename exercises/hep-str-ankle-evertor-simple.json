@@ -1,0 +1,21 @@
+{
+  "id": "51ECCA13-8EDC-4AC2-A8EE-479E8E789A08",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Eversion with Band",
+  "instructions": "Seated, band around outside of foot anchored inward. Push foot outward against resistance. Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

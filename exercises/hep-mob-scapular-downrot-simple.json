@@ -1,0 +1,21 @@
+{
+  "id": "C48489CE-BC0E-4835-951E-32185D692A98",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Downward Rotation",
+  "difficulty": "Low",
+  "name": "Scapular Downward Rotation AROM",
+  "instructions": "From arm overhead, slowly lower arm to side. Focus on scapular downward rotation movement.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

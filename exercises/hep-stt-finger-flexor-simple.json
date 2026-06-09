@@ -1,0 +1,21 @@
+{
+  "id": "36088D95-7EFE-43DA-AD36-27715C0670F4",
+  "goal": "Stretching",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Passive Finger Extension Stretch",
+  "instructions": "Use opposite hand to gently extend all fingers backward. Hold mild stretch through all joints.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "66815042-435A-47CC-BCFF-EEBC22D70DB6",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Elbow Flexion with Load",
+  "instructions": "Hold light weight. Slowly curl through full elbow flexion range. Lower fully. Emphasize end range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

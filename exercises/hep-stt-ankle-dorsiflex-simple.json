@@ -1,0 +1,21 @@
+{
+  "id": "B6F618CB-AA8C-4373-A167-242E20E45D6F",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Plantarflexion Stretch",
+  "instructions": "Seated, loop towel under toes. Gently pull toes downward into plantarflexion. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

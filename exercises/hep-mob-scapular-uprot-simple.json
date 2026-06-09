@@ -1,0 +1,21 @@
+{
+  "id": "EA70D508-742C-4BE7-9DB6-E5AB12518EBA",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Upward Rotation",
+  "difficulty": "Low",
+  "name": "Scapular Upward Rotation AROM",
+  "instructions": "Standing. Slowly raise one arm forward to full overhead position. Focus on scapular rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

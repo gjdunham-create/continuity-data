@@ -1,0 +1,21 @@
+{
+  "id": "AA2648D6-FA46-42DB-8088-B61F8E028D26",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Wrist Flexion CARs",
+  "instructions": "Flex wrist to maximum. At end range, add finger flexion and attempt to gain more range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

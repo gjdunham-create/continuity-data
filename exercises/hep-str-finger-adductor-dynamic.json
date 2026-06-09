@@ -1,0 +1,21 @@
+{
+  "id": "1F2C4345-A80E-49B1-8309-3150E89DBE26",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Sequential Finger Adduction",
+  "instructions": "Spread all fingers wide. Bring each adjacent pair together in sequence, one at a time. Control fully.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

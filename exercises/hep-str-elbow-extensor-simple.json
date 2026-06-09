@@ -1,0 +1,21 @@
+{
+  "id": "C81D7D07-43AA-45F0-AAEE-778760A3E8F0",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Wall Push-Up",
+  "instructions": "Hands on wall at chest height. Bend elbows to lower chest toward wall then push back to start.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

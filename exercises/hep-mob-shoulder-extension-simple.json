@@ -1,0 +1,21 @@
+{
+  "id": "7880B30F-1612-492B-A5DD-D3CA32F4DAD5",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Shoulder Extension AROM",
+  "instructions": "Standing. Swing arm back behind body into extension. Keep elbow straight. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

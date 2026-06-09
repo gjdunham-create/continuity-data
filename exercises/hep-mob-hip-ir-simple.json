@@ -1,0 +1,21 @@
+{
+  "id": "081AED27-F48C-4A30-B989-0E78C66AE640",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Internal Rotation",
+  "difficulty": "Low",
+  "name": "Seated Hip Internal Rotation AROM",
+  "instructions": "Seated, knee bent. Rotate foot outward moving hip into internal rotation. Return and repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3420D47F-1624-4FD6-B5E7-B9608FE3BC5F",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Cow Pose Extension",
+  "instructions": "Hands and knees. Drop belly toward floor (cow) arching lumbar spine into extension. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

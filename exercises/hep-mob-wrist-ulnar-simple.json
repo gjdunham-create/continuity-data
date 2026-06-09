@@ -1,0 +1,21 @@
+{
+  "id": "3055FBF0-C2DD-477C-A55A-02DA1EE5EFE2",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "Low",
+  "name": "Wrist Ulnar Deviation AROM",
+  "instructions": "Forearm supported, thumb up. Move wrist toward small finger side through full range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "882220CF-3FF5-4ACB-8FDB-85BC48AC2218",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Wrist Flexion with Dumbbell",
+  "instructions": "Forearm on table, hand off edge palm up. Curl wrist up with light weight. Full range, slow return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

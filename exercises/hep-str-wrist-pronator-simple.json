@@ -1,0 +1,21 @@
+{
+  "id": "403DE532-C44D-469C-92E8-DE228B67A7B0",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "Low",
+  "name": "Forearm Pronation Unresisted",
+  "instructions": "Elbow at 90 degrees. Slowly rotate forearm palm down through full range. Return to neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

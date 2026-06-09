@@ -1,0 +1,21 @@
+{
+  "id": "D59686A5-2F6C-4CAF-A27E-DBE0E0CC11B2",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Prayer Position Stretch",
+  "instructions": "Press palms together at chest. Lower hands toward waist keeping palms pressed. Wrist flexors stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "11788246-9739-4F1C-A29F-66E7D636618B",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Isolated MCP Extension",
+  "instructions": "Curl PIP and DIP joints. Extend only at MCP joints lifting knuckles. Full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

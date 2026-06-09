@@ -1,0 +1,21 @@
+{
+  "id": "10507B4D-9C3B-4A65-9010-766DE718DF6F",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Eccentric Wrist Flexion",
+  "instructions": "Use other hand to curl wrist up. Remove assisting hand and lower slowly using flexors eccentrically.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

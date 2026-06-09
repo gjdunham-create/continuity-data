@@ -1,0 +1,21 @@
+{
+  "id": "F7303D91-A965-4304-8A94-4E93F3D1650D",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Internal Rotation",
+  "difficulty": "Medium",
+  "name": "Sidelying Shoulder IR AROM",
+  "instructions": "Lie on back, elbow at 90 at side. Let forearm drop toward floor into IR. Assist if needed.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

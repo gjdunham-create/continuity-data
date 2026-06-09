@@ -1,0 +1,21 @@
+{
+  "id": "8E229F6F-DA39-454B-B3A3-734C7C02026C",
+  "goal": "Strengthening",
+  "bodyPart": "Scapular",
+  "movement": "Retraction",
+  "difficulty": "High",
+  "name": "Prone Y-T-W",
+  "instructions": "Lie face down. Lift arms into Y position, then T, then W. Squeeze shoulder blades at each position.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

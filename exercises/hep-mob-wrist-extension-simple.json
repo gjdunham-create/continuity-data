@@ -1,0 +1,21 @@
+{
+  "id": "97055622-5FD8-430C-B36B-4B6EAE37345D",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Wrist Extension AROM",
+  "instructions": "Elbow supported. Slowly extend wrist through full range. Return to neutral. Repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

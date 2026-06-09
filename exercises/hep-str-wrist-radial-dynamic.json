@@ -1,0 +1,21 @@
+{
+  "id": "309FB6C3-E818-49EA-8C3B-5E2914C489B9",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Radial Deviation",
+  "difficulty": "High",
+  "name": "Radial Deviation with Band",
+  "instructions": "Band around thumb side of hand anchored below. Deviate wrist toward thumb against resistance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

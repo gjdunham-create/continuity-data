@@ -1,0 +1,21 @@
+{
+  "id": "248AFEBC-8F6D-4CBC-9585-F70F32E82FB6",
+  "goal": "Strengthening",
+  "bodyPart": "Knee",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Prone Knee Bend",
+  "instructions": "Lie face down. Slowly bend one knee bringing heel toward glute. Lower under control. Keep thigh on floor.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

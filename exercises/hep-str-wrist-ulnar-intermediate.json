@@ -1,0 +1,21 @@
+{
+  "id": "2273D30A-6CBF-4001-A2BB-B3269E53444B",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "Medium",
+  "name": "Ulnar Deviation with Hammer",
+  "instructions": "Hold hammer vertically at base, thumb up. Move wrist into ulnar deviation (small finger down). Control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

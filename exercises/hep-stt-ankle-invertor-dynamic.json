@@ -1,0 +1,21 @@
+{
+  "id": "2C5654A3-D8A5-4568-9357-A680009E8DEC",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "High",
+  "name": "Weight-Bearing Eversion Stretch",
+  "instructions": "Stand on slight outward tilt (edge of mat). Allow foot to evert gently loading invertor stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

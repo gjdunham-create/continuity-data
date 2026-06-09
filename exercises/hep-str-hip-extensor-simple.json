@@ -1,0 +1,21 @@
+{
+  "id": "6629670E-2DEC-4478-9202-A7EC573B8C8E",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Glute Bridge",
+  "instructions": "Lie on back, feet flat. Drive hips up forming straight line from knees to shoulders. Squeeze glutes.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "F60CC17F-F575-4B8F-8B72-65CA8ABA3FF1",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Bird Dog with Pause",
+  "instructions": "Hands and knees. Extend opposite arm and leg, pause three seconds at top maintaining neutral spine.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 6,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

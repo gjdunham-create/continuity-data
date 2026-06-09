@@ -1,0 +1,21 @@
+{
+  "id": "BA25575E-5D6E-4851-8ECF-E1CF780F411B",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Plantarflexion AROM",
+  "instructions": "Seated, foot off floor. Point foot downward through full plantarflexion range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

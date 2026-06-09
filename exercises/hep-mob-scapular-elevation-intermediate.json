@@ -1,0 +1,21 @@
+{
+  "id": "6FD91A9C-D179-4920-BA0F-E734379BA300",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "Medium",
+  "name": "Scapular Elevation with Load",
+  "instructions": "Hold light weight in hands. Shrug shoulders toward ears through full range. Slow controlled return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

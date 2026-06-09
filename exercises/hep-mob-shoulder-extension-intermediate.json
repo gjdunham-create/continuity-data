@@ -1,0 +1,21 @@
+{
+  "id": "26BCA966-14D5-4532-8A2B-E6E1E8E81174",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Progressive Shoulder Extension AROM",
+  "instructions": "Prone lying. Lift arm from side into extension. Increase range each repetition.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "073E88AB-3876-4A83-8CFE-6A184D87943B",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Tricep Kickback",
+  "instructions": "Hinge forward, upper arm parallel to floor. Extend forearm back to straight. Hold at top then lower.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "00DD4ED0-8FD6-4B28-9CB4-6E2177115826",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Wall Tricep Stretch",
+  "instructions": "Place bent elbow on wall above head. Gently let body weight increase elbow flexion and tricep stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

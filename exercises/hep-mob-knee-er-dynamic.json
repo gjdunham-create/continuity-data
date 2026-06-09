@@ -1,0 +1,21 @@
+{
+  "id": "3297F3CE-D870-4B06-A987-2F972C787378",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "External Rotation",
+  "difficulty": "High",
+  "name": "Single-Leg Tibial ER AROM",
+  "instructions": "Single-leg balance, knee slightly bent. Rotate tibia outward through full range. Control.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

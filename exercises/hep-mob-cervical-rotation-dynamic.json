@@ -1,0 +1,21 @@
+{
+  "id": "3AA04FE6-C27E-4885-9A35-F4BBBF90C190",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Rotation",
+  "difficulty": "High",
+  "name": "Cervical CARs",
+  "instructions": "Slow controlled rotation making the largest possible arc. Chin to chest, ear to shoulder, full rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9A762FB8-E4C1-4181-BC9D-F705AA25E497",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Rotation",
+  "difficulty": "Low",
+  "name": "Supine Lumbar Rotation",
+  "instructions": "Lie on back, knees bent. Drop knees to each side slowly moving through lumbar rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

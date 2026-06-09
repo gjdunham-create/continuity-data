@@ -1,0 +1,21 @@
+{
+  "id": "D1C11ADA-252D-4491-9366-76727BA2DBCB",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "External Rotation",
+  "difficulty": "High",
+  "name": "Shoulder CARs",
+  "instructions": "Move arm through full shoulder CARs: forward, overhead, behind, and down in smooth controlled arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E08178AA-6F2F-44F1-8825-18135136B2F4",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Supine Adductor Squeeze",
+  "instructions": "Lie on back, knees bent. Place pillow between knees. Squeeze pillow firmly and hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "40483CD3-D31F-405A-96B4-AD9E224962FB",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Retraction",
+  "difficulty": "Low",
+  "name": "Seated Forward Reach Rhomboid Stretch",
+  "instructions": "Seated, clasp hands and reach arms forward rounding upper back. Let shoulder blades spread apart.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

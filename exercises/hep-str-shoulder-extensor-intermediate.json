@@ -1,0 +1,21 @@
+{
+  "id": "F1BE2EBC-45CB-4012-A64C-0F26C86D052F",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Band Shoulder Extension",
+  "instructions": "Band anchored in front at shoulder height. Pull arm back past hip keeping elbow straight. Control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

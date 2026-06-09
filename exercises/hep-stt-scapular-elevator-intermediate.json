@@ -1,0 +1,21 @@
+{
+  "id": "33A27F5D-0E05-4448-A0BB-29B0405235A6",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "Medium",
+  "name": "Levator Scapulae Stretch",
+  "instructions": "Tilt head toward armpit at 45 degree angle. Anchor opposite scapula by holding chair with that hand.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

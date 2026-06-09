@@ -1,0 +1,21 @@
+{
+  "id": "7C0E3624-1F7C-45B5-B4E7-E31F4AEC9323",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Standing Bicep Curl",
+  "instructions": "Standing, weights in hands. Curl both arms simultaneously keeping elbows fixed at sides. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

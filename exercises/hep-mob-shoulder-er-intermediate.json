@@ -1,0 +1,21 @@
+{
+  "id": "78E167EE-C4FE-4796-946D-F3FB26975B05",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "External Rotation",
+  "difficulty": "Medium",
+  "name": "Sidelying Shoulder ER AROM",
+  "instructions": "Lie on side, elbow at 90. Let forearm drop toward floor into ER. Assist with other hand.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

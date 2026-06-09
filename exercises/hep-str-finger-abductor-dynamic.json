@@ -1,0 +1,21 @@
+{
+  "id": "FC05CB49-8466-47A0-AD01-86565D918329",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Progressive Single Finger Abduction",
+  "instructions": "Place hand on table. Abduct each finger individually away from midline. Hold then return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "561B2AFB-F393-415F-9837-9C5F754AF3AE",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Medium",
+  "name": "Side-Lying Thoracic Lateral Flexion",
+  "instructions": "Lie on side over foam roller at waist. Allow upper body to drop laterally opening thoracic side.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4D7E0313-B644-43B3-9C1E-4AEED8F9C7F5",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Lateral Lunge Adductor Stretch",
+  "instructions": "Step wide to one side, lower into lunge keeping other leg straight. Feel stretch in straight-leg inner thigh.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

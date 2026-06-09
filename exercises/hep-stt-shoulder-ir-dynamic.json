@@ -1,0 +1,21 @@
+{
+  "id": "48F3CF50-9CA1-4347-AAE5-DFD04A74FBDF",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "External Rotation",
+  "difficulty": "High",
+  "name": "Corner Pec Stretch",
+  "instructions": "Stand in corner, arms on each wall at 90 degrees. Lean into corner until deep anterior chest stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

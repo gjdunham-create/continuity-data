@@ -1,0 +1,21 @@
+{
+  "id": "C5F8031E-9FA3-41FA-929D-5E86129E81F3",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Full Can Exercise",
+  "instructions": "Stand with light weight. Raise arm diagonally in scapular plane to 90 degrees, thumb up. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

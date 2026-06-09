@@ -1,0 +1,21 @@
+{
+  "id": "741FFF60-0A74-42BB-9476-844ED5A08F28",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Finger Adduction AROM",
+  "instructions": "Fingers spread wide. Bring all fingers together squeezing into adduction. Hold then spread.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

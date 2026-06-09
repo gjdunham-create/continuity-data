@@ -1,0 +1,21 @@
+{
+  "id": "6AA5FE79-3DEE-4DF9-866B-DF22E34F909B",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "External Rotation",
+  "difficulty": "Medium",
+  "name": "Standing Tibial External Rotation",
+  "instructions": "Standing, slightly flex knee. Rotate lower leg outward. Use wall for balance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

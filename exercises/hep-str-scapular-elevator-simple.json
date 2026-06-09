@@ -1,0 +1,21 @@
+{
+  "id": "8C4BED12-72E5-4428-A003-74D0DF2CAA8A",
+  "goal": "Strengthening",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "Low",
+  "name": "Bilateral Shoulder Shrug",
+  "instructions": "Standing. Shrug both shoulders toward ears fully. Hold and lower slowly with control.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

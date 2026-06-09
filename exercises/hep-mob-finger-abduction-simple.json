@@ -1,0 +1,21 @@
+{
+  "id": "96A81518-40B4-46C1-BE69-4FEB464C8857",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Finger Abduction AROM",
+  "instructions": "Hand flat. Spread each finger apart from midline as wide as possible. Hold then adduct.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

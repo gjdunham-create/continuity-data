@@ -1,0 +1,21 @@
+{
+  "id": "7B3C90F3-44C7-4149-9AD7-95F9D13BB9A3",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Standing Lumbar Flexion AROM",
+  "instructions": "Standing, hinge forward at hips. Move through maximum lumbar flexion range. Return slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

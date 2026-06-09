@@ -1,0 +1,21 @@
+{
+  "id": "198529FF-7CD1-4B69-844F-02DEB2B742C7",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Radial Deviation",
+  "difficulty": "Low",
+  "name": "Wrist Radial Deviation AROM",
+  "instructions": "Forearm supported, thumb up. Move wrist toward thumb side through full range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

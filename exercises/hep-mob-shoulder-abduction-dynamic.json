@@ -1,0 +1,21 @@
+{
+  "id": "40A8BBB8-B807-4A12-ADAA-52FDC1AB02EC",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Shoulder Abduction CARs",
+  "instructions": "Abduct arm to maximum. Rotate arm in this position and move through rotational arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

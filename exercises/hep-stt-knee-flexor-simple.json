@@ -1,0 +1,21 @@
+{
+  "id": "772DC1F4-33C0-4F33-98A8-BDDA15B922D2",
+  "goal": "Stretching",
+  "bodyPart": "Knee",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Supine Hamstring Stretch",
+  "instructions": "Lie on back. Lift one leg holding behind thigh. Straighten knee until stretch in hamstring.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

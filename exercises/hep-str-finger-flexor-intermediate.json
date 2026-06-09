@@ -1,0 +1,21 @@
+{
+  "id": "156ADA34-D746-4306-9245-90EE6E41022F",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Hook Fist",
+  "instructions": "Curl fingers at first two joints keeping knuckles straight. This isolates FDS. Hold and release.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

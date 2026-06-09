@@ -1,0 +1,21 @@
+{
+  "id": "9A418419-5252-487F-96B4-DC2F42FE9E5D",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Shoulder Flexion AROM",
+  "instructions": "Standing or seated. Raise arm forward to comfortable end range. Lower slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

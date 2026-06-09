@@ -1,0 +1,21 @@
+{
+  "id": "6D7B46F8-8FB5-425F-9017-674DE4CC383E",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "High",
+  "name": "Soleus Stretch",
+  "instructions": "Stand at wall, back foot close in, knee slightly bent. Press heel down to stretch deep calf.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

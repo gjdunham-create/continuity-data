@@ -1,0 +1,21 @@
+{
+  "id": "A88657D6-E766-4D4C-B793-9E39F842C8D6",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Internal Rotation",
+  "difficulty": "Low",
+  "name": "Seated Tibial Internal Rotation AROM",
+  "instructions": "Seated, knee at 90 degrees. Rotate foot and lower leg inward (tibial IR). Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

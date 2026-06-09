@@ -1,0 +1,21 @@
+{
+  "id": "7E6111AC-2270-4D19-8D0A-7E850787A7EA",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Inversion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Inversion AROM",
+  "instructions": "Seated, foot off floor. Rotate sole inward through full inversion range. Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

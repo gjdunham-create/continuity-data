@@ -1,0 +1,21 @@
+{
+  "id": "C8273BAD-BBC2-4A85-ACE8-521CF71BB6B1",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Downward Rotation",
+  "difficulty": "Medium",
+  "name": "Scapular Depression and Retraction Combined",
+  "instructions": "From overhead position, pull arm down and back combining depression and retraction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

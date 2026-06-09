@@ -1,0 +1,21 @@
+{
+  "id": "827346EC-0245-412A-ABE8-0F3A4CCE9B34",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Radial Deviation",
+  "difficulty": "Medium",
+  "name": "Radial Deviation with Hammer",
+  "instructions": "Hold hammer vertically at base, thumb up. Move wrist into radial deviation (thumb side up). Control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

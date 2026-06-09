@@ -1,0 +1,21 @@
+{
+  "id": "F67E5FE1-08DA-4E83-ADEB-66516CB8B4B6",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Cat Pose Flexion",
+  "instructions": "Hands and knees. Round lower spine upward (cat) pressing lumbar spine toward ceiling. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

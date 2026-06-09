@@ -1,0 +1,21 @@
+{
+  "id": "02622A64-8667-4668-B7D1-83E251C3AFE2",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "Low",
+  "name": "Doorway Pec Stretch",
+  "instructions": "Stand in doorway, forearms on frame at 90 degrees. Step forward and lean chest through opening.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

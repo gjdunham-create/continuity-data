@@ -1,0 +1,21 @@
+{
+  "id": "27B3DC9E-F16A-49E5-A978-28E20171C671",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Posterior Capsule Stretch",
+  "instructions": "Lie on side of involved shoulder. Stabilize with body weight. Gently press forearm toward floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

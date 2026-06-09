@@ -1,0 +1,21 @@
+{
+  "id": "8F4667AC-3E7E-43BE-9444-C3E1E5E45020",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Medium",
+  "name": "Side-Lying Head Lift",
+  "instructions": "Lie on side. Lift head off surface laterally keeping face forward. Hold and lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

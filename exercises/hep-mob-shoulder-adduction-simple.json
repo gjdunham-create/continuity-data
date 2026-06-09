@@ -1,0 +1,21 @@
+{
+  "id": "D050463F-BFDE-4DC7-8E61-28EC8FDB9F2A",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Shoulder Adduction AROM",
+  "instructions": "Standing. Cross arm across body into horizontal adduction. Return to neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

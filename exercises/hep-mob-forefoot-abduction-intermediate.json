@@ -1,0 +1,21 @@
+{
+  "id": "80787353-D2BA-4038-B12E-1A260EA831A2",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Standing Toe Spreading",
+  "instructions": "Standing barefoot. Spread toes wide against floor. Hold maximum abduction then release.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

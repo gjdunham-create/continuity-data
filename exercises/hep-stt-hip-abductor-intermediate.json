@@ -1,0 +1,21 @@
+{
+  "id": "DBF79014-C4C7-463F-B95F-EEE3073978CF",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Seated Figure-4 Piriformis Stretch",
+  "instructions": "Seated, cross ankle over thigh. Lean trunk forward keeping back straight until gluteal stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

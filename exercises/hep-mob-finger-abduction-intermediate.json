@@ -1,0 +1,21 @@
+{
+  "id": "15605B61-7007-488B-AE29-5454419A11C3",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Progressive Finger Spreading",
+  "instructions": "Spread fingers wide. Then spread each individually as far as possible. Hold each.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "BC75B223-B682-4F8F-9AA2-E1F47C867077",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "High",
+  "name": "Knee-to-Wall Ankle Mobilization",
+  "instructions": "Stand facing wall, foot 5 cm from base. Drive knee to touch wall keeping heel down. Progress distance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

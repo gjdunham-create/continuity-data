@@ -1,0 +1,21 @@
+{
+  "id": "4F9CAC9A-DF27-41D2-8631-1C6E6204735F",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Wrist Extension with Load",
+  "instructions": "Forearm on table, hand off edge palm down. Lift wrist through full extension with light weight.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

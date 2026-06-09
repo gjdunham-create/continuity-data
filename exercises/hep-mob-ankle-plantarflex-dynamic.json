@@ -1,0 +1,21 @@
+{
+  "id": "7EF86615-6AEE-4328-91D7-B2DB42424F2C",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "High",
+  "name": "Ankle Plantarflexion CARs",
+  "instructions": "Seated or standing. Move foot through maximum plantarflexion arc including slight inversion and eversion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

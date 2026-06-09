@@ -1,0 +1,21 @@
+{
+  "id": "8C81B384-F6BA-48C8-82EE-3CE32BE69E16",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "Medium",
+  "name": "Standing Ankle Eversion",
+  "instructions": "Stand sideways near wall. Lift inner edge of foot turning sole outward. Hold and return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

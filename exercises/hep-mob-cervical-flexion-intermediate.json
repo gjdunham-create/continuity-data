@@ -1,0 +1,21 @@
+{
+  "id": "BD09AA3E-DB33-4CB4-B610-03F9CD551ED7",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Cervical Flexion with Chin Nod",
+  "instructions": "Seated, first tuck chin then flex entire cervical spine forward. Dissociates upper from lower cervical.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

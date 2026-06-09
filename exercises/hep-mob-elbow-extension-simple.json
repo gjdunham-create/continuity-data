@@ -1,0 +1,21 @@
+{
+  "id": "8632A7FB-7C02-4E31-8CCF-97269E37237A",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Active Elbow Extension AROM",
+  "instructions": "Seated, elbow bent. Slowly straighten elbow to full extension. Return. Emphasize end range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

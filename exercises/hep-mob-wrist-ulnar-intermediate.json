@@ -1,0 +1,21 @@
+{
+  "id": "6AA18D87-147B-48E3-AFEC-A405BBBDD298",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "Medium",
+  "name": "Ulnar Deviation with Load",
+  "instructions": "Hold hammer vertically. Move wrist toward small finger side against hammer weight. Full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

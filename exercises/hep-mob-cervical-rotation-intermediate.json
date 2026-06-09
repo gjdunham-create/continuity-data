@@ -1,0 +1,21 @@
+{
+  "id": "BCE8E756-8DC7-4E5D-8BF7-C4295DB8A012",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Rotation",
+  "difficulty": "Medium",
+  "name": "Cervical Rotation with Retraction",
+  "instructions": "Seated, draw chin back into retraction. Rotate from this position left and right through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

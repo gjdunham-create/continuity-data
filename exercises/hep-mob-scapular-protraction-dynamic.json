@@ -1,0 +1,21 @@
+{
+  "id": "4831CBA9-6A9F-4289-B13C-E6B1E21F4192",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "High",
+  "name": "Serratus Punch AROM",
+  "instructions": "Lie on back, arm pointing toward ceiling. Punch arm further toward ceiling protracting scapula fully.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

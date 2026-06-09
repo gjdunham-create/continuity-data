@@ -1,0 +1,21 @@
+{
+  "id": "AC96A82B-DAAB-422E-80FE-AF8123242048",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Supination",
+  "difficulty": "Medium",
+  "name": "Supination with Hammer",
+  "instructions": "Hold hammer at mid-shaft, elbow at 90 degrees. Rotate forearm palm up against weight of hammer head.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

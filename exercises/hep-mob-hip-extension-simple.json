@@ -1,0 +1,21 @@
+{
+  "id": "169AE8A1-F424-4DD5-B630-C0F41C03881F",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Prone Hip Extension AROM",
+  "instructions": "Lie face down. Keeping knee bent, lift thigh off floor extending hip. Keep pelvis flat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

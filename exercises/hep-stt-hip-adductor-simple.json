@@ -1,0 +1,21 @@
+{
+  "id": "4FACD942-9BB5-450F-AF64-BBA2E779004A",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Supine Butterfly Stretch",
+  "instructions": "Lie on back, soles of feet together. Let knees fall out to sides. Gently press knees toward floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

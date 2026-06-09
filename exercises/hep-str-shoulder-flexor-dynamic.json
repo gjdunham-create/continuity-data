@@ -1,0 +1,21 @@
+{
+  "id": "5DD07F2E-789F-49B4-8E08-E0AEB35107B9",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Shoulder Overhead Press",
+  "instructions": "Standing with light weight. Press arm from shoulder height to full overhead. Lower with control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "A47F2448-FA2B-442C-8518-0F98E62C777B",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "Medium",
+  "name": "Standing Ankle Dorsiflexion AROM",
+  "instructions": "Standing at wall, hands on wall. Rock forward driving knee toward wall. Keep heel down.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

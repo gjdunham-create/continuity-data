@@ -1,0 +1,21 @@
+{
+  "id": "AD2D4CD2-1825-4C7B-933C-EA31557A6355",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "Medium",
+  "name": "Heel Walk",
+  "instructions": "Stand and lift both forefeet off floor. Walk forward on heels only keeping toes raised.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

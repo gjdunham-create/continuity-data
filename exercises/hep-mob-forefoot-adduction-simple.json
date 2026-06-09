@@ -1,0 +1,21 @@
+{
+  "id": "13FB9462-836A-4736-8176-469255389FFA",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Seated Toe Adduction AROM",
+  "instructions": "Seated barefoot. Squeeze all toes together actively. Hold then spread apart.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

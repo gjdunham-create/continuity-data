@@ -1,0 +1,21 @@
+{
+  "id": "DF8B404A-06BC-47BF-9A73-ABEC14E283A6",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Composite Finger Flexion CARs",
+  "instructions": "Move fingers through composite flexion: MCP, PIP, DIP sequentially. Arc through all joints.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

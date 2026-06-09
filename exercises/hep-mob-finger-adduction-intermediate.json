@@ -1,0 +1,21 @@
+{
+  "id": "9B5A2A3E-CE30-43BB-A1B0-9F61FDDF266A",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Progressive Finger Squeeze",
+  "instructions": "Spread fingers wide. Adduct each adjacent pair together in sequence. Control movement.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

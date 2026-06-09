@@ -1,0 +1,21 @@
+{
+  "id": "AABF5EBE-452B-4749-83C6-50B691C7762F",
+  "goal": "Strengthening",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "Low",
+  "name": "Wall Push-Up Plus",
+  "instructions": "Hands on wall, slight bend in elbows. Push chest away from wall rounding upper back (serratus activation).",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

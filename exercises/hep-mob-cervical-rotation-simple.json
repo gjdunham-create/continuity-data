@@ -1,0 +1,21 @@
+{
+  "id": "5B186286-AEBF-4494-ADAC-B5BD217A43B4",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Rotation",
+  "difficulty": "Low",
+  "name": "Cervical Rotation AROM",
+  "instructions": "Seated tall. Rotate chin toward each shoulder through full comfortable range. Keep level.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

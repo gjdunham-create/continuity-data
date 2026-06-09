@@ -1,0 +1,21 @@
+{
+  "id": "ACAAC1D3-BE00-4CFB-9E6B-973C96D145DC",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "Low",
+  "name": "Upper Trapezius Stretch",
+  "instructions": "Seated, tilt head to side. Use hand to gently increase tilt. Anchor opposite shoulder with free hand.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

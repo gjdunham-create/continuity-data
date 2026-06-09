@@ -1,0 +1,21 @@
+{
+  "id": "71FCEAEE-564A-416E-B77C-F8DFB115216C",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Wall Bicep Stretch",
+  "instructions": "Place palm flat on wall behind at waist height. Step away rotating body until deep bicep stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6595FF21-5B46-46C1-BD14-C5D87F50CC6A",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Cross-Body Tricep Stretch",
+  "instructions": "Bring bent elbow across chest. Hold upper arm with opposite hand and gently increase stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

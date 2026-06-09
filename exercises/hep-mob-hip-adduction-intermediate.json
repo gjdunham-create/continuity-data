@@ -1,0 +1,21 @@
+{
+  "id": "1CC254D6-7C48-4A73-8D4D-18AD43BA9DFF",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Standing Hip Adduction AROM",
+  "instructions": "Standing on one leg. Sweep opposite leg across front of body into adduction. Use wall for balance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

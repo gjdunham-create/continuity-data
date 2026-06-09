@@ -1,0 +1,21 @@
+{
+  "id": "0AEE358C-AF81-4C21-93CF-EA604CDAF419",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Progressive Toe Adduction",
+  "instructions": "Standing barefoot. Adduct each toe toward midline individually in sequence.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

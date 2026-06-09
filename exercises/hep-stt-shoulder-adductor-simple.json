@@ -1,0 +1,21 @@
+{
+  "id": "C99A7DFF-52CB-4DDF-A971-6442AE18984F",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Standing Side Stretch",
+  "instructions": "Raise one arm overhead and lean sideways. Feel stretch along side of trunk and shoulder.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0658D332-D1EF-4566-99C9-87C29FF495FA",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Hammer Curl",
+  "instructions": "Weights in hands, thumbs facing up (neutral grip). Curl alternating arms. Emphasize slow eccentric lowering.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

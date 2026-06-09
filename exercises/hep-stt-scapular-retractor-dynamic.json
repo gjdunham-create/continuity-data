@@ -1,0 +1,21 @@
+{
+  "id": "506AF8A5-94A8-4C5F-8905-3E91DBFCBA56",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Retraction",
+  "difficulty": "High",
+  "name": "Thoracic Flexion Stretch",
+  "instructions": "Seated, clasp hands behind head. Curl forward letting elbows drop toward thighs. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

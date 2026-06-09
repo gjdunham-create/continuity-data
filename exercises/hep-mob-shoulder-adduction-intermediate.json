@@ -1,0 +1,21 @@
+{
+  "id": "B0944037-2911-46B1-868D-AF3B36EEB0F0",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Cross-Body Horizontal Adduction AROM",
+  "instructions": "Bring arm across chest. Apply gentle overpressure with opposite hand at end range. Return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FC59061E-C46B-4ADA-A0E0-658CBA0F2A18",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "High",
+  "name": "Single-Leg Balance Eversion Challenge",
+  "instructions": "Single-leg balance on uneven surface. Focus on peroneal activation to maintain eversion control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 30,
+    "max": 45
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3CB6A27B-9601-415B-8743-967967AF21EA",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Retraction",
+  "difficulty": "High",
+  "name": "Prone Retraction AROM",
+  "instructions": "Lie face down, arms at sides. Squeeze shoulder blades together lifting arms slightly. Control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

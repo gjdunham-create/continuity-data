@@ -1,0 +1,21 @@
+{
+  "id": "B94A5CF6-5793-42FA-AEF7-A46B02E14103",
+  "goal": "Strengthening",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Toe Spread and Squeeze",
+  "instructions": "Seated barefoot. Spread toes wide and hold, then squeeze together. Control each movement fully.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "27015D53-F24C-47EF-A99D-FACCE7D67245",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Suboccipital Release Stretch",
+  "instructions": "Lie on back with rolled towel at base of skull. Gently nod chin down to lengthen suboccipitals.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

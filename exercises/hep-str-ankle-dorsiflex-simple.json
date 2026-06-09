@@ -1,0 +1,21 @@
+{
+  "id": "482BC683-160A-4F26-B05A-9FF9A540B339",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Dorsiflexion with Band",
+  "instructions": "Seated, band around foot anchored in front. Pull foot up and back against resistance. Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

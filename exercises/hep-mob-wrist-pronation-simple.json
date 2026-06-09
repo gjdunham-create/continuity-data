@@ -1,0 +1,21 @@
+{
+  "id": "845E3AC4-D7CD-4BAE-9AB2-7FAE6B465017",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "Low",
+  "name": "Forearm Pronation AROM",
+  "instructions": "Elbow at 90 degrees. Slowly rotate forearm palm down through full pronation range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

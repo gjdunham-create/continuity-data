@@ -1,0 +1,21 @@
+{
+  "id": "68C41A54-5002-490D-BDF3-CBF92ECF7E77",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Seated Knee Flexion AROM",
+  "instructions": "Seated at edge of chair. Slowly swing lower leg forward and back through maximum range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

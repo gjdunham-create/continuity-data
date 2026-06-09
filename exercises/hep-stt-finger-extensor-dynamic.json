@@ -1,0 +1,21 @@
+{
+  "id": "3E96E849-1894-4815-A14F-0848C3019B0A",
+  "goal": "Stretching",
+  "bodyPart": "Finger",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Full Fist Overpressure Stretch",
+  "instructions": "Close to full fist. Use opposite hand to gently push fingers further into flexion. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

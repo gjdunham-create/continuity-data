@@ -1,0 +1,21 @@
+{
+  "id": "8896FF6E-954F-42D6-8DEB-B6B01130D8EF",
+  "goal": "Strengthening",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Towel Toe Curls",
+  "instructions": "Seated barefoot, towel on floor. Scrunch towel toward you using toes only. Repeat.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

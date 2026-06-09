@@ -1,0 +1,21 @@
+{
+  "id": "D0F2DA6E-3B04-45F7-B070-C412EAD3309E",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "High",
+  "name": "Standing Lumbar Lateral Flexion",
+  "instructions": "Standing, fix feet. Slide one hand down thigh into lateral flexion. Keep hips level.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

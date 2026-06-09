@@ -1,0 +1,21 @@
+{
+  "id": "228EA082-C015-4791-BC22-B20E39C58524",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "High",
+  "name": "Ankle Eversion CARs",
+  "instructions": "Seated or standing. Move foot through eversion combined with dorsiflexion in controlled arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

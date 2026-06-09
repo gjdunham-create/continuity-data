@@ -1,0 +1,21 @@
+{
+  "id": "2AA5229C-E754-4820-82FB-B528A7211010",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Prone Shoulder Extension",
+  "instructions": "Lie face down, arm at side. Lift arm toward ceiling squeezing posterior deltoid. Hold and lower.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

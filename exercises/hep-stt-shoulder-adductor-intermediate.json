@@ -1,0 +1,21 @@
+{
+  "id": "92EC14D0-7E7F-4BA4-AD57-22AE4E60C9BB",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Doorway Lat Stretch",
+  "instructions": "Hold door frame at shoulder height. Step back allowing shoulder to reach into flexion and abduction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

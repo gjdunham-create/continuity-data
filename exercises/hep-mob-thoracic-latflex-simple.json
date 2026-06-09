@@ -1,0 +1,21 @@
+{
+  "id": "66E2F11C-B539-4A4B-AEE6-9B6CAC5FD84C",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Low",
+  "name": "Seated Thoracic Side Bend",
+  "instructions": "Seated, raise one arm overhead. Lean to opposite side bending through thoracic spine.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

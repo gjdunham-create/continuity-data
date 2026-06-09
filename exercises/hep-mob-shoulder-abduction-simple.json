@@ -1,0 +1,21 @@
+{
+  "id": "6FD5AABA-52E1-47A9-A75B-7501969B2D9D",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Shoulder Abduction AROM",
+  "instructions": "Standing. Raise arm out to side to comfortable end range. Lower slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

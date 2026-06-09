@@ -1,0 +1,21 @@
+{
+  "id": "771BB548-EF6B-42DB-A0AA-3908B351905B",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Cross-Leg Glute Stretch",
+  "instructions": "Seated in chair, cross ankle over opposite thigh. Gently press knee downward. Lean forward slightly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

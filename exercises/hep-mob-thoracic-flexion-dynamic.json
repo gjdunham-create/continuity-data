@@ -1,0 +1,21 @@
+{
+  "id": "C4E6C318-C9B4-425A-BB3D-A5390E9FCACA",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Foam Roller Thoracic Flexion",
+  "instructions": "Foam roller lengthwise under spine. Flex thoracic spine to each side off roller for segmental motion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

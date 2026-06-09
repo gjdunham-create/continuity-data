@@ -1,0 +1,21 @@
+{
+  "id": "B15202F5-777A-47DD-A0A9-2CAA0CC556F7",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "Medium",
+  "name": "Standing Calf Raise AROM",
+  "instructions": "Stand at edge of step. Rise onto toes through maximum plantarflexion. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

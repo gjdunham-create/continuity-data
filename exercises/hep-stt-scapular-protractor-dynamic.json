@@ -1,0 +1,21 @@
+{
+  "id": "7D43FD27-993B-49AF-95C1-3EC32AE8015E",
+  "goal": "Stretching",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "High",
+  "name": "Prone Pec Stretch",
+  "instructions": "Lie face down, arm out to side at 90 degrees. Gently roll onto that side stretching chest.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

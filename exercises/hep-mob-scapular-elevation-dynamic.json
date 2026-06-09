@@ -1,0 +1,21 @@
+{
+  "id": "6871D7C7-66DE-4F11-A005-830E45285E3F",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Elevation",
+  "difficulty": "High",
+  "name": "Scapular Elevation CARs",
+  "instructions": "Elevate scapulae fully then transition to other positions in full scapular CARs sequence.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

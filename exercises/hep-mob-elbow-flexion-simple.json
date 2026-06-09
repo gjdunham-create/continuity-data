@@ -1,0 +1,21 @@
+{
+  "id": "28E19018-C7AE-4464-9DDB-FFC8BF4CD1A5",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Active Elbow Flexion AROM",
+  "instructions": "Seated, elbow at side. Slowly bend elbow to full flexion. Lower to full extension. Full range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "29E50059-2D0E-4DC8-BCFC-5B01A3C7A44D",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "High",
+  "name": "Ulnar Deviation with Band",
+  "instructions": "Band around outside of hand anchored below. Deviate wrist toward small finger against resistance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

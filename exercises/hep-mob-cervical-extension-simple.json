@@ -1,0 +1,21 @@
+{
+  "id": "C5CEF0A7-454D-434F-9D44-37B3C93A9BE2",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Cervical Extension AROM",
+  "instructions": "Seated tall. Slowly tilt chin upward toward ceiling through full comfortable range. Return to neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "B330751A-F0BB-46F7-A1EE-E9F45B6FA620",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Cervical Flexion AROM",
+  "instructions": "Seated tall. Slowly drop chin toward chest through full comfortable range. Return to neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3E975253-7A7D-468B-89C1-808CCCE980F8",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Cross-Body Stretch with Overpressure",
+  "instructions": "Arm across chest. Apply downward pressure at elbow increasing horizontal adduction range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

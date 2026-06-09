@@ -1,0 +1,21 @@
+{
+  "id": "3A069889-E752-4D55-B987-475C564A31A0",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "External Rotation",
+  "difficulty": "High",
+  "name": "External Rotation at 90 Degrees Abduction",
+  "instructions": "Arm out to side at 90 degrees. Rotate forearm up toward ceiling against band resistance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

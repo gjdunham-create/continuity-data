@@ -1,0 +1,21 @@
+{
+  "id": "F828E59D-D46B-4692-99F5-DB33E0617C03",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Internal Rotation",
+  "difficulty": "Low",
+  "name": "Shoulder IR AROM",
+  "instructions": "Elbow at 90 degrees at side. Rotate forearm inward toward stomach. Return to neutral.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

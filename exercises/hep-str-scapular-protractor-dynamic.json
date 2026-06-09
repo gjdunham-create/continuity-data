@@ -1,0 +1,21 @@
+{
+  "id": "82CCC784-2874-4AFE-B395-EAFC57ECDCEE",
+  "goal": "Strengthening",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "High",
+  "name": "Serratus Punch with Band",
+  "instructions": "Band anchored behind, arm forward at 90 degrees. Punch further forward protracting scapula. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

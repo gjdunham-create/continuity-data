@@ -1,0 +1,21 @@
+{
+  "id": "87C2A910-95D4-4522-9050-A9559E596B93",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Supine Knees to Chest",
+  "instructions": "Lie on back. Draw both knees toward chest moving lumbar spine into full flexion. Hold briefly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

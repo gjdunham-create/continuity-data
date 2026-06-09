@@ -1,0 +1,21 @@
+{
+  "id": "C165BB3E-83AF-42DC-8C2A-EACC05D6F677",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Composite Finger Extension CARs",
+  "instructions": "From fist, extend digits sequentially through MCP, PIP, DIP. Arc through all joints smoothly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "A487600A-D434-45C1-92BD-7140961FB6F8",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Standing Hip Flexor Stretch",
+  "instructions": "Stand staggered. Shift weight forward stretching back hip flexor. Keep trunk tall.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

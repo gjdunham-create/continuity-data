@@ -1,0 +1,21 @@
+{
+  "id": "635F7B70-5AAB-4C3F-8EF7-86E76B72B437",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Standing Hip March",
+  "instructions": "Standing tall. Alternate lifting knees high toward chest. Control each movement. Stay upright.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

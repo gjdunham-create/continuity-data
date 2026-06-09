@@ -1,0 +1,21 @@
+{
+  "id": "5B4C73C4-6205-405D-86BD-34363B99CFD7",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Hip Abduction CARs",
+  "instructions": "Standing, move hip through abduction, external rotation arc in controlled large motion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

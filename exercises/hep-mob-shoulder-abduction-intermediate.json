@@ -1,0 +1,21 @@
+{
+  "id": "D506934D-2348-4618-8BEC-3DD4874BF88D",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Assisted Shoulder Abduction AROM",
+  "instructions": "Use other hand or pulley to assist arm into abduction. Aim for full 180 degrees.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

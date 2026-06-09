@@ -1,0 +1,21 @@
+{
+  "id": "9D734A20-88E6-460C-850F-4CD2D40DACCD",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Rotation",
+  "difficulty": "High",
+  "name": "Banded Woodchop",
+  "instructions": "Band anchored high. Pull diagonally down and across body rotating trunk. Control return slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

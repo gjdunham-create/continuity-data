@@ -1,0 +1,21 @@
+{
+  "id": "D508F41E-ABFA-449A-A41A-47D58401AB4B",
+  "goal": "Stretching",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Bicep Stretch",
+  "instructions": "Extend arm behind at shoulder height, thumb down. Rotate shoulder outward until stretch in bicep.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

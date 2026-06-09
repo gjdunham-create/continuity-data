@@ -1,0 +1,21 @@
+{
+  "id": "18944480-1AEE-4351-B50E-D78DBF23BAB6",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Supination",
+  "difficulty": "Medium",
+  "name": "Forearm Supination with Load",
+  "instructions": "Hold hammer at mid-shaft. Rotate forearm palm up through full supination. Return slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

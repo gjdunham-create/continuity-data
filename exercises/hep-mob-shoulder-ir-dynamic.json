@@ -1,0 +1,21 @@
+{
+  "id": "35675C12-ADE7-4492-846D-D784ED5771B9",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Internal Rotation",
+  "difficulty": "High",
+  "name": "Shoulder IR CARs",
+  "instructions": "Elbow at 90 degrees. Move forearm through maximum IR arc. At end range, increase range gently.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

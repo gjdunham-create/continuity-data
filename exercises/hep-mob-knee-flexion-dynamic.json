@@ -1,0 +1,21 @@
+{
+  "id": "6D533811-9E84-49F5-A934-E852143C0628",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Prone Knee Flexion AROM",
+  "instructions": "Lie face down. Bend knee bringing heel toward glute through maximum range. Control throughout.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

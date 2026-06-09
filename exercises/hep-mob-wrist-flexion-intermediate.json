@@ -1,0 +1,21 @@
+{
+  "id": "38C72560-E8F2-48CE-8CE1-F56D09A1B7E0",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Wrist Flexion with Load",
+  "instructions": "Forearm on table, hand off edge. Slowly flex wrist through full range with light weight.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

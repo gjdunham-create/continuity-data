@@ -1,0 +1,21 @@
+{
+  "id": "64470C6E-2EC0-44D5-B65F-9F7DFC464806",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Supine Chin Tuck",
+  "instructions": "Lie on back. Gently tuck chin straight back and hold. Keep neck relaxed.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

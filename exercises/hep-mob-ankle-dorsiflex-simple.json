@@ -1,0 +1,21 @@
+{
+  "id": "FC52D042-CDDE-424B-B67F-C063FCAA7D3D",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "Low",
+  "name": "Seated Ankle Dorsiflexion AROM",
+  "instructions": "Seated, foot off floor. Pull foot upward toward shin through full dorsiflexion range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

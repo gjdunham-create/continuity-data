@@ -1,0 +1,21 @@
+{
+  "id": "4076DEED-C455-46A3-917B-27D5C47FEFD7",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Standing Lumbar Extension AROM",
+  "instructions": "Standing, hands on hips. Lean back through maximum lumbar extension range. Return slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

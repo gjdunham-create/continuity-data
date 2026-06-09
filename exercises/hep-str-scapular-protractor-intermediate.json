@@ -1,0 +1,21 @@
+{
+  "id": "D5A67CC3-7DE1-4605-AC51-35CF9C1A292D",
+  "goal": "Strengthening",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "Medium",
+  "name": "Push-Up Plus",
+  "instructions": "Standard push-up position. At top, push further rounding upper back to fully protract shoulder blades.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

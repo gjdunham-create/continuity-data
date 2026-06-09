@@ -1,0 +1,21 @@
+{
+  "id": "D1FE6DC4-199B-4233-BE66-905CB6E7074E",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Upward Rotation",
+  "difficulty": "Medium",
+  "name": "Arm Elevation Upward Rotation",
+  "instructions": "Standing. Raise arm in scapular plane to full overhead. Pause at 60, 90, and 120 degrees.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

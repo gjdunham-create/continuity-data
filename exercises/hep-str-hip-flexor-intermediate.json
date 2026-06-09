@@ -1,0 +1,21 @@
+{
+  "id": "595B206C-F7E5-4A35-9756-CB3C8970D0DA",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Standing Hip Flexion with Band",
+  "instructions": "Band around ankle anchored behind you. Standing, lift knee forward and up against resistance. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

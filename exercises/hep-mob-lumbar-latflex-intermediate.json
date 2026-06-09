@@ -1,0 +1,21 @@
+{
+  "id": "494289CD-21AD-4640-A6ED-E3FA28CBB3C1",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Medium",
+  "name": "Side-Lying Lumbar Lateral Flexion",
+  "instructions": "Lie on side, hips stacked. Lift torso sideways away from floor. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "920DBAD3-7DE5-45CA-9372-0491E4C0BF9A",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Prone Cervical Extension",
+  "instructions": "Lie face down. Slowly lift head and extend neck toward ceiling. Control return to floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

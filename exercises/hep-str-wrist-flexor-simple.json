@@ -1,0 +1,21 @@
+{
+  "id": "AACDB154-795C-4DDE-BFA4-666994732751",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Wrist Curl",
+  "instructions": "Seated, forearm on thigh, hand over knee palm up. Curl wrist up toward ceiling. Lower slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "82966C0E-02E9-4764-969E-6AB97B6262A1",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Standing Toe Adduction",
+  "instructions": "Standing barefoot. Squeeze toes together against floor resistance. Hold maximum adduction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

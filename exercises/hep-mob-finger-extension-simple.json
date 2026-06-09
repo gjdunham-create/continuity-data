@@ -1,0 +1,21 @@
+{
+  "id": "69602500-B3C8-4174-99A9-4E9B52A4FDE3",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Finger Extension AROM",
+  "instructions": "From full fist, slowly open hand spreading fingers into maximum extension. Repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

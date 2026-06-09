@@ -1,0 +1,21 @@
+{
+  "id": "E7538F58-CF09-45CC-9E3D-04F3E8964A12",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Shoulder Pulley Assisted Flexion",
+  "instructions": "Pulley anchored above door. Use uninvolved arm to pull involved arm into flexion range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

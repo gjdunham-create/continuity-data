@@ -1,0 +1,21 @@
+{
+  "id": "A936A9BE-6428-4EF9-A881-918069562035",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Wrist Extension CARs",
+  "instructions": "Extend wrist to maximum. At end range, add finger extension and attempt to gain more range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

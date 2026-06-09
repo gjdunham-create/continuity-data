@@ -1,0 +1,21 @@
+{
+  "id": "82859C33-1A30-44F1-BAB0-7FD21AFE8668",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Side-Lying Hip Adduction",
+  "instructions": "Lie on side, top leg bent in front for balance. Lift bottom leg up toward ceiling. Hold and lower.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

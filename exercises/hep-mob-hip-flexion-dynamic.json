@@ -1,0 +1,21 @@
+{
+  "id": "C41A37E7-1287-4AA6-8524-512A92DEFE4F",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Hip Flexion CARs",
+  "instructions": "Standing on one leg. Drive opposite knee high, rotate hip, and lower through controlled arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

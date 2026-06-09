@@ -1,0 +1,21 @@
+{
+  "id": "AAC86A71-1D06-4CD6-901B-B97AE1611FB9",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "High",
+  "name": "Single-Leg Heel Walk",
+  "instructions": "Balance on one heel with forefoot raised. Step forward on single heel. Maintain balance and control.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

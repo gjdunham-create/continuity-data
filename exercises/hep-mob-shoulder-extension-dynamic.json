@@ -1,0 +1,21 @@
+{
+  "id": "8A72213F-C968-4BE8-8DE4-5BDFAD6291E4",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Shoulder Extension CARs",
+  "instructions": "Move arm through maximum extension arc. At end range, attempt to reach further back.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

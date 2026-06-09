@@ -1,0 +1,21 @@
+{
+  "id": "14B201DB-F3F0-4F0B-8448-C571E7BB83D6",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Paper Pinch Between Fingers",
+  "instructions": "Place thin paper between adjacent fingers. Squeeze fingers together to grip paper as it is pulled.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

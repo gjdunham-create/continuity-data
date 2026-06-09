@@ -1,0 +1,21 @@
+{
+  "id": "F336C517-F7D9-48AC-A5DE-A8FFD999BE07",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Seated Toe Extension AROM",
+  "instructions": "Seated barefoot. Lift all toes upward into extension. Hold briefly then lower fully.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

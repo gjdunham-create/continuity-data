@@ -1,0 +1,21 @@
+{
+  "id": "46DC4109-16C1-4F37-9996-415A922A605D",
+  "goal": "Stretching",
+  "bodyPart": "Knee",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Cross-Leg IT Band Stretch",
+  "instructions": "Lie on back, cross one leg over other. Let both knees fall to opposite side until outer hip stretches.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

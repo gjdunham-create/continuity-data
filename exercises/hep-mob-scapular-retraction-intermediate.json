@@ -1,0 +1,21 @@
+{
+  "id": "E2204294-0F83-40F9-B66F-2878A21C4E36",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Retraction",
+  "difficulty": "Medium",
+  "name": "Band-Resisted Retraction AROM",
+  "instructions": "Light band in hands. Pull shoulder blades back and together against resistance. Control forward.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

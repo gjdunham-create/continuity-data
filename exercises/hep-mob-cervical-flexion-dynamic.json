@@ -1,0 +1,21 @@
+{
+  "id": "45E9606F-C0E4-4187-B070-8AD556960BBB",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Progressive Cervical Flexion AROM",
+  "instructions": "Seated, flex cervical spine to end range, hold briefly, then attempt gentle overpressure with own hand.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

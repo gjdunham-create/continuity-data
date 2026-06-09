@@ -1,0 +1,21 @@
+{
+  "id": "8EB7FD76-6198-42C4-ADC7-7679169F59A9",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Seated Isometric Cervical Extension",
+  "instructions": "Seated, clasp hands behind head. Press head back into hands resisting all movement. Hold isometric contraction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

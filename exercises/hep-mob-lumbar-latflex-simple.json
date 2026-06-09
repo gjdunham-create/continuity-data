@@ -1,0 +1,21 @@
+{
+  "id": "E9571C1A-0593-4B3D-B472-2186DE5857C0",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Low",
+  "name": "Seated Lateral Lumbar Bend",
+  "instructions": "Seated, hand on opposite knee. Lean trunk to side moving through lumbar lateral flexion range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

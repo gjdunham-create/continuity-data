@@ -1,0 +1,21 @@
+{
+  "id": "0732FEA9-DE66-4748-A819-1284719C1CE8",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "External Rotation",
+  "difficulty": "Low",
+  "name": "Seated Tibial External Rotation AROM",
+  "instructions": "Seated, knee at 90 degrees. Rotate foot and lower leg outward (tibial ER). Control return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

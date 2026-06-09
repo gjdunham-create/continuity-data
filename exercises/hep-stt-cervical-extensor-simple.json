@@ -1,0 +1,21 @@
+{
+  "id": "16D30A14-A93E-4E67-9BD7-A40D4D0EFD45",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Cervical Flexion Stretch",
+  "instructions": "Seated, gently drop chin toward chest. Apply light hand pressure at back of head for overpressure.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

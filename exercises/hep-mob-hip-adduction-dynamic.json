@@ -1,0 +1,21 @@
+{
+  "id": "108E3CB0-0A5B-4419-A64C-E63BF94A4176",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Hip Adduction CARs",
+  "instructions": "Standing, arc hip through adduction and internal rotation in controlled large motion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

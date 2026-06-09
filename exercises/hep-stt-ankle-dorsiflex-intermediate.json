@@ -1,0 +1,21 @@
+{
+  "id": "993D07D3-FAF5-4B78-B2EA-4AC747A8D000",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "Medium",
+  "name": "Kneeling Dorsiflexor Stretch",
+  "instructions": "Kneel sitting on heels with tops of feet flat. Gently shift weight backward pressing top of foot down.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "A3A85A6E-8E31-4880-B98C-2CC2E6574619",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Resisted Cervical Flexion with Band",
+  "instructions": "Loop band around back of head anchored to wall. Flex neck forward against band resistance. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

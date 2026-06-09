@@ -1,0 +1,21 @@
+{
+  "id": "B923E9C2-990D-4271-909E-6247E1F1B368",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Low",
+  "name": "Cervical Lateral Flexion AROM",
+  "instructions": "Seated tall. Tilt ear toward shoulder to each side through full comfortable range. Stay relaxed.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1793A1DB-2F5E-4D81-A537-15578B9698D4",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Depression",
+  "difficulty": "Low",
+  "name": "Scapular Depression AROM",
+  "instructions": "Seated or standing. Push both shoulders downward away from ears through full range. Return slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

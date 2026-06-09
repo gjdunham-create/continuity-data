@@ -1,0 +1,21 @@
+{
+  "id": "4188F06B-B4AD-46F1-824B-44356AF3FCF5",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Seated Toe Curl AROM",
+  "instructions": "Seated barefoot. Curl all toes downward into flexion. Hold briefly then straighten fully.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

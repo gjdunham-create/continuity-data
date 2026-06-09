@@ -1,0 +1,21 @@
+{
+  "id": "4190D437-4E7A-467E-BBEA-9E2BD58B1214",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Progressive Toe Abduction",
+  "instructions": "Standing barefoot. Abduct each toe individually away from midline. Work small toe to great toe.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

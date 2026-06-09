@@ -1,0 +1,21 @@
+{
+  "id": "D57C3719-9268-4BC0-B2B1-E50BF628796B",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Seated Isometric Cervical Flexion",
+  "instructions": "Seated, press forehead firmly into palm. Resist all movement and hold the isometric contraction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

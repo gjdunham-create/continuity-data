@@ -1,0 +1,21 @@
+{
+  "id": "88E6374D-0DFF-4A14-A44F-00B8DE8B0AF5",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Progressive Cervical Extension AROM",
+  "instructions": "Seated, extend to end range, hold, then use hand support behind head to progress further.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

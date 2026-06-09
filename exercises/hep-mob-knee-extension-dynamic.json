@@ -1,0 +1,21 @@
+{
+  "id": "0A0B8806-108D-492F-804F-403F85CD0887",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Terminal Knee Extension with Band",
+  "instructions": "Band behind knee. Stand on one leg. Complete last degrees of knee extension against band.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

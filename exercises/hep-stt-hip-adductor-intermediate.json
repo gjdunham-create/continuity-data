@@ -1,0 +1,21 @@
+{
+  "id": "C29DFA1E-7388-4B3B-AD38-810D34A1158C",
+  "goal": "Stretching",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Medium",
+  "name": "Wide-Leg Seated Stretch",
+  "instructions": "Seated on floor, legs spread wide. Hinge forward at hips reaching hands between legs.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

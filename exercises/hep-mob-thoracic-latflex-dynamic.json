@@ -1,0 +1,21 @@
+{
+  "id": "A4449A1F-EF56-4874-89BF-91AE89AFC9E1",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "High",
+  "name": "Standing Thoracic Side Bend",
+  "instructions": "Standing, fix pelvis. Reach one arm up and over bending only through thoracic spine not lumbar.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

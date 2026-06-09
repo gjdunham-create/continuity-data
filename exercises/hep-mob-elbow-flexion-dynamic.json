@@ -1,0 +1,21 @@
+{
+  "id": "00528E74-43E5-4242-A8E9-9CC03F991C89",
+  "goal": "Mobilizing",
+  "bodyPart": "Elbow",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Elbow Flexion CARs",
+  "instructions": "Flex elbow to maximum range. At end range rotate forearm and attempt to gain further flexion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

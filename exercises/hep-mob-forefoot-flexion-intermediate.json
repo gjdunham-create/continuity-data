@@ -1,0 +1,21 @@
+{
+  "id": "AF0BF643-6064-45A1-B049-47C65C378085",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Standing Toe Curl AROM",
+  "instructions": "Standing barefoot. Actively curl toes into flexion. Hold and release through full range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

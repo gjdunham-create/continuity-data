@@ -1,0 +1,21 @@
+{
+  "id": "6C492C23-83E2-42A2-9BB4-AE13B0489E8E",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Eccentric Wrist Extension",
+  "instructions": "Use other hand to extend wrist. Remove assisting hand and lower slowly using extensors eccentrically.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

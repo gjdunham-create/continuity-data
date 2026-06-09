@@ -1,0 +1,21 @@
+{
+  "id": "9CAE1430-DC80-48CF-A03D-6C6E87276E9E",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Internal Rotation",
+  "difficulty": "High",
+  "name": "90-90 Internal Rotation",
+  "instructions": "Seated 90-90 position. Rotate torso toward front shin driving hip into internal rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

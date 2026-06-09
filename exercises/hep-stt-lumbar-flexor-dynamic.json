@@ -1,0 +1,21 @@
+{
+  "id": "36150CC8-EDE6-4333-A627-2BF00C4EBED2",
+  "goal": "Stretching",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Upward-Facing Dog Stretch",
+  "instructions": "Lie face down, hands by chest. Press into full arm extension arching back. Thighs off floor.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

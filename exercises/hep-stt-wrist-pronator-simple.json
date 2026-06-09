@@ -1,0 +1,21 @@
+{
+  "id": "02410152-AB33-4A68-A741-D65F3ED2E2F3",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "Low",
+  "name": "Passive Forearm Supination Stretch",
+  "instructions": "Elbow at 90 degrees. Use opposite hand to gently guide forearm into full supination. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

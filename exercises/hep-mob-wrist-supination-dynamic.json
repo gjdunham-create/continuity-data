@@ -1,0 +1,21 @@
+{
+  "id": "1D58EDEE-B179-47E1-AF89-8EDA5E67F1D5",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Supination",
+  "difficulty": "High",
+  "name": "Supination CARs",
+  "instructions": "Move through maximum supination and combine with wrist radial deviation in arc. Full range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

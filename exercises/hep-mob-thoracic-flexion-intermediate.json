@@ -1,0 +1,21 @@
+{
+  "id": "80F8550B-66F8-4A32-B340-0C249A641DA3",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Cat Pose",
+  "instructions": "Hands and knees. Round spine fully toward ceiling (cat) pressing mid-back up. Hold then release.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

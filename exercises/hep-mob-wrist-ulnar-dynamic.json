@@ -1,0 +1,21 @@
+{
+  "id": "10DA0D3D-95F2-4E53-B187-D0A044445DE7",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "High",
+  "name": "Ulnar Deviation CARs",
+  "instructions": "Move through maximum ulnar deviation. Arc into flexion and return through neutral continuously.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "AC0186E7-3820-407C-AB50-A29FE90F7B2C",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Internal Rotation",
+  "difficulty": "High",
+  "name": "Single-Leg Tibial IR AROM",
+  "instructions": "Single-leg balance, knee slightly bent. Rotate tibia inward through full range. Control.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

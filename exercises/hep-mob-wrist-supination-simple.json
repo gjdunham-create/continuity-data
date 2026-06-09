@@ -1,0 +1,21 @@
+{
+  "id": "B6728FA5-ECD1-47ED-9D85-59242DBB9B7A",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Supination",
+  "difficulty": "Low",
+  "name": "Forearm Supination AROM",
+  "instructions": "Elbow at 90 degrees. Slowly rotate forearm palm up through full supination range. Return.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

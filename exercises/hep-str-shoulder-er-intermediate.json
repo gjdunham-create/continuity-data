@@ -1,0 +1,21 @@
+{
+  "id": "0BB6B919-EA69-427A-A48C-473C404032C5",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "External Rotation",
+  "difficulty": "Medium",
+  "name": "Band External Rotation",
+  "instructions": "Elbow at 90 degrees at side, band in hand. Rotate forearm outward against resistance. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

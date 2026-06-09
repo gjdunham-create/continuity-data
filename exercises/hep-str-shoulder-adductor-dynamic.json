@@ -1,0 +1,21 @@
+{
+  "id": "63546D20-3ED7-4B16-9B71-40B5385EDFB4",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Band Crossover Adduction",
+  "instructions": "Band anchored high to side. Pull arm diagonally across body and slightly downward. Control the return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

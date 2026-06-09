@@ -1,0 +1,21 @@
+{
+  "id": "C60F0441-5527-46F3-A969-728007FE99F3",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Rubber Band Finger Extension",
+  "instructions": "Loop rubber band around all fingertips. Spread fingers apart against band resistance. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

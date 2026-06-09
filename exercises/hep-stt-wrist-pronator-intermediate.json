@@ -1,0 +1,21 @@
+{
+  "id": "A287CE1B-2E4B-46F7-826F-24C19EAD2FE7",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "Medium",
+  "name": "Supported Supination Stretch",
+  "instructions": "Elbow supported on table. Apply gentle overpressure guiding forearm into maximum supination.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

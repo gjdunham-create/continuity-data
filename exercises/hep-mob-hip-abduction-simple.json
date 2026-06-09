@@ -1,0 +1,21 @@
+{
+  "id": "733E3A5D-C9AF-4335-9E08-12D85949DEB3",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Side-Lying Hip Abduction AROM",
+  "instructions": "Lie on side, leg straight. Lift top leg as high as possible through abduction range. Lower slowly.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

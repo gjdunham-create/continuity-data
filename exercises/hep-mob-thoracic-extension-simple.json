@@ -1,0 +1,21 @@
+{
+  "id": "86121042-1005-4C63-B0F2-96B47A90F400",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Seated Thoracic Extension",
+  "instructions": "Seated, hands behind head. Open elbows and gently extend thoracic spine backward.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

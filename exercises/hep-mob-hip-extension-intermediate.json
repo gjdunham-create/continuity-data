@@ -1,0 +1,21 @@
+{
+  "id": "D3BE7118-C55F-46A8-B02C-68A8AEB59D67",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Standing Hip Extension AROM",
+  "instructions": "Standing on one leg. Swing opposite leg back into extension. Keep trunk upright.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

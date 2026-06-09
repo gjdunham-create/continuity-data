@@ -1,0 +1,21 @@
+{
+  "id": "63B86C48-21C4-421C-8255-0254BD6BBD03",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Standing Hip Abduction with Band",
+  "instructions": "Band above ankles, stand on one leg. Lift opposite leg out to side against resistance. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

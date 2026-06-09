@@ -1,0 +1,21 @@
+{
+  "id": "49A6B985-EF96-40A2-A076-AF6EAD8AEAD4",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Wrist Extension with Dumbbell",
+  "instructions": "Forearm on table, hand off edge palm down. Lift wrist up with light weight. Full range, slow return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

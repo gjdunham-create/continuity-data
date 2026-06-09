@@ -1,0 +1,21 @@
+{
+  "id": "9B2437BE-1979-4D7E-A634-6FC7E5D76606",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "Medium",
+  "name": "Wall Push-Up Protraction",
+  "instructions": "Hands on wall at chest height. At end of push-up, push further protracting scapulae. Return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "F4F81189-3F64-4694-9B6C-6C4753C91A8D",
+  "goal": "Strengthening",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Short Foot Exercise",
+  "instructions": "Standing barefoot. Pull ball of foot toward heel without curling toes to dome arch. Hold contraction.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 5,
+    "max": 10
+  }
+}

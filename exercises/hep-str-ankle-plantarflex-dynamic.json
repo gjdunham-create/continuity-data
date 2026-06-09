@@ -1,0 +1,21 @@
+{
+  "id": "2AD1E754-D1E1-414E-A54B-1933971E4730",
+  "goal": "Strengthening",
+  "bodyPart": "Ankle",
+  "movement": "Plantarflexion",
+  "difficulty": "High",
+  "name": "Single-Leg Calf Raise",
+  "instructions": "Stand on one foot at edge of step. Raise and slowly lower heel below step. Emphasize eccentric phase.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 1,
+    "max": 2
+  }
+}

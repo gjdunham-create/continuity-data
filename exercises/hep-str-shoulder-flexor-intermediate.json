@@ -1,0 +1,21 @@
+{
+  "id": "1FD776A0-85C4-463A-9DF2-7FE25C0DB0FE",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Band Shoulder Forward Raise",
+  "instructions": "Stand on band. Raise arm forward to 90 degrees with thumb up. Lower slowly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

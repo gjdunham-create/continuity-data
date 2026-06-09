@@ -1,0 +1,21 @@
+{
+  "id": "D0B90D94-AD5F-4670-80B9-81425C043B3E",
+  "goal": "Mobilizing",
+  "bodyPart": "Thoracic Spine",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Seated Thoracic Flexion",
+  "instructions": "Seated, clasp hands together. Round upper back forward letting shoulder blades spread apart.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

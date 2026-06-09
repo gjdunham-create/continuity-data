@@ -1,0 +1,21 @@
+{
+  "id": "B9671CE1-C63B-46D5-86FF-E98692D97CDD",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Prone Press-Up",
+  "instructions": "Lie face down, elbows under shoulders. Press up onto elbows arching low back. Keep hips on floor.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

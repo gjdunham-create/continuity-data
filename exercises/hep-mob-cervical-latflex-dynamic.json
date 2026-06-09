@@ -1,0 +1,21 @@
+{
+  "id": "8A881F13-8E15-4049-A8D8-F47E18725F9E",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "High",
+  "name": "Progressive Cervical Lateral Flexion",
+  "instructions": "Lateral flexion to end range. Gently assist with hand to move through any remaining restriction.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

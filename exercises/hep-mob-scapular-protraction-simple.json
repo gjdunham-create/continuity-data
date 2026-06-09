@@ -1,0 +1,21 @@
+{
+  "id": "68CA1B4E-7DDE-4DB3-B53F-D0F825523D9F",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Protraction",
+  "difficulty": "Low",
+  "name": "Scapular Protraction AROM",
+  "instructions": "Seated, arms at sides. Round shoulder forward protracting scapula fully. Return to retraction.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

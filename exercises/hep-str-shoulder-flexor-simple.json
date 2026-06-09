@@ -1,0 +1,21 @@
+{
+  "id": "C2666597-929B-4E18-ACB4-0B5D305032D1",
+  "goal": "Strengthening",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Shoulder Assisted Pendulum",
+  "instructions": "Lean forward resting uninvolved arm on surface. Let involved arm swing forward and back in small arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

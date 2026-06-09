@@ -1,0 +1,21 @@
+{
+  "id": "5E3A9285-5DA3-43A5-ACB0-BA5D76055ADD",
+  "goal": "Stretching",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Intrinsic Plus Stretch",
+  "instructions": "Hold MCP joints flat and flex PIP and DIP joints fully. Separates intrinsic from extrinsic stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

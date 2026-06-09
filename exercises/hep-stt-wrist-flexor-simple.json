@@ -1,0 +1,21 @@
+{
+  "id": "35A8A223-BE1E-4076-A386-290FE8B05D1B",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Wrist Extensor Stretch",
+  "instructions": "Extend arm, use other hand to gently flex wrist with fingers pointing down. Stretch on forearm top.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

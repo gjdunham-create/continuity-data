@@ -1,0 +1,21 @@
+{
+  "id": "C9B551E6-10FE-4AFE-8F6C-8E5D177B833B",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Abduction",
+  "difficulty": "Low",
+  "name": "Seated Toe Spreading AROM",
+  "instructions": "Seated barefoot. Spread all toes as wide as possible. Hold then relax together.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

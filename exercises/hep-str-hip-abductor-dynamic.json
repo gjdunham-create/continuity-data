@@ -1,0 +1,21 @@
+{
+  "id": "02D3C2C0-8C31-4EDB-806E-2B32931E4DFE",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Abduction",
+  "difficulty": "High",
+  "name": "Single-Leg Squat with Lateral Band",
+  "instructions": "Band above knees. Single-leg squat keeping knee in alignment and resisting band collapse inward.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

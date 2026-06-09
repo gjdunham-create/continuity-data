@@ -1,0 +1,21 @@
+{
+  "id": "0DC4B7AA-E22C-4D5A-B382-A2C2D5226ED0",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Long Arc Quad AROM",
+  "instructions": "Seated at edge of chair. Slowly straighten knee to full extension. Hold briefly and lower.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1D0F2E41-52E4-4995-A7EE-F3927EB16554",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Radial Deviation",
+  "difficulty": "High",
+  "name": "Radial Deviation CARs",
+  "instructions": "Move through maximum radial deviation. Arc into extension and return through neutral continuously.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

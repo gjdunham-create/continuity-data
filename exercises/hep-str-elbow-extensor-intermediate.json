@@ -1,0 +1,21 @@
+{
+  "id": "F225ECF3-86DA-4FA3-AF57-BF7CC95201BF",
+  "goal": "Strengthening",
+  "bodyPart": "Elbow",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Overhead Tricep Extension",
+  "instructions": "Hold weight overhead with both hands. Lower behind head bending elbows then extend back to start.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

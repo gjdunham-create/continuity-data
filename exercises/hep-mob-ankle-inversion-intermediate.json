@@ -1,0 +1,21 @@
+{
+  "id": "DA5CCB8A-5125-4C83-AB24-8D7BA8AC10DB",
+  "goal": "Mobilizing",
+  "bodyPart": "Ankle",
+  "movement": "Inversion",
+  "difficulty": "Medium",
+  "name": "Standing Ankle Inversion",
+  "instructions": "Stand with support. Lift outer edge of foot turning sole inward. Hold briefly and return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

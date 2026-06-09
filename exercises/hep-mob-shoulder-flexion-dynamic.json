@@ -1,0 +1,21 @@
+{
+  "id": "1B622520-A1F5-4F29-ABDA-B7BC3B2DB107",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Shoulder Flexion CARs",
+  "instructions": "Raise arm to maximum flexion. At end range, attempt to reach further into new range.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

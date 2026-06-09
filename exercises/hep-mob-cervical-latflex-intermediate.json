@@ -1,0 +1,21 @@
+{
+  "id": "D0AB1997-783C-4C69-9A12-DD70861055C9",
+  "goal": "Mobilizing",
+  "bodyPart": "Cervical Spine",
+  "movement": "Lateral Flexion",
+  "difficulty": "Medium",
+  "name": "Side-Lying Cervical Lateral Flexion",
+  "instructions": "Lie on side without pillow. Slowly lift head toward ceiling (lateral flexion away from surface).",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

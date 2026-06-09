@@ -1,0 +1,21 @@
+{
+  "id": "73C33497-56B4-40D4-9C21-DB448348FA88",
+  "goal": "Mobilizing",
+  "bodyPart": "Shoulder",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Shoulder Adduction CARs",
+  "instructions": "Sweep arm through full adduction arc from abduction to across midline in controlled motion.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

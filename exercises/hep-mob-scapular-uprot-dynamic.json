@@ -1,0 +1,21 @@
+{
+  "id": "1067A7B1-090C-487E-89AE-2BFF4387E7BC",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Upward Rotation",
+  "difficulty": "High",
+  "name": "Progressive Shoulder Elevation AROM",
+  "instructions": "Raise arm overhead. At end range, add slight traction reaching further. Move through full upward rotation.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "D29322CB-6300-413F-A5DB-A3602AEE2034",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "High",
+  "name": "Copenhagen Plank",
+  "instructions": "Side plank with top foot on elevated surface (chair). Hold body in straight line using inner thigh.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 20,
+    "max": 30
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

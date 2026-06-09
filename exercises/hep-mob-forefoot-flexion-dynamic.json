@@ -1,0 +1,21 @@
+{
+  "id": "16DEDAA5-55A1-476D-AEBF-3AA7DA6E447A",
+  "goal": "Mobilizing",
+  "bodyPart": "Forefoot",
+  "movement": "Flexion",
+  "difficulty": "High",
+  "name": "Dynamic Toe Flexion",
+  "instructions": "Standing barefoot. Alternate curling and releasing toes in sequence from great toe to small toe.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

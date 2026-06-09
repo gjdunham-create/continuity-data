@@ -1,0 +1,21 @@
+{
+  "id": "3D0D267E-5452-44B8-AA09-A9E580C384BC",
+  "goal": "Mobilizing",
+  "bodyPart": "Finger",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Finger Flexion AROM Full Fist",
+  "instructions": "Open hand fully spreading fingers. Slowly close into full fist through maximum range. Repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

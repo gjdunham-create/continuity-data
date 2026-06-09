@@ -1,0 +1,21 @@
+{
+  "id": "4DC1FBA4-0BE4-419F-8F62-91FA5A6B66AD",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "Low",
+  "name": "Wrist Radial Deviation Stretch",
+  "instructions": "Hold wrist and gently push hand toward thumb side (radial deviation) to stretch ulnar deviators.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

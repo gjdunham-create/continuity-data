@@ -1,0 +1,21 @@
+{
+  "id": "B596613D-2CB2-48E4-B2A4-21D26610F128",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Eversion",
+  "difficulty": "Medium",
+  "name": "Standing Tibialis Posterior Stretch",
+  "instructions": "Stand with foot turned outward (eversion). Hold surface for balance. Feel stretch along inner ankle.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

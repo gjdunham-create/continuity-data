@@ -1,0 +1,21 @@
+{
+  "id": "ACCF31CC-BC47-45F6-B864-47A7BDA2AD92",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Wrist Flexor Stretch",
+  "instructions": "Extend arm forward palm up. Use other hand to bend wrist back (extension) until forearm stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "B439DDCE-6E8B-4345-93B8-F1A81989D8C7",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Flexion",
+  "difficulty": "Medium",
+  "name": "Doorway Anterior Shoulder Stretch",
+  "instructions": "Stand in doorway, arm along frame. Step through rotating body away from arm until stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

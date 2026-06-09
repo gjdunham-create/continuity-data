@@ -1,0 +1,21 @@
+{
+  "id": "D4272FB2-496B-4402-BC8A-86104C8849F2",
+  "goal": "Strengthening",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Resisted Cervical Extension with Band",
+  "instructions": "Loop band around forehead anchored to wall. Extend neck back against band resistance. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

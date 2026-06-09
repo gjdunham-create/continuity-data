@@ -1,0 +1,21 @@
+{
+  "id": "FF36D1AE-8BBA-417C-A67C-A394100C3A1A",
+  "goal": "Mobilizing",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Rotation",
+  "difficulty": "Medium",
+  "name": "Seated Trunk Rotation AROM",
+  "instructions": "Seated tall. Rotate trunk to each side keeping pelvis still. Move through maximum range.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4C076E13-0E1A-4D7A-9132-FA38FBE90834",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Bulgarian Split Squat",
+  "instructions": "Rear foot elevated on chair. Lower front knee toward floor in controlled single-leg squat. Drive through heel.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 12
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

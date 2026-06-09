@@ -1,0 +1,21 @@
+{
+  "id": "E425A708-926E-4C77-A6F5-CBDEEA7CE552",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Downward Rotation",
+  "difficulty": "High",
+  "name": "Dynamic Scapular Downward Rotation",
+  "instructions": "From full overhead, lower arm along scapular plane through complete downward rotation arc.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

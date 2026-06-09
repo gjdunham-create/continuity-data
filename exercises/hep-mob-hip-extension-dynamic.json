@@ -1,0 +1,21 @@
+{
+  "id": "FCA6E439-CA8E-497A-9F15-80AC1652C34F",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Extension",
+  "difficulty": "High",
+  "name": "Hip Extension CARs",
+  "instructions": "Standing, drive hip into extension and arc through full posterior range. Control throughout.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 5,
+    "max": 8
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

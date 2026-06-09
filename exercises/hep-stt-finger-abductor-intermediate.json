@@ -1,0 +1,21 @@
+{
+  "id": "D9BA6C92-CA16-46A3-B3C1-B943A4B28B42",
+  "goal": "Stretching",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Lateral Finger Overpressure",
+  "instructions": "Hold one finger and use other hand to press adjacent fingers toward it. Hold gentle adduction stretch.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

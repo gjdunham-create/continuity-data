@@ -1,0 +1,21 @@
+{
+  "id": "90646519-7221-4373-BFFF-995A508CF8C9",
+  "goal": "Stretching",
+  "bodyPart": "Ankle",
+  "movement": "Dorsiflexion",
+  "difficulty": "Low",
+  "name": "Seated Gastroc Stretch",
+  "instructions": "Leg straight, loop towel around foot. Pull toes toward shin until stretch felt in calf.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

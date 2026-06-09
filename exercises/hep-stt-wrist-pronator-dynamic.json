@@ -1,0 +1,21 @@
+{
+  "id": "031CBBCB-4A43-40E0-92A7-05B16B51D6B4",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Pronation",
+  "difficulty": "High",
+  "name": "Progressive Supination Stretch with Wrist",
+  "instructions": "Combine full supination with wrist extension. Apply overpressure at both positions simultaneously.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 45
+  }
+}

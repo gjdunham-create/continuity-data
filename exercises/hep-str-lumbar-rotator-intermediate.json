@@ -1,0 +1,21 @@
+{
+  "id": "4FA702E7-F660-4370-983F-D80F37B68294",
+  "goal": "Strengthening",
+  "bodyPart": "Lumbar Spine",
+  "movement": "Rotation",
+  "difficulty": "Medium",
+  "name": "Pallof Press",
+  "instructions": "Band anchored to side at chest height. Press hands out and hold. Resist rotation. Return and repeat.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 3,
+    "max": 5
+  }
+}

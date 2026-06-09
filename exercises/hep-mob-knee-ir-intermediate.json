@@ -1,0 +1,21 @@
+{
+  "id": "C52C033F-54C1-4CB4-BEAF-9B51E80AB3D4",
+  "goal": "Mobilizing",
+  "bodyPart": "Knee",
+  "movement": "Internal Rotation",
+  "difficulty": "Medium",
+  "name": "Standing Tibial Internal Rotation",
+  "instructions": "Standing, slightly flex knee. Rotate lower leg inward (pigeon-toe). Use wall for balance.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

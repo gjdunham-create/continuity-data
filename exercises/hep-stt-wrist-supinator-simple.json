@@ -1,0 +1,21 @@
+{
+  "id": "901E3BED-7BD4-4B9E-8343-31FCA6E87271",
+  "goal": "Stretching",
+  "bodyPart": "Wrist",
+  "movement": "Supination",
+  "difficulty": "Low",
+  "name": "Passive Forearm Pronation Stretch",
+  "instructions": "Elbow at 90 degrees. Use opposite hand to gently guide forearm into full pronation. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

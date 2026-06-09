@@ -1,0 +1,21 @@
+{
+  "id": "A28ACDF0-3174-4320-A51F-A0D67205B523",
+  "goal": "Stretching",
+  "bodyPart": "Knee",
+  "movement": "Extension",
+  "difficulty": "Low",
+  "name": "Standing Quad Stretch",
+  "instructions": "Stand on one foot. Pull opposite ankle toward glute. Keep knees together. Hold.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 20,
+    "max": 30
+  }
+}

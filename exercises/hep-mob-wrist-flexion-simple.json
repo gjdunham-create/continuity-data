@@ -1,0 +1,21 @@
+{
+  "id": "8DA33E39-F827-4849-B110-87FE33B21EEF",
+  "goal": "Mobilizing",
+  "bodyPart": "Wrist",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Wrist Flexion AROM",
+  "instructions": "Elbow supported. Slowly flex wrist through full range. Return to neutral. Repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

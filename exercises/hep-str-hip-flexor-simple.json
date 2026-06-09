@@ -1,0 +1,21 @@
+{
+  "id": "99B3E431-F3D3-4FB5-8C60-5392C14A53E7",
+  "goal": "Strengthening",
+  "bodyPart": "Hip",
+  "movement": "Flexion",
+  "difficulty": "Low",
+  "name": "Seated Hip Flexion March",
+  "instructions": "Seated tall at edge of chair. Alternate lifting knees toward chest against gravity. Keep trunk upright.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5DD07757-19E5-4411-A58A-EE57D4D9672F",
+  "goal": "Stretching",
+  "bodyPart": "Shoulder",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Overhead Tricep and Shoulder Stretch",
+  "instructions": "Raise arm and bend elbow overhead. Use other hand to pull elbow back. Feel stretch at shoulder.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 3
+  },
+  "hold": {
+    "min": 30,
+    "max": 30
+  }
+}

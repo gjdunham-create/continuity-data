@@ -1,0 +1,21 @@
+{
+  "id": "4C93335A-238C-4015-A504-4E4B57A4F6DF",
+  "goal": "Stretching",
+  "bodyPart": "Cervical Spine",
+  "movement": "Extension",
+  "difficulty": "Medium",
+  "name": "Prone Cervical Press-Up Stretch",
+  "instructions": "Lie face down, hands under shoulders. Press up onto elbows allowing neck to gently extend back.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 3,
+    "max": 5
+  },
+  "hold": {
+    "min": 10,
+    "max": 20
+  }
+}

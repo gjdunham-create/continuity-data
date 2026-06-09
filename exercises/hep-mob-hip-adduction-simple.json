@@ -1,0 +1,21 @@
+{
+  "id": "3DF33EF7-57BA-4007-9FB9-118B2F507B21",
+  "goal": "Mobilizing",
+  "bodyPart": "Hip",
+  "movement": "Adduction",
+  "difficulty": "Low",
+  "name": "Supine Hip Adduction AROM",
+  "instructions": "Lie on back, leg raised. Cross leg over midline into adduction. Return to neutral. Repeat.",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 8,
+    "max": 10
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

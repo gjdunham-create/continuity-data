@@ -1,0 +1,21 @@
+{
+  "id": "3B2653BA-9DE1-46EB-AD1D-CFD1CD2528DC",
+  "goal": "Mobilizing",
+  "bodyPart": "Scapular",
+  "movement": "Depression",
+  "difficulty": "Medium",
+  "name": "Scapular Depression with Load",
+  "instructions": "Seated, hands on chair seat beside hips. Push through hands to depress and elevate body slightly.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}

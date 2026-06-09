@@ -1,0 +1,21 @@
+{
+  "id": "B86FEC30-A1B3-4844-B49C-4B386A7A6E60",
+  "goal": "Strengthening",
+  "bodyPart": "Wrist",
+  "movement": "Ulnar Deviation",
+  "difficulty": "Low",
+  "name": "Gravity-Assisted Ulnar Deviation",
+  "instructions": "Forearm on table thumb up, hand off edge. Allow wrist to drop (radial dev), then lift (ulnar dev).",
+  "sets": {
+    "min": 2,
+    "max": 3
+  },
+  "reps": {
+    "min": 12,
+    "max": 15
+  },
+  "hold": {
+    "min": 0,
+    "max": 0
+  }
+}

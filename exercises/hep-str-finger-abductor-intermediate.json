@@ -1,0 +1,21 @@
+{
+  "id": "FAE8E219-005C-4682-9DF2-EAEF2F63410A",
+  "goal": "Strengthening",
+  "bodyPart": "Finger",
+  "movement": "Abduction",
+  "difficulty": "Medium",
+  "name": "Band Finger Abduction",
+  "instructions": "Wrap rubber band around finger pairs. Spread against resistance through full range. Control return.",
+  "sets": {
+    "min": 3,
+    "max": 3
+  },
+  "reps": {
+    "min": 10,
+    "max": 12
+  },
+  "hold": {
+    "min": 2,
+    "max": 3
+  }
+}
